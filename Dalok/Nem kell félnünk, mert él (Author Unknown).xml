@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nem kell félnünk, mert él</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="127"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem kell félnünk, mert él a mi Urunk,<br/>él a mi Urunk, él a mi Urunk!<br/>Nem kell félnünk, mert él a mi Urunk, az urak Ura!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Látni fogják majd, mert él a mi Urunk,<br/>él a mi Urunk, él a mi Urunk!<br/>Látni fogják majd, mert él a mi Urunk, az urak Ura!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mennybe megyünk, mert él a mi Urunk,<br/>él a mi Urunk, él a mi Urunk!<br/>A mennybe megyünk, mert él a mi Urunk, az urak Ura!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ez az örömhír, mert él a mi Urunk,<br/>él a mi Urunk, él a mi Urunk!<br/>Ez az örömhír, mert él a mi Urunk, az urak Ura!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Szívem túlcsordul nagy örömében,<br/>mint forrásból élő víz fakad belőle,<br/>mikor látom Jézust és amit tett értem!<br/>Szívem túlcsordul nagy örömében!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>‖: Hála, hála Jézus, hála, hála Jézus,<br/>hála, hála Jézus az igéért! :‖<br/>‖: Hála, hála Jézus, hála, hála Jézus,<br/>hála, hála Jézus az életért! :‖</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jézussal járok minden napon,<br/>Jézussal élek mindenütt!<br/>Minden reggel, minden este,<br/>minden nappal, minden éjjel<br/>Jézussal vagyok együtt.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Szívem túlcsordul nagy örömében,<br/>mint forrásból élő víz fakad belőle,<br/>mikor látom Jézust és amit tett értem!<br/>Szívem túlcsordul nagy örömében!</lines>
+    </verse>
+  </lyrics>
+</song>

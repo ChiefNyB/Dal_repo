@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>Erősek mind az Ő végzései</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="704"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Erősek mind az Ő végzései;<br/>szilárdan állnak, igazak minden időkre.</lines>
+    </verse>
+  </lyrics>
+</song>

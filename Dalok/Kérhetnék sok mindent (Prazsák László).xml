@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Kérhetnék sok mindent</title>
+    </titles>
+    <authors>
+      <author>Prazsák László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kérhetnék sok mindent, de nem teszem<br/>A jelenléted szüntelen keresem<br/>Nálad megvan minden, ami kell nekem<br/>Kezem a kezedbe teszem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kereslek már éjjel és nappal,<br/>Kereslek már minden mozdulattal<br/>Végigsimítasz árnyékoddal<br/>Közelebbről szól a dal</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aki keres téged az megtalál<br/>Megragadod és akkor eléd áll,<br/>Attól kezdve mindig veled jár,<br/>Megnyílik a határ.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na, na, na....</lines>
+    </verse>
+  </lyrics>
+</song>

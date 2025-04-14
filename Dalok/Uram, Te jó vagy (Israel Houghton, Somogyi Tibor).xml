@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Uram, Te jó vagy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Israel Houghton</author>
+      <author>Somogyi Tibor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>║: Uram, Te jó vagy, és <br/>minden nap megtartasz engem! :║<br/>Minden nép, minden nyelv,<br/>minden nemzet,<br/>Nemzedék hirdeti nemzedéknek:<br/>║: Dicsőítünk! Halleluja! Halleluja<br/>Dicsőítünk, mert Te vagy az Úr! :║</lines>
+    </verse>
+  </lyrics>
+</song>

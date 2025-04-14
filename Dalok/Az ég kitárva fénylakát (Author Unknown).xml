@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:13">
+  <properties>
+    <titles>
+      <title>Az ég kitárva fénylakát</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="142"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az ég kitárva fénylakát<br/>Ma várja üdvünk asszonyát.<br/>Menj, és viseld a koronát,<br/>Mely vár öröktől fogva rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örvend az egész mennyország,<br/>Mert a legdicsőbb boldogság<br/>Lett a Szent Szűznek jutalma:<br/>Hervadhatatlan korona.</lines>
+    </verse>
+  </lyrics>
+</song>

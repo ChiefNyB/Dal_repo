@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Bárka - Jézus egyszer</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus egyszer megállt a parton<br/>várta azt, ki követi Őt az úton-<br/>Emberhalászként az isteni szóval</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő Jézus, lelkem mélyére láttál,<br/>szavad hallom, nevemet ejti szád.<br/>Nem kell immár, mit ér a régi bárkám.<br/>Veled élek, vár ránk az óceán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aranyom ezüstöm nincsen- <br/>Nézd hát két kezem,<br/>a szívemet adom Néked,<br/>Kész az én lelkem, szolgállak Téged.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Látom életem fontos Néked, <br/>lelkes, fiatal szívem reményed<br/>Könnyem, magányom és verítékem</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Végre, tengerre száll ma a bárkánk.<br/>halászni együtt a lelkek óceánján,<br/>hálónk az élet s az Igazság tartja</lines>
+    </verse>
+  </lyrics>
+</song>

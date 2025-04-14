@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:50">
+  <properties>
+    <titles>
+      <title>Stand in awe of you</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+      <author>KHOP</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord, I stand, stand in awe<br/>Awe of you, Jesus</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There is none, none like You,<br/>There is none, Jesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Itt állok, ámulok<br/>Terajtad, Jézus</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Nincsen más, más, csak Te<br/>Nincsen más, Jézus</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Otthonom lesz az Isten háza</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="31"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otthonom lesz az Isten háza<br/>* mindörökké, szünet nélkül.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áraszd ránk irgalmadat, Urunk,<br/>* hogy mindenkor ujjongjunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Úr megmutatta üdvösségét,<br/>* a nemzetek színe előtt.</lines>
+    </verse>
+  </lyrics>
+</song>

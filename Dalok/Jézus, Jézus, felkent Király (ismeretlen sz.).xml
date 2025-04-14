@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:32">
+  <properties>
+    <titles>
+      <title>Jézus, Jézus, felkent Király</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, Jézus,<br/>Felkent Király és fenséges, Jézus!<br/>Jézus, Jézus,<br/>Ott fenn lakó, dicsőséges, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Te neved méz az ínyemnek,<br/>Szavad igazgatja léptemet,<br/>Mint hűsítő víz a Te Szentlelked.<br/>Jézus, szívemből szeretlek.</lines>
+    </verse>
+  </lyrics>
+</song>

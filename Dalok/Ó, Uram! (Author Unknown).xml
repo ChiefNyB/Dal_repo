@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Ó, Uram!</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="342"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Uram, Néked zeng szavam, Téged áldalak, Ó, Uram!<br/>Ahová a kezed ér, gyümölcs sarjad, amit megérintesz, életre fakad.<br/>Ó, Uram, Néked zeng szavam, Téged áldalak, Ó, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

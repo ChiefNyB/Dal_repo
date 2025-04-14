@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:37">
+  <properties>
+    <titles>
+      <title>Kis házad</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kis házad, földi életed, ha te nem sziklára építed,<br/>Jön a szélvész és az áradat.<br/>Jajj, összedönti házadat!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kis házad, földi életed, ha te nem Jézusra építed,<br/>Jön a szélvész és az áradat.<br/>Jajj, összedönti házadat!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Mielőtt még megszülettem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="154"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mielőtt még megszülettem,<br/>úgy szerettél, Atyám, engem,<br/>hogy Egyszülötted adtad értem,<br/>mielőtt még megszülettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy mindaz, aki Őbenne hisz,<br/>soha többé ne vesszen el,<br/>hanem éljen Vele mindörökre,<br/>mindaz, aki Őbenne hisz!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soha nem ítélni jön Ő hozzám,<br/>nem azért küldte el Atyám,<br/>örök üdvösséget adott nekem,<br/>mielőtt még megszülettem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meghalt helyettem Jézus a kereszten,<br/>meghalt helyettem Jézus a kereszten!</lines>
+    </verse>
+  </lyrics>
+</song>

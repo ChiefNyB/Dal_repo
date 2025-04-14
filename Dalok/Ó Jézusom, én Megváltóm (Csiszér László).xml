@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó Jézusom, én Megváltóm</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Jézusom, én Megváltóm,<br/>Isten Fia, szabadítóm,<br/>ó, Jézusom, én gyógyítóm,<br/>minden bűnöm megbocsátod.<br/>Köszönöm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Jézusom, az életedet<br/>odaadtad s megkínoztak.<br/>Sebeidből a véred rám folyt,<br/>megtisztított, megszabadított.<br/>Köszönöm!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Jézusom, én megváltóm,<br/>Isten Fia, szabadítóm,<br/>ó, Jézusom, megmentettél,<br/>a haláltól, a pusztulásból.<br/>Köszönöm!</lines>
+    </verse>
+  </lyrics>
+</song>

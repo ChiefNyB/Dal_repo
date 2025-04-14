@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj Uram, jöjj el</title>
+      <title>Lord I need You</title>
+    </titles>
+    <authors>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Uram, jöjj el kérlek,<br/>nyugalmad nélkül félek.<br/>Nélküled üres vagyok,<br/>Veled együtt szívem ragyog.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Uram várlak, kérlek jöjj el,<br/>Bűneim töröld el;<br/>Oltalmazó, hű Istenem,<br/>Kérlek töltsd be szívem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha a bűn lehúz, kegyelmezel,<br/>Kezem fogod és átölelsz.<br/>Érzem már: szabad leszek,<br/>nyugalmat, békét lelek!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Uram várlak, kérlek jöjj el,<br/>Bűneim töröld el;<br/>Oltalmazó, hű Istenem,<br/>Kérlek töltsd be szívem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ha bűn nyomja is vállamat<br/>és a gonosz megkísért,<br/>ha el is esnék utamon:<br/>megpróbálom Jézusért!</lines>
+    </verse>
+  </lyrics>
+</song>

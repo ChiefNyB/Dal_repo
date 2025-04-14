@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:09">
+  <properties>
+    <titles>
+      <title>Áldom szent neved a mézzel</title>
+      <title>Blessed Be Your Name</title>
+    </titles>
+    <copyright>© 2002 Thankyou Music</copyright>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1</verseOrder>
+    <authors>
+      <author>Beth Redman</author>
+      <author>Matt Redman</author>
+      <author>Vass Timea</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András Énekfüzet" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldom Szent Neved a mézzel folyó földeken,<br/>hol nincs hiányom semmiben, áldom Nevedet!<br/>Áldom szent Neved, ha az út a pusztában vezet,<br/>a száraz, kietlen helyen, áldom Nevedet!</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Minden áldást dicséretté formál szívem,<br/>s ha körülzár a sötétség, azt mondom én: hogy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott legyen az Úr neve!<br/>Áldom nevedet!<br/>Áldott legyen az Úr neve!<br/>Áldott legyen hatalmas neve!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldom szent neved, ha éppen minden rendben megy,<br/>ha napfényes az életem, áldom nevedet!<br/>Áldom szent neved, a szenvedések útján is,<br/>bár könnyek között áldozom, áldom nevedet!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Te adsz és elveszel, Te adsz és elveszel!<br/>A szívem így felel: Áldom szent neved!</lines>
+    </verse>
+  </lyrics>
+</song>

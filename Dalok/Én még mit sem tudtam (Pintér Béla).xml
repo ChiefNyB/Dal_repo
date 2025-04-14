@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>Én még mit sem tudtam</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="149"/>
+      <songbook name="Zöld könyv" entry="430"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én még mit sem tudtam Rólad, <br/>Te már akkor szerettél,<br/>anyám méhétől fogva<br/>rám gondot viseltél.<br/>A magam útját jártam,<br/>mikor szelíden hívtál,<br/>a szívemre beszéltél,<br/>és megváltoztattál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, Te vagy minden álmom,<br/>éjszakám és nappalom,<br/>Te vagy igaz szó a számban,<br/>az én hajnalcsillagom.<br/>Jézus, Te vagy minden kincsem,<br/>sokat jelentesz nekem.<br/>Köszönöm, hogy minden nap<br/>megtart a kegyelem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Engedd meg, hogy mindig <br/>itt maradjak lábaid előtt,<br/>nézhesselek Téged<br/>és nyerjek új erőt.<br/>Meggyógyul a lelkem,<br/>megváltozik életem,<br/>ha jelenlétedben<br/>ruhádat megérinthetem.</lines>
+    </verse>
+  </lyrics>
+</song>

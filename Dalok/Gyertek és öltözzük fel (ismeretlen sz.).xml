@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Gyertek és öltözzük fel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>Gyertek és öltözzük fel a dicséret köntösét,<br/>A Te olajod áradjon ránk trónodról!<br/>Gyertek, és öltözzük fel a dicséret köntösét,<br/>A Te örömöd áztasson át, mint egy folyó!</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Minden száraz csont majd él,<br/>És újra táncol még,<br/>Ha a szomjas földre ér ez a folyó.<br/>Mint a szolgák, nézik épp uruk kezét.<br/>Mi is úgy várunk rég, mert csak Nálad jó.</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>End<br/>Halleluja, zengd halleluja,<br/>Annak, ki megtartja ígéretét!<br/>Halleluja, zengd, halleluja,<br/>Öltözzük fel hát dicséretét!</lines>
+    </verse>
+  </lyrics>
+</song>

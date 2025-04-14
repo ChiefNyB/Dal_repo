@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>En Uram, erősségem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Én Uram, erősségem, hozzád tartozom.<br/>Két kezem kinyújtom most az ég felé,<br/>Hálával áldozom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, mit adjak néked?<br/>Hogy köszönhetném meg mindazt, amit tettél?<br/>Úr Jézus, nincs szó a számban, hogy megháláljam,<br/>Hogy otthagytál mindent értem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bűnömért a büntetést te kaptad, Uram.<br/>Meghaltál, s véreddel lemostál,<br/>Minden szégyent rólam.</lines>
+    </verse>
+  </lyrics>
+</song>

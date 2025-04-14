@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Lásd meg világ</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lásd meg világ, érted jött el Jézus.<br/>Emeld fel hát szemedet<br/>És nyisd meg szívedet, vár ma téged.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lásd meg szent nép, eljön újra Jézus,<br/>Mikor egyek vagyunk<br/>Egy szívvel kiáltunk meghalgat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úr Istenünk és győztesek leszünk.<br/>Az Úr Istenünk és mindörökké élünk.<br/>Mert Ő testvérré tesz minket.<br/>És megáldja lépteinket.<br/>Örül rajtunk nagy örömmel,<br/>Megőriz hűségével.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lásd meg világ, érted jött el Jézus.<br/>Meghalt, feltámadott,<br/>Ő Urad, Megváltód, hív ma téged.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lásd meg szent nép, eljön újra Jézus,<br/>Tisztítsd meg újra ruhád<br/>Bátran állj minden próbát,<br/>Szolgáld őt amíg megláthatod arcát.</lines>
+    </verse>
+  </lyrics>
+</song>

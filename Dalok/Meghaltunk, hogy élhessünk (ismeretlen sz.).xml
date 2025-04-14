@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:40">
+  <properties>
+    <titles>
+      <title>Meghaltunk, hogy élhessünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meghaltunk, hogy élhessünk,<br/>Krisztus bennünk él.<br/>Általa lett az életünk<br/>Szabadság, s remény.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Feltámadt a halálból, <br/>Lelkét küldte el.<br/>Így járjuk az utunkat<br/>Vígan, örömmel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert benne élünk és így remélünk,<br/>Krisztus él bennünk, alleluja! /2x/</lines>
+    </verse>
+  </lyrics>
+</song>

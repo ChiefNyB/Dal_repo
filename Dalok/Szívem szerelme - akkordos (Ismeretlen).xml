@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szívem szerelme - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hm--------G---------------D-----------A------<br/>Ím eljöttél hát, hegycsúcsokon lépdelve hozzám.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hm-------G--------D--------------A4-A<br/>Rám találtál, Kedvesem és megragadtál</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>D---D2----D4-D-Hm---------------A-<br/>Szívem szerelme, jöjj hát, táncolj velem.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>G---------------D-<br/>Ez a dal neked szól!</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>D---D2----D4-D-Hm---------------A-<br/>Szívem Királya, jöjj hát és kápráztass el.</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>G---------------D-<br/>Ez a dal Rólad szól!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hm--------G---------------D-----------A-----<br/>Veled tartok, bárhová mész, szememnek fénye.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hm-------G--------D------------A4-A<br/>Virágillat száll, a hó és jég elolvadt már.</lines>
+    </verse>
+  </lyrics>
+</song>

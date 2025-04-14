@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Vidi aquam - tonus sollemnis</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Graduale Hungaricum" entry="514"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vidi aquam egredientem de templo,<br/>a latere dextro, alleluja;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>et omnes, ad quos pervenit aqua ista,<br/>salvi facti sunt et dicent, alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

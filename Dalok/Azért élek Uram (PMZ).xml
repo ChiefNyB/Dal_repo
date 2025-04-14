@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Azért élek Uram</title>
+    </titles>
+    <authors>
+      <author type="words">PMZ</author>
+      <author type="music">PMZ</author>
+    </authors>
+    <themes>
+      <theme>Dicsőítés</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Azért élek Uram, hogy imádjalak,<br/>És mindenkor, mindenért Téged áldjalak</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Azért élek Uram, hogy Veled legyek,<br/>És Téged dicsérjelek mindennel, amit teszek</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Neked őrzöm a szívem, Hogy oltárodra tehessem<br/>Az a vágyam, az a célom,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy az imádód lehessek,<br/>És gyönyörködj életemben</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mindent megtegyek, amit kérsz tőlem,<br/>És örömöt szerezzek Neked</lines>
+    </verse>
+  </lyrics>
+</song>

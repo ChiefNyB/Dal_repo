@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézus, Te vagy</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Te vagy Sáron legszebb rózsája Te vagy<br/>A völgyek legszebb virága Te vagy<br/>Neved édes, mint a méz.<br/>Jézus, Te vagy a békesség nagy fejedelme, Te vagy<br/>Az igazság szép hercege, Te vagy<br/>Neked hódol föld és ég.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy az út és Te vagy a cél,<br/>Ha sötétben járok mindig Te vagy a fény,<br/>Nagyszerű vagy, csodállak téged,<br/>Bennem minden csak rólad beszél.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Szereteted az egekig ér.<br/>Kegyelmedért imádlak én,<br/>Nagyszerű vagy, csodállak téged,							Bennem minden csak rólad beszél, Úr Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Te vagy minden élet forrása, Te vagy<br/>A családunk nagy királya, Te vagy.<br/>A trónszék egyedül Tiéd.<br/>Jézus, Te vagy lelkem hű pásztora, Te vagy.<br/>A betegségem orvosa Te vagy, rajtad kívül kihez mehetnék.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szentlélek jöjj, lobogó láng - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>F#m-------------------E-----E-----------C#m--H<br/>Szentlélek jöjj, lobogó láng, Szentlélek jöjj, a világ vár!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>F#m--------------------E-C#m------F#m<br/>Szentlélek jöjj, viharos szél, jöjj, áradj szét!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>A---------------E-C#m----------H----F#m<br/>Jöjj el élő vízforrás, jöjj a szívünk Téged vár!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A-----------------E----------C#m------------F#m<br/>Jöjj, ki fényt adsz lelkünknek, jöjj úgy vágyunk Rád!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A------------E------C#m---------H-----F#m<br/>Jöjj, igazság forrása, jöjj, imádunk mindnyájan,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A---------------E-----C#m------------F#m<br/>Jöjj, reményünk éleszd fel, jöjj kegyelmeddel!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>A--------------E-----------C#m--------H-----F#m<br/>Jöjj, a néped gyűjtsd egybe, jöjj az alvót ébreszd fel,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>A------------E------------C#m------F#m<br/>Jöjj, a bűntől tisztíts meg, bátoríts minket!</lines>
+    </verse>
+  </lyrics>
+</song>

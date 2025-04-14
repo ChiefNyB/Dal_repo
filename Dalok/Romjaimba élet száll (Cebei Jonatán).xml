@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:49">
+  <properties>
+    <titles>
+      <title>Romjaimba élet száll</title>
+    </titles>
+    <authors>
+      <author>Cebei Jonatán</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viharos szél dúl, ez a föld széthull, <br/>de velem vagy<br/>A világ elmúlik, de kegyelmedben<br/>lelkem szárnyal</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha Te vagy velem, tűz sem árthat nekem.<br/>Lelkem életre kel, ha Rád nézek.<br/>Kereszted alatt, elhagy minden kudarc<br/>A te szent kegyelmed fényében</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Romjaimba élet száll a Te neved hallatán<br/>hamvaimból felkelve megállok trónodnál<br/>Menedékre a lelkem a Te kezed közt talál<br/>Én mindig szeretlek, dalom szóljon Hozzád</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden porrá hull, de ígéreted a reményem<br/>Elhagy a bátorság, de erőt Belőled merítek</lines>
+    </verse>
+  </lyrics>
+</song>

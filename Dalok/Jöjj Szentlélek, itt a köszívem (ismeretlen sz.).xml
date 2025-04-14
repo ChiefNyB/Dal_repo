@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj Szentlélek, itt a köszívem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj Szentlélek, itt a kőszívem,<br/>jöjj öntözd meg, jöjj puhítsd meg!<br/>Gyere Szentlélek, erőm elfogyott,<br/>gyere élj bennem a Te erőddel.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó, Lélek, jöjj, szállj le ránk</title>
+    </titles>
+    <authors>
+      <author type="translation">Csiszér László</author>
+      <author type="translation">Kunszabó Zoltán</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="49"/>
+      <songbook name="Zöld könyv" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Lélek jöjj, szállj le ránk a rabságból emelj át,<br/>a vér alá, a tűz elé, az Istennek színe elé!<br/><br/>Ó, Tűz, ó, Láng, szent Vér, szállj le ránk, égjen már!</lines>
+    </verse>
+  </lyrics>
+</song>

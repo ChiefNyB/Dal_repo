@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:44">
+  <properties>
+    <titles>
+      <title>Nem engedsz el</title>
+    </titles>
+    <authors>
+      <author>Dobner Illés</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vagy a szívem királya. Tiéd mindenem.<br/>Minden helyzetben, sorsom kezedben, Istenem.<br/>Ha fájdalmak, könnyek, harcok jönnek, Tiéd vagyok.<br/>Ha sötét van fényed annál erősebben ragyog.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Segíts, hogy Rád nézzek, s nem arra mit érzek,<br/>vagy éppen milyen kedvem van!<br/>Segíts hitben járnom, Istenem barátom,<br/>Segíts Rád bíznom magam!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Méltó vagy rá, hogy érted éljek,<br/>És életemmel Rólad beszéljek.<br/>Méltó vagy rá, hogy bízzak Benned,<br/>Mert nem engedsz el, nem engedsz el,<br/>soha nem engedsz el.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy a szívem királya, Tiéd mindenem.<br/>Minden helyzetben, sorsom kezedben, Istenem.<br/>A vihar hevében Te őrzöd meg az életem.<br/>Szeretlek Téged, Te vagy erőm és énekem.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hűséges vagy őrző kezed nem enged el,<br/>Hűséges vagy vezetsz engem és védelmezel,<br/>Hűséges vagy megvigasztalsz és fegyelmezel.<br/>Nem engedsz el, nem engedsz el, soha nem engedsz el..</lines>
+    </verse>
+  </lyrics>
+</song>

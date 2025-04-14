@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szent vagy-meghajtom magam(Emmánuel)</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy szent vagy meghajtom magam Uram előtted.<br/>Halleluja, értem jöttél el, s minden újjá lett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Emmánuel, Jézus Krisztus, soha nem hagysz el.<br/>Hű pásztorom, Te vigyázol rám, Immánuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szerelmed a sötét éjszakán fényesen ragyog.<br/>Megszólítottál, nevemen hívtál, Uram itt vagyok.</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Szent vagy, szent vagy és fenséges. <br/>Nincs más Úr csak Te.</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>End<br/>Emmánuel, Emmánuel!</lines>
+    </verse>
+  </lyrics>
+</song>

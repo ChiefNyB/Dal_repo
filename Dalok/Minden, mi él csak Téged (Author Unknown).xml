@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Minden, mi él csak Téged</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="123"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden, mi él csak Téged hirdet,<br/>Minden dicsér, mert mind a műved.<br/>Azzal, hogy él ezt zengi Néked:<br/>„Dicsérlek én, dicsérlek Téged!”<br/>Dicsér az ég, nap, hold és csillagok,<br/>fény és sötét, nap, éj és hajnalok.<br/>Dicsér a szél, felhő és hóvihar,<br/>a víz, s a tűz megannyi tiszta dallal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden, mi él csak Téged hirdet,<br/>Minden dicsér, mert mind a műved.<br/>Azzal, hogy él ezt zengi Néked:<br/>„Dicsérlek én, dicsérlek Téged!”<br/>Dicsér a föld, dicséri szent Neved,<br/>mint jó anyánk táplál, s ad eledelt.<br/>Virág, gyümölcs, zöld fű, fa, hegyvidék,<br/>tó és folyó, síkság és büszke bérc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Minden, mi él csak Téged hirdet,<br/>Minden dicsér, mert mind a műved.<br/>Azzal, hogy él ezt zengi Néked:<br/>„Dicsérlek én, dicsérlek Téged!”<br/>A nagyvilág létével énekel,<br/>szavunkra vár, hogy hangja dal legyen.<br/>Zúgjuk tehát ég és föld énekét,<br/>Zengjük velük: Nagy Isten, áldott légy!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Minden, mi él csak Téged hirdet,<br/>Minden dicsér, mert mind a műved.<br/>Azzal, hogy él ezt zengi Néked:<br/>„Dicsérlek én, dicsérlek Téged! Dicsérlek én!”</lines>
+    </verse>
+  </lyrics>
+</song>

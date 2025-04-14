@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Egyházban, Egyházzal, Egyházért</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szentségimádás" entry="1"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az előimádkozott részre feleljük:<br/>Áldunk és imádunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az előimádkozott részre feleljük:<br/>Oltalmazd híveidet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az előimádkozott részre feleljük:<br/>Légy a mi vigasztalásunk!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az előimádkozott részre feleljük:<br/>Add, hogy igazak és szentek lehessünk!</lines>
+    </verse>
+  </lyrics>
+</song>

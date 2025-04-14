@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szól a gyenge</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szól  a gyenge: „hős vagyok”, a szegény nagy kincsre lel.<br/>Felkiált a vak, hogy lát, mert az Úr itt jár közel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozsanna, hozsanna, dicsőség az Úrnak!<br/>Hozsanna, hozsanna, a feltámadt Báránynak!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fólyóvíz elborít. Minden bűnöm mélybe száll.<br/>És a mennyből új jövő, örök béke árad rám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mert az Úr szava erős, irgalma nem múlik el.<br/>Az út végén vár reám, és gyengéden átölel.</lines>
+    </verse>
+  </lyrics>
+</song>

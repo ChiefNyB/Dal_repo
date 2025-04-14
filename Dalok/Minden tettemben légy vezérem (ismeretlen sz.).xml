@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Minden tettemben légy vezérem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden tettemben légy vezérem,<br/>Te vagy az élet, Jézus!<br/>Benned élek, benned lélegzem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Minden lépésemmel dicsérlek,<br/>Te vagy az Úr, Jézus!<br/>Benned élek, benned lélegzem.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Elrejtőzni nem tudok,<br/>Arcod látom, bárhová futok.<br/>Nincs semmi érdemem,<br/>Miért törődsz velem, nem érthetem?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Na-na-na..., Hej!</lines>
+    </verse>
+  </lyrics>
+</song>

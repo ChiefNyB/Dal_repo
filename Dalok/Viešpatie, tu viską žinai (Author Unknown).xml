@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Viešpatie, tu viską žinai</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="66"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viešpatie, tu viską žinai.<br/>Tu žinai, kad tave myliu. O…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindent tudsz, Uram, tudod jól,<br/>tudod jól azt, hogy szeretlek. Ó…</lines>
+    </verse>
+  </lyrics>
+</song>

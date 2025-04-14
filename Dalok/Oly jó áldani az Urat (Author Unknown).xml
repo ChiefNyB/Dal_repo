@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Oly jó áldani az Urat</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="141"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Oly jó áldani az Urat,<br/>ujjongóan jó Istennek zengeni zsoltárokat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Már kora reggelen jóságát,<br/>és éjszakákon át hirdetem szüntelen nagy irgalmát.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pengő hangszeren, lantokon,<br/>ujjongóan jó Istennek zengeni hálaszót.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az öröm hangjai szóljanak,<br/>gitár húrjain magasztalom ujjongva csodáidat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uram jó voltál énhozzám,<br/>életemben nagy dolgokat műveltél sok év során.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sziklám, oltalmam Te voltál,<br/>oly irgalmasan jó, gondoskodó Istenem, égi Atyám.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hála, dicsőség Nevednek,<br/>most és örökké az égen, a földön. Amen!</lines>
+    </verse>
+  </lyrics>
+</song>

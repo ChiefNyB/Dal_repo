@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj hozzám</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="290"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj hozzám, légy velem, örök békéd, békéd add nekem! ×2<br/>Szeretetre vágyom, kell egy hű barát, aki velem van és nem hagy el a nehéz napokon át. Ne félj hát! Ő megsegít, figyeljed szavát, tedd kezébe életed, s a békét add tovább!</lines>
+    </verse>
+  </lyrics>
+</song>

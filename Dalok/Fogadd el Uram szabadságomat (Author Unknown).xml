@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:23">
+  <properties>
+    <titles>
+      <title>Fogadd el Uram szabadságomat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Fogadd el Uram szabadságomat, fogadd egészen!<br/>Vedd értelmemet és vedd akaratomat, emlékezésem! :‖<br/>‖: Mindazt amim van és ami vagyok, Te adtad ingyen.<br/>Én visszaadok, Uram, visszaadok egyszerre mindent. :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Legyen fölöttünk korláttalan úr rendelkezésed!<br/>Csak egyet hagyj meg ajándékul: szeretnem Téged. :‖<br/>‖: Csak a szeretet maradjon enyém a kegyelemmel,<br/>és minden, de minden gazdagság enyém, más semmi sem kell. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

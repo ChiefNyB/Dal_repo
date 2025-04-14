@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Az Úrnak Lelke legyen rajtam</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="28"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úrnak Lelke legyen rajtam, jöjjön, aki szomjazik, vegye el az életét!<br/>Az Úr az, aki fölkent engem, Ő ad szabadságot, fényt a sötétben élőknek.<br/>‖: Amen, amen, a-amen, jöjjön el az országod! :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az éjnek ideje már elszállt, eljött a világosság, a hajnalt hirdetjük már.<br/>Az Úr az, aki eljön értem, Ő visz el magával az örök dicsőségbe.<br/>‖: Amen, amen, a-amen, jöjjön el az országod! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

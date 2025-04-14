@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:22">
+  <properties>
+    <titles>
+      <title>Felséges Úr Szelleme</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Felséges Úr Szelleme, jöjjön el jelenléted.<br/>És küldd az élő Úr dicsőségét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjjön el a Mennyből dicsőséged,<br/>Járjon át az Élő Víz<br/>Uralkodj rajtunk teljes igazsággal<br/>Töltsön el dicsőséged<br/>Töltsön el jelenléted.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nem várjuk karod<br/>Csak hadd lássuk arcod.<br/>Ismerni téged<br/>Szemlélni fényed<br/>Mely árasztja dicsőséged.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Uram, neked adom szívem - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>-Am---G---------------C<br/>Uram, neked adom szívem,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>------Dm-----------E4-E<br/>Szerelmed legyőz engem,</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>---F------------------Em<br/>Uram szeretem kereszted,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>--Dm----------E4-E<br/>Uram szívedben élek.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>------------F-----------Em<br/>Minden madár otthonra talál,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>----------Dm----------Em<br/>Fészkébe rejti a fecske fiát.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>------------F----------------------Em<br/>Boldog vagyok, hogy benned lakhatom,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>-----Dm--------------Am<br/>A szívem ujjong Tebenned!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>--------------F-----------------Em<br/>Könnyek völgyén, ha vándorolok én,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>------Dm-----------------Em<br/>Az bővizű források völgye lesz.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>------------F-----------------Em<br/>Megyek tovább, egyre följebb már,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>-------Dm-------------Am<br/>Míg Sionon arcod felragyog.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>----------F------------------Em<br/>Választottam, jobb nálad egy nap,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>---------Dm-----------Em<br/>Mint ezer nap Tetőled távol.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>-------F---------------Em<br/>Egek Ura, bízom Tebenned,</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>-----Dm-----------Am<br/>Szeretem a Te házadat!</lines>
+    </verse>
+  </lyrics>
+</song>

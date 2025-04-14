@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:40">
+  <properties>
+    <titles>
+      <title>Megdicsőüt Úr</title>
+    </titles>
+    <authors>
+      <author type="words">Ararat Worship</author>
+      <author type="music">Ararat Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Angyalok vének áldanak<br/>A szentek zúgják: ég és Föld Királya vagy<br/>Néped trónod elé borul<br/>Köszöntünk Téged<br/>Köszöntünk Téged<br/>Köszöntünk, megdicsőült Úr</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:40">
+  <properties>
+    <titles>
+      <title>Máriát dícsérni, hívek</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="m16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máriát dícsérni, hívek jöjjetek!<br/>Mert Ő fogja kérni Fiát értetek.<br/>Üdvöz légy, Mária, mondja minden hív,<br/>Áldott légy, Mária, mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ha értünk Mária Fiát kérleli,<br/>Kérését szent Fia meg nem vetheti.<br/>Üdvöz légy, Mária, mondja minden hív,<br/>Áldott légy, Mária, mondja nyelv és szív.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utolsó órámban segélj engemet,<br/>Az örök hazába segítsd lelkemet.<br/>Üdvöz légy, Mária, mondja minden hív,<br/>Áldott légy, Mária, mondja nyelv és szív.</lines>
+    </verse>
+  </lyrics>
+</song>

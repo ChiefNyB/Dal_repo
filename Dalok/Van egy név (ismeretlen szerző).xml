@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:57">
+  <properties>
+    <titles>
+      <title>Van egy név</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="180"/>
+      <songbook name="Kék könyv" entry="229"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy név minden egyéb név felett.<br/>A názáreti Jézus szent neve.<br/>Én Őt magasztalom, Róla szól az én dalom.<br/>Van egy név minden egyéb név felett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ma is van számodra menekülés.<br/>A bűnből csak a halálba mész.<br/>Jézus hozta el neked az örök életet.<br/>Ma is van számodra menekülés.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ma is van számodra újulás.<br/>Csalódott szívednek gyógyulás.<br/>Mert fenn a Golgotán minden elvégeztetett.<br/>Ma is van számodra újulás.</lines>
+    </verse>
+  </lyrics>
+</song>

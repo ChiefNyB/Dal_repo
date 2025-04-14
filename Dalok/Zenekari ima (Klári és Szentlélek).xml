@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Zenekari ima</title>
+      <title>A kiolthatatlan dicsőítő</title>
+    </titles>
+    <authors>
+      <author>Klári és Szentlélek</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, Jézus nevében imádkozunk,<br/>hogy erősíts meg minket elhívásunkban:<br/>hadd legyünk a Te kiolthatalan<br/>dicsőítőid, fáklyahordozóid,<br/>akik elviszik jelenlétedet mindenhová!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérünk Téged, hogy kegyelmed és <br/>hűséged szerint, a Te neved<br/>dicsőségére add meg nekünk,<br/>szolgáidnak, hogy teljes bátorsággal<br/>hirdessük szavadat,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>és szolgálataink közben is nyújtsd <br/>ki kezed, hogy gyógyulások menjenek végbe,<br/>jelek és csodák történjenek Jézus nevében!<br/>Ma is használj minket a Te<br/>hangszeredként!  Amen</lines>
+    </verse>
+  </lyrics>
+</song>

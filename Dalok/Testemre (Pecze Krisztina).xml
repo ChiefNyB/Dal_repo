@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Testemre</title>
+    </titles>
+    <authors>
+      <author>Pecze Krisztina</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Testemre lelkemre szent tüzed száll<br/>Égess meg égess meg oltárodnál<br/>Lényem már Tiéd</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Testemre lelkemre szent tüzed száll<br/>Égess meg tisztíts meg oltárodnál<br/>Lényem már Tiéd</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Testemre lelkemre szent tüzed száll<br/>Égess meg szentelj meg oltárodnál<br/>Lényem már Tiéd</lines>
+    </verse>
+  </lyrics>
+</song>

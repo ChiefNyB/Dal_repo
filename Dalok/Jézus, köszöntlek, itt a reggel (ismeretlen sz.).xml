@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:32">
+  <properties>
+    <titles>
+      <title>Jézus, köszöntlek, itt a reggel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, köszöntlek, itt a reggel, a Nap benéz az ablakomon.<br/>Jézus, köszöntlek, itt a reggel, légy velem ezen a mai napon!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ahogy a Nap ragyogja fényed vissza, s a madarak énekelnek,<br/>úgy ragyogjak és daloljak Rólad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, köszöntlek, itt a reggel, ahogy Te köszöntesz kedvesen.<br/>Mert fényed kiárad minden helyre, s szereteted átölel.</lines>
+    </verse>
+  </lyrics>
+</song>

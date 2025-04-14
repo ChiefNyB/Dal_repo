@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:18">
+  <properties>
+    <titles>
+      <title>Dicsőség</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Kecskés Laci</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőség az Atyának, dicsőség a Fiúnak,<br/>Dicsőség a Szentléleknek, egy Istennek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldunk Téged, dicsőség Néked,<br/>Imádunk Téged, Mindenható<br/>Magasztalunk Téged, hála Néked,<br/>Örök Isten, mennyei Király</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Urunk, Jézus Krisztus, egyszülött Fiú,<br/>Urunk és Istenünk, egyetlen Megváltó,<br/>A Szentlélekkel együtt, Te vagy az egyetlen Úr,<br/>az egyetlen Szabadító!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Álleluja Álleluja</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dicsőség az Atyának, dicsőség a Fiúnak,<br/>Dicsőség a Szentléleknek, egy Istennek!<br/>Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

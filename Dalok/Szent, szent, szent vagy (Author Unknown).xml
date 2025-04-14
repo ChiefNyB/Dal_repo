@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szent, szent, szent vagy</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="255C"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent, szent, szent vagy, mindenség Ura, Istene!<br/>Dicsőséged betölti a Mennyet és a Földet!<br/>‖: Hozsanna - a magasságban!<br/>Áldott, ki az Úr nevében jő!<br/>Hozsanna - a magasságban! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

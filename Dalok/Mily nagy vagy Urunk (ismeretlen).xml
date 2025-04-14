@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Mily nagy vagy Urunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ő tündöklő Király, fénye ragyog ránk,<br/>Hadd örvendjen a Föld, örvendjen a Föld!<br/>Ő fényben lakozik, a sötét eltűnik,<br/>Hangjára megremeg, ha szól, az megremeg.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mily nagy vagy, Urunk,<br/>Énekeljük: nagy vagy, Urunk!<br/>Mind meglátjuk, nagy,<br/>Mily nagy vagy, Urunk!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Örökké létező, kezében az idő,<br/>A kezdet és a vég, a kezdet és a vég,<br/>Az egyetlen Isten, ki Atya, Fiú s lélek,<br/>A megölt Bárány, a győztes Oroszlán.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Méltó nagy neved,<br/>Minden név felett,<br/>A szívünk áld,<br/>Mily nagy vagy, Urunk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halleluja, halleluja, halleluja<br/>Ő az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

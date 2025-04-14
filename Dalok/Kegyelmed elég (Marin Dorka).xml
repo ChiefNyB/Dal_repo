@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kegyelmed elég</title>
+    </titles>
+    <authors>
+      <author>Marin Dorka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kegyelmed elég, kegyelmed elég, kegyelmed elég nekem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mert a Te erőd az én gyengeségemben, ott lesz teljessé.<br/>Mert a Te erőd az én gyengeségemben, ott lesz teljessé.</lines>
+    </verse>
+  </lyrics>
+</song>

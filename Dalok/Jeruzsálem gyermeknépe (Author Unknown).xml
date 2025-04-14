@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:31">
+  <properties>
+    <titles>
+      <title>Jeruzsálem gyermeknépe</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="804"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeruzsálem gyermeknépe<br/>leterítetvén ruháit az útra,<br/>nagy szóval így kiáltott:<br/>Hozsanna Dávid Fiának,<br/>áldott, ki jő az Úr nevében!</lines>
+    </verse>
+  </lyrics>
+</song>

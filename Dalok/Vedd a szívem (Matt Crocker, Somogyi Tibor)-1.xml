@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:57">
+  <properties>
+    <titles>
+      <title>Vedd a szívem</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Matt Crocker</author>
+      <author>Somogyi Tibor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljöttem,<br/>hogy meghajtsam térdemet.<br/>Tiéd vagyok! Tiéd vagyok!<br/>Várj most rám, ölelj át,<br/>vágyom Rád!<br/>Éhezem Rád! Éhezem Rád!<br/>Vedd a szívem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Irgalmad, kegyelmed járjon át!<br/>Szomjazom Rád!<br/>Szomjazom Rád!<br/>Kitárt karral, könnyek<br/>közt áldalak!<br/>Szólj most hozzám!<br/>Szólj most hozzám!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>║: Vedd a szívem! Vedd a szívem!<br/>Vágyom Rád még jobban!<br/>Vágyom Rád még jobban! :║</lines>
+    </verse>
+    <verse name="b1">
+      <lines>:║ Mint egy zúgó szél,<br/>Jézus bennem él!<br/>Uram Tiéd, Uram, Tiéd minden!<br/>Mint egy nagy vihar,<br/>Jézus felkavar!<br/>Uram Tiéd, Uram, Tiéd minden! :║</lines>
+    </verse>
+  </lyrics>
+</song>

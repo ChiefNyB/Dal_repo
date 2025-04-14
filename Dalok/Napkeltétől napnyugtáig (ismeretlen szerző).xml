@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:44">
+  <properties>
+    <titles>
+      <title>Napkeltétől napnyugtáig</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="130"/>
+      <songbook name="Kék könyv" entry="167"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Napkeltétől napnyugtáig<br/>áldjuk, dicsérjük<br/>az Úr nevét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott az Úr,<br/>teljes szívből szolgáljátok Őt!<br/>Dicsérjétek szent nevét!<br/>Nagy örömmel dicsérjétek az Úr nevét,<br/>most és mindörökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Együtt áldjuk őt - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D-Dmaj-D6-Dmaj<br/>Együtt áldjuk Őt,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>D-Dmaj-D6-Dmaj<br/>Együtt imádjuk Őt,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Em9-----------H2<br/>Nincs Isten csak Ő</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>D--Dmaj--D6-Dmaj<br/>Együtt magasztaljuk Őt,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>D-Dmaj-D6-Dmaj<br/>Együtt dícsérjük Őt,</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>G------------------G6/E-H2<br/>Mert nincs más Isten csak Ő</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>D-Dmaj-D6-Dmaj<br/>Ő a Megváltó,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>D-Dmaj-D6-Dmaj<br/>Ő a Szabadító,</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Em9/E-F#-G-A---------H2<br/>Nincs más Üdvözítő, csak Ő</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>D-Dmaj-D6-Dmaj<br/>Ő a gyógyító,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>D--Dmaj--D6-Dmaj<br/>Bűneinket megbocsátó,</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Em9/E-F#-G-A---------H2<br/>Nincs más Üdvözítő, csak Ő</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>G--------------A----H2--A<br/>Jézus Krisztus az Úr áldjuk Őt</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Em--EmF#---G--A--H2-A/C#<br/>Jézus Krisztus az Úr imádjuk Őt</lines>
+    </verse>
+  </lyrics>
+</song>

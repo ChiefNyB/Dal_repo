@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Mise XIII.  Szent Vendel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Vendel, Isten szolgája, pásztor életnek példája,<br/>Vadon szülötte s nevelte, szelíd bárány,<br/>Csodánk lettél a mezőnek zöld oltárán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kihajtottál a mezőre, a virágos legelőre,<br/>Midőn a nyáj földön legelt, te az égen,<br/>eljegyezett, mert megkegyelt az ég régen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pásztor élet gyarlóságát, nem ismeréd gonoszságát,<br/>Ámbár ezernyi sorsosod dűl a bűnnek,<br/>Te lábait könnyel mosod az Istennek</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent szemed rólunk ne vedd el, könyörgésünket fogadd el,<br/>Kérd az Istent, hogy tartsa meg karjainkat,<br/>bár esztelen, de bűntelen barmainkat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ha ver az Úr ostorokkal, engeszteld meg tárt karokkal,<br/>Kapcsold össze szent kezeid kezeinkkel,<br/>Mutasd be szent kérésed kéréseinkkel!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jőjj e gyászos legelőre, kísérj a nagy delelőre,<br/>Segíts közbenjárásoddal, míg fölérünk,<br/>Jutalmazz meg áldásoddal, melyet kérünk!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:17">
+  <properties>
+    <titles>
+      <title>Dicsérettel jövünk eléd</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Prazsák László</author>
+      <author type="music">Prazsák László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="85"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérettel jövünk eléd,<br/>teljes lényünk legyen Tiéd,<br/>átadjuk most testünket,<br/>mozgass meg bennünket, Uram!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gyönyörködünk szépségedben,<br/>ugrándozunk nagy örömmel,<br/>kézzel, lábbal dicsérünk,<br/>nagyon jó, mit érzünk, Uram!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vágyódunk jelenlétedbe!<br/>Vágyódunk érintésedre!<br/>Vágyódunk dicsőségedbe!<br/>Vágyódunk Atyánk kertjébe!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Ott a Via Dolorosán</title>
+      <title>Via Dolorosa</title>
+    </titles>
+    <copyright>© 1983 Word Music, LLC, Meadowgreen Music Company</copyright>
+    <verseOrder>v1 v2 c1 v3 c1 e1</verseOrder>
+    <authors>
+      <author type="words">Billy Spague</author>
+      <author type="music">Billy Spague</author>
+      <author type="words">Niles Borop</author>
+      <author type="music">Niles Borop</author>
+      <author type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="43"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ott a Via Dolorosán, Jeruzsálem utcáján, ahol Megváltóm a Golgotára ment, tolongott a tömeg, s pribékek vonszolták a vesztőhelyre.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Háta ütésektől vérzett, fején töviskorona, minden lépés újabb kín és fájdalom. A világ összes bűne nyomta vállát a kereszt súlya alatt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ott a Via Dolorosán, a szenvedésnek útján, ott járt némán s győztesen a Bárány, felvette a keresztet szeretett téged s engem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ott a Via Dolorosán hordozta a bűnünket.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>S a tisztító vér, az engesztelés<br/>Jeruzsálem szívén át árad felénk.</lines>
+    </verse>
+  </lyrics>
+</song>

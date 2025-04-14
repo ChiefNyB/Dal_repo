@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:26">
+  <properties>
+    <titles>
+      <title>Hívlak, Uram, mert</title>
+      <title>I Need You More</title>
+    </titles>
+    <copyright>© 1996 Integrity's Hosanna! Music, Centergy Music</copyright>
+    <verseOrder>c1 v1 b1</verseOrder>
+    <authors>
+      <author type="words">Bruce Haynes</author>
+      <author type="music">Bruce Haynes</author>
+      <author type="words">Lindell Cooley</author>
+      <author type="music">Lindell Cooley</author>
+      <author type="translation">Varga Eszter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="129"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hívlak, Uram, mert szükségem van Rád,<br/>hogy többet adj magadból, Atyám!<br/>Hívlak, Uram, halld meg szavam,<br/>küldd Lelkedet, ki többet ad!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Többet a szavaknál, többet a dalomnál,<br/>a szív dobbanásánál, többet adj, Uram!<br/>Bár nem tudom, mi vár rám, de szívem már készen áll,<br/>hiszen új életre hívtál, s ez visz tovább!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mutass mindig utat, merre menjek tovább,<br/>ott, hol megtört szívem végre otthont talál,<br/>ahol Te vársz rám, Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

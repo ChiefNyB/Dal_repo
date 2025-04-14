@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:06">
+  <properties>
+    <titles>
+      <title>A föld, amelyre</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="44"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A föld, amelyre lábad lép,<br/>réges-régen a tied,<br/>mert én adtam azt neked.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nem illetheti az ellenség,<br/>nem lesz sohasem idegené.<br/>Nem lakhat ott csak az a nép,<br/>akié a szövetség.</lines>
+    </verse>
+  </lyrics>
+</song>

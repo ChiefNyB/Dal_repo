@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jó Atyám imádlak, leteszem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="95"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó Atyám imádlak, leteszem életem. Úgy szeretlek!<br/>Úr Jézus imádlak, leteszem életem. Úgy szeretlek!<br/>Szentlélek, úgy várlak, leteszem életem. Úgy szeretlek!</lines>
+    </verse>
+  </lyrics>
+</song>

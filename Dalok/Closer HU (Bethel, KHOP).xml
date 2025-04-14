@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:16">
+  <properties>
+    <titles>
+      <title>Closer HU</title>
+      <title>Pull me a little closer</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+      <author>KHOP</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love has ravished my heart<br/>And taken me over, taken me over<br/>And all I want is to be<br/>With You forever, with You forever<br/><br/><tag name="y">Szerelmed rabul ejtette szívemet<br/>És legyőzött engem, legyőzött engem<br/>S mindaz, mit akarok, hogy legyek<br/>Veled örökké, veled örökké</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Pull me a little closer<br/>Take me a little deeper<br/>I want to know Your heart<br/>I want to know Your heart<br/><br/><tag name="y">Vonj kicsit közelebb<br/>Vigyél kicsit mélyebbre<br/>Ismerni akarom szívedet<br/>Ismerni akarom szívedet</tag></lines>
+      <lines>`Cause Your love is so much sweeter<br/>Than anything I’ve tasted<br/>I want to know Your heart<br/>I want to know Your heart<br/><br/><tag name="y">Mer' szerelmed sokkal édesebb<br/>Mint bármi, mit ízleltem<br/>Ismerni akarom szívedet<br/>Ismerni akarom szívedet</tag></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Whoa, whoa, how great Your love is for me<br/>Whoa, whoa, how great is Your love<br/><br/><tag name="y">Ó-ó, ó-ó, mily nagy szerelmed irántam<br/>Ó-ó, ó-ó, mily nagy szerelmed</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional">Pull me a little closer<br/>Take me a little deeper<br/>I want to know Your heart<br/>I want to know Your heart<br/><br/><tag name="y">Vonj kicsit közelebb<br/>Vigyél kicsit mélyebbre<br/>Ismerni akarom szívedet<br/>Ismerni akarom szívedet</tag></lines>
+      <lines>Your love is so much stronger<br/>Than anything I’ve faced and<br/>I want to know Your heart<br/>I want to know Your heart<br/><br/><tag name="y">Mer' szerelmed sokkal erősebb<br/>Mint bármi, mivel szembesültem<br/>Ismerni akarom szívedet<br/>Ismerni akarom szívedet</tag></lines>
+    </verse>
+  </lyrics>
+</song>

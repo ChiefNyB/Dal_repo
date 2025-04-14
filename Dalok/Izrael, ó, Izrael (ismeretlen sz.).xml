@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:31">
+  <properties>
+    <titles>
+      <title>Izrael, ó, Izrael</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Izrael, ó, Izrael, <br/>Jákob sarja Izrael,<br/>Isten népe, Izrael,<br/>A te Megváltód nem hagy el.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Elhívott a népek közül,<br/>Kiválasztott szövetségesül.<br/>Elplántált az ígéret földjén,<br/>Elrejtett sátra rejtekén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Győzelmet győzelemre adott,<br/>Szerzett néked gazdagságot.<br/>Összegyűjtött a Föld széléről,<br/>Mert Igéje beteljesült.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elhagyhatnak a nemzetek,<br/>De az Úr buzgón szeret.<br/>Őriz téged erős keze,<br/>Meglátod Őt, s örvendezel.</lines>
+    </verse>
+  </lyrics>
+</song>

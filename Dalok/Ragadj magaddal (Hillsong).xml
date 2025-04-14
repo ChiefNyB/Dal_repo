@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:49">
+  <properties>
+    <titles>
+      <title>Ragadj magaddal</title>
+      <title>Kiválasztottál új szívet adtál</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kiválasztottál, új szívet adtál,<br/>Ismertesd meg velem útjaidat!<br/>Vezess engem Szentlelked által,<br/>Hogy hirdethessem nagy Nevedet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ragadj magaddal, minden nap, úgy kérlek,<br/>Emelj fel szent trónod elé,<br/>Hadd lakhassam házadban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oltalmam vagy, pajzsom és váram,<br/>Te tartasz meg, tudom közel vagy,<br/>Minden utam kezedben tartod<br/>Maradj velem, légy mindig enyém!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Vezess drága Szentlélek<br/>Az igazság ösvényére, hadd legyek fény!</lines>
+    </verse>
+  </lyrics>
+</song>

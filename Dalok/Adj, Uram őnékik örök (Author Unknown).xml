@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:08">
+  <properties>
+    <titles>
+      <title>Adj, Uram őnékik örök</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="687"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Uram őnékik örök nyugodalmat,<br/>és az örökkévaló világosság fényeskedjék néki(k)!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallgasd meg, Uram imádságomat,<br/>minden test Hozzád mégyen.</lines>
+    </verse>
+  </lyrics>
+</song>

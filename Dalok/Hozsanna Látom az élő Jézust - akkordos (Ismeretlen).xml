@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:27">
+  <properties>
+    <titles>
+      <title>Hozsanna Látom az élő Jézust - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>E--------------------C#m--------------<br/>Látom az élő Jézust, tűzfelhőben visszatér,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>-------F#m----------H---C#m<br/>hódol majd a mindenség! Ő él!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>E----------------------C#m------------<br/>Látom örök kegyelmét, elmossa  a vétkeink.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>--E/G#--A---H---C#m----A--------C#m--H<br/>Hozsanna, hozsanna, jöjj, Megváltó Királyunk!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>E/G#--A------H----C#m--A-------H-C#m-/2E/<br/>Hozsanna, hozsanna, jöjj, Megváltó Királyunk!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>E---------------------------C#m--------------<br/>Látok egy nemzedéket, kik tudják, mi az elhívás</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>-------F#m----------H---C#m<br/>egy szent népet, mely hitben jár,</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>E------------------------------C#m------------<br/>Egy nép mely minden harcát térden állva vívja meg,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>E----------------C#m-------<br/>ébredést kér és győztes lesz!</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Teremts bennem új szívet,</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>hogy lássam, amit Te, nyisd meg szemeimet,</lines>
+    </verse>
+    <verse name="o1c">
+      <lines>hadd szeressek úgy mint Te szerettél!</lines>
+    </verse>
+    <verse name="o1d">
+      <lines>Fájjon az, mi neked fáj,</lines>
+    </verse>
+    <verse name="o1e">
+      <lines>hogy elvégezzem azt, amire elhívtál,</lines>
+    </verse>
+    <verse name="o1f">
+      <lines>hogy készen álljak végül majd, Előtted.</lines>
+    </verse>
+  </lyrics>
+</song>

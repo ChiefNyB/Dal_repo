@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:17">
+  <properties>
+    <titles>
+      <title>Csodaszép - Beauty, beauty</title>
+    </titles>
+    <authors>
+      <author>David Brymer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Csoda, csoda, csodaszép<br/>Dicső,  dicsőséges<br/>Vagy Te - vagy Te</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Végy fel a tróntermedbe<br/>Hadd lássam szépséged<br/>Hadd lássam fenséged</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In the beginning was the Word, the One we have seen, and we have heard, The only Begotten of the Father "You are my one and  only Son" - " Not my will but Yours' be done", all we can do is stand in wonder, and sing...</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Beauty, beauty, beautyful, glory, glory, glorious You are - You are</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Who has  belived and who has seen? The suffering Servant is our King, though we despised You, You have loved us<br/>The Branch of the Lord has been revealed, and by Your wounds we have been healed, all of the nations stand in wonder, and sing...</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Take me into your throne-room, let me see your beauty, let me see your face</lines>
+    </verse>
+  </lyrics>
+</song>

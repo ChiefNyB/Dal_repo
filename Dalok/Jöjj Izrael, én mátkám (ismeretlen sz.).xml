@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj Izrael, én mátkám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, Izrael, jöjj én mátkám,<br/>Itt van már a vőlegény!<br/>Öltsd fel hamar fehér ruhád,<br/>Mennyegzőbe viszlek én!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kelj fel, kelj fel, ma felvirradt a te napod,<br/>És rajtad a fény  felragyog,<br/>Mert jön már Urad, Jézusod,<br/>Mert jön már Urad, Jézusod!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Íme szóltál: „Jöjj, szívem kedvese,<br/>Izraelnek Szentje jő,<br/>Fogadd méltóan, minden készen van,<br/>Ünnepeljünk, eljött az idő!”</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Halld Izrael, kér Istened,<br/>Neveden hív, szólít ma:<br/>„Térj énhozzám, én szeretlek!<br/>Enyém vagy, mert megváltottalak.”</lines>
+    </verse>
+  </lyrics>
+</song>

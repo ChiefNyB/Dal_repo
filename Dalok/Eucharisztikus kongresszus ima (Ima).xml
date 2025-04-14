@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>Eucharisztikus kongresszus ima</title>
+    </titles>
+    <authors>
+      <author>Ima</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyei Atyánk, minden élet forrássa!<br/>Küldd el Szentlelkedet, hogy az önmagát értünk feláldozó és az Oltáriszentségben velünk levő Krisztust felismerjük és egyre jobban szeressük!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő Urunk és Mesterünk, barátunk és táplálékunk, orvosunk és békességünk.<br/>Adj bátorságot, hogy az ő erejét és örömét elvigyük minden emberhez!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Add, hogy a készület ideje<br/>és az Eucharisztikus Kongresszus ünneplése<br/>egész hívő közösségünk, fővárosunk,<br/>Európa és avilág lelki megújulására szolgáljon!<br/>Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

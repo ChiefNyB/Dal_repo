@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:37">
+  <properties>
+    <titles>
+      <title>Kicsiny kis fényemmel</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v1</verseOrder>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Kicsiny kis fényemmel, világítani fogok! :| 3×<br/>Áldom Őt minden nap és mindenhol!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Elrejtsem-e fényemet? Nem! Világítani fogok! :| 3×<br/>Áldom Őt minden nap és mindenhol!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|: Sátán sem állíthat meg! Nem! Világítani fogok! :| 3×<br/>Áldom Őt minden nap és mindenhol!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>|: Így teszek míg Jézus jön! Igen! Világítani fogok! :| 3×<br/>Áldom Őt minden nap és mindenhol!</lines>
+    </verse>
+  </lyrics>
+</song>

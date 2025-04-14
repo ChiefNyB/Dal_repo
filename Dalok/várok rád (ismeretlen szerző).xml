@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:57">
+  <properties>
+    <titles>
+      <title>várok rád</title>
+    </titles>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Várok rád Istenem<br/>Nyitva a szívem</lines>
+    </verse>
+  </lyrics>
+</song>

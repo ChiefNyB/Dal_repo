@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Unnepeljük ma Jézust</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megérinted szívünket,<br/>Új reménnyel töltöd meg,<br/>Tőled megkapunk mindent<br/>Téged imádunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megvigasztalsz bennünket,<br/>Megújítod lelkünket,<br/>Szívünk benned szabad lesz,<br/>Téged imádunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ünnepeljük ma Jézust!<br/>Övé a teremtett világ!<br/>Ünnepeljük kegyelmét!<br/>Tapssal és tánccal dicsérd hát!</lines>
+    </verse>
+  </lyrics>
+</song>

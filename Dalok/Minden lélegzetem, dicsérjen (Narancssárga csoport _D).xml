@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Minden lélegzetem, dicsérjen</title>
+    </titles>
+    <authors>
+      <author>Narancssárga csoport :D</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>MINDEN LÉLEGZETEM DICSÉRJEN, MINDEN MOZDULATOM, MINDEN, AMI VAGYOK, DICSÉRJEN, MERT A TIED VAGYOK!<br/>EGYÜTT FELÁLLUNK, EGY SZÍVVEL ÉS MOST, EGYÜTT KIÁLTJUK, HOGY: JÉZUS AZ ÚR!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>AKI SZERETI ŐT, AZ MIND ÁLDJA! AKI SZERETI ŐT, MIND IMÁDJA!<br/>AKI SZERETI ŐT, KELJEN FEL ÁS ÁLDJA NEVÉT!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>ÉRTED, ODAADOK MINDENT, ÉRTED, ÉLEK MINDEN PERCBEN, ÉRTED ODAADOK MINDENT, ÉRTED!</lines>
+    </verse>
+  </lyrics>
+</song>

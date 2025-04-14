@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nincs más, ki úgy szeretne</title>
+    </titles>
+    <authors>
+      <author>Johannes Hartl</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tudod, arra várok rég,<br/>hogy jöjjön reggel, múljon éj,<br/>És látlak én, látlak én.<br/>Semmi nem tart fogva már,<br/>S többé nem hív a világ,<br/>Mert látlak én, látlak én.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>És minden kincsem elveszhet,<br/>Ha ilyen úr van mellettem.<br/>Hiszen már nincs más, ki úgy szeretne, mint Te, Atyám, engem.<br/>Arcodnak fénye vigaszt nyújt nekem.<br/>Társ, aki minden percben mellettem lépdel,<br/>Te, igaz barát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A reggel csillaga felkel,<br/>Távol van, s mégis közel<br/>Tekinteted, tekinteted.<br/>Az összes kincsem Tiéd már<br/>És minden időm odaadnám,<br/>Hogy rám tekints, hogy rám tekints.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>És minden kincsem elveszhet,<br/>Ha ilyen úr van mellettem.<br/>Hiszen már nincs más, ki úgy szeretne, mint Te, Atyám, engem.<br/>Arcodnak fénye vigaszt nyújt nekem.<br/>Társ, aki minden percben mellettem lépdel,<br/>Te, igaz barát!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Olvadjon el az én szívem, viaszként el,<br/>Hogyha rám nézel!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>És minden kincsem elveszhet,<br/>Ha ilyen úr van mellettem.<br/>Hiszen már nincs más, ki úgy szeretne, mint Te, Atyám, engem.<br/>Arcodnak fénye vigaszt nyújt nekem.<br/>Társ, aki minden percben mellettem lépdel,<br/>Te, igaz barát!</lines>
+    </verse>
+  </lyrics>
+</song>

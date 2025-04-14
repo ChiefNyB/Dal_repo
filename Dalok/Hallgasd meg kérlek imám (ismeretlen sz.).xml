@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:25">
+  <properties>
+    <titles>
+      <title>Hallgasd meg kérlek imám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallgasd meg kérlek imám Istenem,<br/>Neved eltévedt lelkemnek békét üzen<br/>Csak Terád vágyom én,<br/>Imádlak Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérlek fogadd el a vakságomat,<br/>hiszen oly gyakran nem látom oltalmadat<br/>Csak Terád vágyom én,<br/>Imádlak Jézus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Semmi nem szebb nevednél,<br/>Nincs szentebb üdvöt hozó vérednél.<br/>Csak Terád vágyom én (3x)<br/>Uram, Jézus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Add meg Uram, hogy dicsérhesselek,<br/>Add, hogy áldassam hűséged és szent neved.<br/>Csak Terád vágyom én,<br/>Imádlak Jézus!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gondom kereszted tövéhez teszem,<br/>Ahol megtisztul szívem, mert nálad pihen.<br/>Csak Terád vágyom én,<br/>Imádlak Jézus.</lines>
+    </verse>
+  </lyrics>
+</song>

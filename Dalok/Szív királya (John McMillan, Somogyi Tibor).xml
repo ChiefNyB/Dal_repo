@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szív királya</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>John McMillan</author>
+      <author>Somogyi Tibor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ő a szív királya,<br/>Ő a hegy, hová futok,<br/>a forrás lelkemnek,<br/>Ő az én dalom!<br/>Ő a szív királya,<br/>árnyékában élhetek<br/>megváltotta életem,<br/>Ő az én dalom!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>║: Uram, jó,  jó,  jó vagy!<br/>Uram, jó,  jó,  jó vagy! :║</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő a szív királya,<br/>Ő a szél vitorlámban,<br/>a horgony, amely tart,<br/>Ő az én dalom!<br/>Ő a szív királya,<br/>Ő a tűz a szívemben,<br/>a visszhang lelkemben,<br/>Ő az én dalom!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>║: Mert a Te kezed, Uram,<br/>a Te kezed, Uram tart engem!<br/>Mert a   Te kezed, Uram,<br/>a Te kezed, Uram tart engem! :║</lines>
+    </verse>
+    <verse name="b1">
+      <lines>║: És az éj, ha elborít engem,<br/>az Úr ott van velem! :║</lines>
+    </verse>
+  </lyrics>
+</song>

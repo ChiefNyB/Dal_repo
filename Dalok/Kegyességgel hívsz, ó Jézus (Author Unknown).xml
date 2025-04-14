@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kegyességgel hívsz, ó Jézus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="151"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyességgel hívsz, ó Jézus,<br/>a te áldott Szívedre,<br/>hozzád megyünk mindahányan,<br/>kik meg vagyunk terhelve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kihez mennénk, Uram Jézus?<br/>te vagy utunk, életünk,<br/>benned hiszünk és remélünk,<br/>kérünk, mindig légy velünk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kenyeret s bort ajánlunk fel,<br/>amit magad rendeltél,<br/>s ama végső vacsorádon<br/>áldozattá szenteltél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áradjon ránk, kegyes Jézus,<br/>a megváltás érdeme,<br/>és e szentség erejével<br/>életünket töltse be!</lines>
+    </verse>
+  </lyrics>
+</song>

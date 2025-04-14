@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kalevala 45.ének</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="15"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tőlem semmi ki nem telne,<br/>Ha nincs Alkotóm kegyelme.<br/>Adj, ó Alkotóm, kegyelmet,<br/>Hozz, óh Isten, segedelmet.</lines>
+    </verse>
+  </lyrics>
+</song>

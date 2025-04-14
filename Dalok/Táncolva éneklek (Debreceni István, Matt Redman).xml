@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:53">
+  <properties>
+    <titles>
+      <title>Táncolva éneklek</title>
+      <title>I Will Dance I Will Sing</title>
+    </titles>
+    <copyright>© 1995 Thankyou Music</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Matt Redman</author>
+      <author type="music">Matt Redman</author>
+      <author type="translation">Debreceni István</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="75"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Táncolva éneklek, ujjongok Jézusért,<br/>szívemben a szent örömnek nincsen gátja már. :‖<br/>‖: És nem zavar,<br/>hogyha ezért bolondnak néznek majd! :‖</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na-na-na-na-na-na, hej! Na-na-na-na-na-na, hej!</lines>
+    </verse>
+  </lyrics>
+</song>

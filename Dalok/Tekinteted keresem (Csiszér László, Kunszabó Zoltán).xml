@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Tekinteted keresem</title>
+    </titles>
+    <authors>
+      <author>Kunszabó Zoltán</author>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívem ezt súgta: Keresd a tekintetét!<br/>A te arcod fényét, Tekinteted keresem<br/>Szörnyű képekkel, Ez a világ megvakított<br/>Nem látlak már, Tekinteted keresem</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szemem világa Régen kialudt már<br/>Elnyel a sötét Tekinteted keresem<br/>Apám s any ám Elhagyhat, elfeledhet<br/>Te akkor is felemelsz, Tekinteted keresem<br/>Keresem tekinteted</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így várok Rád, Tekinteted sugarára<br/>A Te arcod fényét, Keresem Tekinteted<br/>Így várok Rád, Tekinteted sugarára<br/>A Te arcod fényét,<br/>Tekinteted keresem,<br/>Tekinteted keresem</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Segíts, Uram, törj át hozz ám<br/>A hazugságok felhőin át<br/>A szétziláló gondokon át</lines>
+    </verse>
+  </lyrics>
+</song>

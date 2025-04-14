@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:16">
+  <properties>
+    <titles>
+      <title>Csak a csönd</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="322"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak a csönd ölel át, csak a csönd ölel át, nyisd meg a csönd kapuját, tárd föl a fény csarnokát!<br/>Válaszd szét az óceánt, hadd\ keljek át, hadd keljek át!<br/>‖: Jöjj, Lélek, töltsd be életünk életeddel! Jöjj Lélek, töltsd be életünk, töltsd be lényegünk lényegeddel! :‖</lines>
+    </verse>
+  </lyrics>
+</song>

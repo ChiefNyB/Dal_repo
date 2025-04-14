@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Együtt áldjuk Őt</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Együtt  áldjuk  Őt  <br/>Együtt  imádjuk  Őt<br/>Nincs más Isten, csak  Ő</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Együtt magasztaljuk Őt, <br/>Együtt dicsérjük Őt<br/>Mert nincs más Isten, csak  Ő</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ő a Megváltó, <br/>Ő a Szabadító<br/>Nincs más Üdvözítő, csak  Ő</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ő a Gyógyító,<br/>Bűneinket megbocsátó,<br/>Nincs más Üdvözítő, csak Ő</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus Krisztus az Úr,<br/>Áldjuk Őt<br/>Jézus Krisztus az Úr,<br/>Imádjuk Őt</lines>
+    </verse>
+  </lyrics>
+</song>

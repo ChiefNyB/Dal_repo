@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:30">
+  <properties>
+    <titles>
+      <title>Itt vagyok, s várok - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt vagyok, s várok,<br/>Maradj Uram velem!<br/>Itt vagyok, s vágyom Reád.<br/>Szerelmed elrejt,<br/>Térdre kényszerít,<br/>Amikor köztünk megjelensz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te élj bennem, uralkodj szívemben!<br/>Hadd érezzem erődet,<br/>Mely szárnyra emel!</lines>
+    </verse>
+  </lyrics>
+</song>

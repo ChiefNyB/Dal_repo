@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg, Uram</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emlékezzél meg, Uram,<br/>* irgalmasságodról.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úr végzései igazak,<br/>* megvidámítják a szívet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áldjad lelkem az Urat,<br/>* dicsőítsed az Istent.</lines>
+    </verse>
+  </lyrics>
+</song>

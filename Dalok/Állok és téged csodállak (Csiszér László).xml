@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Állok és téged csodállak</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Állok és téged csodállak Istenem,<br/>Néked zeng minden hódolat.<br/>Lelkem csak rád vágyik,<br/>mert kegyelmed mindvégig megtart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Karjaid tartanak tudom</title>
+    </titles>
+    <authors>
+      <author>Narancssárga csoport :D</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>KARJAID TARTANAK, TUDOM, BIZTOS OLTALOM SZERLMED. TIED VAGYOK, CSAK BENNED HISZEK, EZ NEM VÁLTOZIK MEG, MÍG ÉLEK!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>HOZZÁD TARTOZOM, URAM, <br/>ÉRTED ÉNEKLEK, URAM,<br/>BÁRHOVÁ IS MÉSZ, BÁRMIT IS ÍGÉRSZ: BENNED BÍZOM!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>EGÉSZ LÉNYEM KERES TÉGED, URAM,<br/>EGÉSZ LÉNYEM, SZOLGÁL TÉGED, URAM!</lines>
+    </verse>
+  </lyrics>
+</song>

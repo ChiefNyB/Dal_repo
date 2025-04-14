@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A vakok látnak</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Pálhelyi Dávid</author>
+      <author type="music">Pálhelyi Dávid</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A vakok látnak, a sánták járnak,<br/>a halottak ébrednek álmukból.<br/>Kik rabok voltak, most megszabadulnak,<br/>a szegényeknek örömhír szól.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ő az Úr, Ő a nagy Király,<br/>aki ott ül Isten jobbján.<br/>Ő az Út, Ő az Igazság,<br/>Ő az élet, aki reád vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A gonosz tettek mind eltöröltetnek,<br/>és tisztává lesz a romlott szív,<br/>a megtört lelkek új életre kelnek,<br/>a Mester van itt, és téged hív.</lines>
+    </verse>
+  </lyrics>
+</song>

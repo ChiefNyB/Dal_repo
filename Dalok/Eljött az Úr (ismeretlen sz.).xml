@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Eljött az Úr</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött az Úr, eljött az Úr<br/>Benne az élet örökké való.<br/>Itt van az Úr, itt van az Úr<br/>Szentlelke által köztünk átvonul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És megragad, és megragad<br/>Felvisz magához, mennyei házába.<br/>Jöjj Őhozzá, jöjj Őhozzá<br/>Lelked rá vágyik, nála élet vár.</lines>
+    </verse>
+  </lyrics>
+</song>

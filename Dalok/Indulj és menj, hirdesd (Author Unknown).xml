@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:28">
+  <properties>
+    <titles>
+      <title>Indulj és menj, hirdesd</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Indulj és menj, hirdesd szavam. Népemhez küldelek Én.<br/>Tövis és gaz, vér és panasz, meddig hallgassam még Én?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Küldelek Én, megáldlak Én, csak menj és hirdesd szavam.<br/>Küldelek Én, megáldlak Én, csak menj és hirdesd szavam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tüzessé teszem ajkaidat, gyémánttá homlokodat.<br/>Népemnek őrévé rendellek Én, Lelkemet adom melléd.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Küldelek Én, megáldlak Én, csak menj és hirdesd szavam.<br/>Küldelek Én, megáldlak Én, csak menj és hirdesd szavam.</lines>
+    </verse>
+  </lyrics>
+</song>

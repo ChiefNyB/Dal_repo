@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:50">
+  <properties>
+    <titles>
+      <title>Szent Mihály arkangyal, Isten</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="297"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent Mihály arkangyal, Isten bajnoka,<br/>az Úr kiválasztott, erős harcosa,<br/>te vagy, kinek égi hatalma<br/>poklok sötét hadát megrontja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te, ki a Sátánnal bátran megvívtál,<br/>„ki olyan, mint Isten?”, így kiáltottál,<br/>Urad mellett zászlót emeltél,<br/>angyalok közt első te lettél.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi nagy bátorságos, erős vezérünk,<br/>rád bízta az Isten keresztény népünk,<br/>oltalmazd meg minden veszélytől,<br/>az ördögnek nagy erejétől!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bátorítsad félő, gyenge szívünket,<br/>védelmezd a harcban mi szent ügyünket,<br/>vezéreld a jóra éltünket,<br/>hogy elnyerjük üdvösségünket!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Kiáltok az Úrhoz - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>----E---------H<br/>Kiáltok az Úrhoz,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>------C#----------------A---<br/>Mert méltó, hogy Őt dicsérjük!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>--------E------H---A<br/>Szabaddá tesz engem,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>--------E------H---A<br/>Szabaddá tesz engem,</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>--------E----H---A-H<br/>Szabaddá tesz engem</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>---------E---<br/>Az ellenségtől!</lines>
+    </verse>
+  </lyrics>
+</song>

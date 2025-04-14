@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Udvözlégy Jézusunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Jézusunk,<br/>Előtted most hódolunk,<br/>dicsőítünk örökké,<br/>Szentlelked tesz eggyé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy Királyunk,<br/>Te vagy a mi Urunk,<br/>jöjjön el királyságod,<br/>legyen meg kívánságod!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőség a Báránynak,<br/>Izrael Királyának!<br/>Győzünk majd a Nevedben,<br/>s harcolunk Szellemedben.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Júdának Oroszlánja,<br/>mily erőteljes vagy!<br/>Izrael szent Királya,<br/>mily csodálatos vagy!</lines>
+    </verse>
+  </lyrics>
+</song>

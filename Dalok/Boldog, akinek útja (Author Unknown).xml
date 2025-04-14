@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:15">
+  <properties>
+    <titles>
+      <title>Boldog, akinek útja</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="13"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boldog, akinek útja szeplőtelen,<br/>* megmutatom neki üdvösségem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnál az irgalom,<br/>* és bőséges a megváltás nála.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicsőítelek, Uram,<br/>* mivel megmentettél engem.</lines>
+    </verse>
+  </lyrics>
+</song>

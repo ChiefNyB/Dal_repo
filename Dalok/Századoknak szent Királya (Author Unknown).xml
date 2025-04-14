@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:50">
+  <properties>
+    <titles>
+      <title>Századoknak szent Királya</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="j10"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Századoknak szent Királya, Jézusunk, óh légy imádva,<br/>Légy szeretve égen, földön, áldott most és mindörökkön.<br/>Millióknak egy szívével köszöntünk,<br/>Jézus szíve add, hogy téged mindig jobban szeressünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boldogságra szomjas lelkek, jöjjetek, amit kerestek,<br/>Jézus szíve megadhatja, végtelen az ő hatalma.<br/>Itt lehet csak üdvösséget keresnünk,<br/>Jézus szíve, add, hogy téged mindig jobban szeressünk.</lines>
+    </verse>
+  </lyrics>
+</song>

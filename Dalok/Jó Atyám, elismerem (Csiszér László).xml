@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jó Atyám, elismerem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="221"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jó Atyám, elismerem, hogy bűnben születtem,<br/>anélkül, hogy akartam volna,<br/>vagy bármit is tehettem volna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ÓÓÓÓÓÓ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atyám, nem rejtem el az én sáros szívemet,<br/>Ma  nem bújok el Előled</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atyám, nem rejtem tovább az én sáros szívemet,<br/>Ma  nem bújok el Előled</lines>
+    </verse>
+  </lyrics>
+</song>

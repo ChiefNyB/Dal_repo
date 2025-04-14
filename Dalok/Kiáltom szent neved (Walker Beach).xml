@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Kiáltom szent neved</title>
+    </titles>
+    <authors>
+      <author>Walker Beach</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Élet Ura, kegyelemnek trónján ülsz.<br/>Csak te vagy, aki rajtam könyörülsz.<br/>Igéd bátorít: hívd segítségül nevem, mert elég néked az én kegyelmem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kiáltom szent neved, El Shaddai, Kegyelmes.<br/>Úr vagy Te, minden felett<br/>Dicsőség Királya, Adonai, szívem Ura, Megváltó, Szabadító</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bármit is tettem, tudom megbocsájtottad<br/>Szerelmed új életet ad<br/>Átadom magam, hogy hirdessem a te kegyelmed<br/>Míg fenn a mennyben veled leszek.</lines>
+    </verse>
+  </lyrics>
+</song>

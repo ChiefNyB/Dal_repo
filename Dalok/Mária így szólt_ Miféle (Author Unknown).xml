@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:40">
+  <properties>
+    <titles>
+      <title>Mária így szólt: Miféle</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsolozsma" entry="225"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária így szólt: Miféle köszöntés ez? Zavar támadt lelkemben: a Királyt fogom megszülni, és mégis szűz maradok?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amint a föld növényzetet sarjaszt, és amint a kert veteményt növel, úgy sarjaszt az Isten igazságot és dicsőséget minden nemzet előtt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V. Jöjj el, Urunk, ne késlekedjél:<br/>F. Oldozd fel választott népedet a bűntől!</lines>
+    </verse>
+  </lyrics>
+</song>

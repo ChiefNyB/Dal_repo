@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:16">
+  <properties>
+    <titles>
+      <title>Csak Isten békessége</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Csak Isten békessége oltja szomjamat.<br/>Üdvöm én Tőle várom.<br/>Igen, nyugodalmat lelkem Nála lel.<br/>Isten segítségül jön.</lines>
+    </verse>
+  </lyrics>
+</song>

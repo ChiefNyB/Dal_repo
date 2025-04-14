@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Az Úrnak szüksége…</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="131B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az úrnak szüksége van rád, oly nagyon szüksége van rád.<br/>‖: Fontosabb vagy te, mint az égbolt; fontosabb vagy te, mint a föld; fontosabb vagy te, mint a tenger, nagyon fontos vagy te, fontosabb vagy :‖<br/>fontos vagy te.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Az Úrnak szüksége van rám…<br/>Fontosabb vagyok…</lines>
+    </verse>
+  </lyrics>
+</song>

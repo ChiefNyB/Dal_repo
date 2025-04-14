@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nos autem gloriari oportet</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="70"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nos autem gloriari oportet<br/>in cruce Domini Nostri Jesu Christi:<br/>in quo est salus, vita et resurrectio nostra<br/>per quem salvati et liberati sumus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deus misereatur nostri, et benedicat nobis:<br/>illuminet vultum suum super nos, et misereatur nostri.<br/>Nos autem…..</lines>
+    </verse>
+  </lyrics>
+</song>

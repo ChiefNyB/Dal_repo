@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:28">
+  <properties>
+    <titles>
+      <title>Ingojáma, gonjáma, Inváb</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ingojáma, gonjáma, Invábú!<br/>Jábú! Jábú! Invábú!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ő egy hős, egy oroszlán!<br/>Sőt ennél is több: víziló!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hős vad tigris, vad tigris, több annál:<br/>Király, király, víziló!</lines>
+    </verse>
+  </lyrics>
+</song>

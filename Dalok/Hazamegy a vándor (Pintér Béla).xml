@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:26">
+  <properties>
+    <titles>
+      <title>Hazamegy a vándor</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Haza megy a vándor<br/>Ami ezen a földön körbevesz,<br/>Az olyan nekem, mint egy múló álom.<br/>Nemrég kezdődött, máris vége lesz,<br/>Ha a nap felkel a láthatáron.<br/>Nincs itt maradandó városom,<br/>A szívem azt az új világot várja.<br/>És összehajtom majd a vánkosom,<br/>Ha a hajnal rámtalál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Refr.:<br/>Hazamegy a vándor,<br/>Erről álmodott ő százszor.<br/>Arra tette fel az életét,<br/>Hogy egy szépnapon majd célba ér.<br/>Hazamegy a vándor,<br/>Eltűnik, mint a kámfor.<br/>Mintha soha nem lett volna itt,<br/>Egy szempillantás és megérkezik.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Refr.<br/><br/>Mert új eget, és egy új földet várunk,<br/>Új folyókban úszunk majd, és új hegyeket mászunk.<br/>Ez a bolygó nem az igazi világunk.<br/>Itt csak utazunk, átutazunk.</lines>
+    </verse>
+  </lyrics>
+</song>

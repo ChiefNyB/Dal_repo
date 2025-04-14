@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:31">
+  <properties>
+    <titles>
+      <title>Jézus jöjj és töltsd be a szívem</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus jöjj és töltsd be a szívem hittel!<br/>Átadok kezedbe újra most mindent.<br/>Szentlelked lángoljon bennem szent tűzzel,<br/>Hadd legyen Tiéd, Uram, az életem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert nincs szebb, nincs jobb Tenálad,<br/>Csak szólj, s megyek utánad!<br/>Minden álmom és amim van,<br/>Tiéd Uram!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Mert nincs szebb, nincs jobb Tenálad, imádlak!</lines>
+    </verse>
+  </lyrics>
+</song>

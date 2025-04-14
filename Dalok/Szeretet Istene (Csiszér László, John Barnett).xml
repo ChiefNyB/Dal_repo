@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szeretet Istene</title>
+      <title>Father Of Lights</title>
+    </titles>
+    <copyright>© 1991 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">John Barnett</author>
+      <author type="music">John Barnett</author>
+      <author type="translation">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="14"/>
+      <songbook name="Zöld könyv" entry="292"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretet Istene,<br/>Te örvendezel<br/>gyermekednek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>‖: Mindaz, mi jó, tökéletes, az Tőled való! :‖×3<br/>Szeretet Istene!</lines>
+    </verse>
+  </lyrics>
+</song>

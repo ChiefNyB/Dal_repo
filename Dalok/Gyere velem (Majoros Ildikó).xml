@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:23">
+  <properties>
+    <titles>
+      <title>Gyere velem</title>
+      <title>Gyere velem</title>
+    </titles>
+    <authors>
+      <author>Majoros Ildikó</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyere velem, Jézus kopogtat most.<br/>Gyere velem, fussunk az Úr elé.<br/>Gyere velem, tárjunk ki minden ajtót.<br/>Hogy Jézus itt lakjon örökké.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden nap dicsérlek, hogy megláttál és rám találtál.<br/>Követlek már Téged bárhová.<br/>Hadd vezessem hozzád a tévelygőt, s az elveszettet.<br/>Hadd legyek kezed dicső király!</lines>
+    </verse>
+  </lyrics>
+</song>

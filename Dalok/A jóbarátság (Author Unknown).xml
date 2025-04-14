@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:06">
+  <properties>
+    <titles>
+      <title>A jóbarátság</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="169"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az ifjúkor szép hajnalán, az élet reggelén<br/>Egy jóbarát int énfelém, és visszaintek én.<br/>Tárd szívedet a láng felé, és járjon át a tűz,<br/>Mely milliókat lelkesít és mindig összefűz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mint százezer kis fénysugár, úgy törj az éjen át,<br/>És énekeld e régi dalt, te kedves jóbarát!<br/>Tárd szívedet a láng felé, és járjon át a tűz,<br/>Mely milliókat lelkesít és mindig összefűz.</lines>
+    </verse>
+  </lyrics>
+</song>

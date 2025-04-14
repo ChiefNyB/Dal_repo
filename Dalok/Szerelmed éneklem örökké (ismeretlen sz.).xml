@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szerelmed éneklem örökké</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teljes lényem téged áld, dicséri szent neved.<br/>Csak rólad szól az egész életem.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kihoztál a sötétből, a fényed bennem ég,<br/>Szerelmed éneklem örökké,<br/>Szerelmed éneklem örökké!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dicsőséged lássa meg minden nemzet, nép,<br/>Színed előtt hajtsa meg térdét.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Jézus, kérlek olvaszd fel a dermedt szíveket,<br/>Hogy megízleljék békéd, szereteted,<br/>Hogy megízleljék békéd, szereteted.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy, Uram!<br/>Szent vagy, szent vagy, szent vagy, Uram!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>És a kürtök felzúgnak,<br/>És a menny majd meglátja,<br/>Hogy eljött már az óra,<br/>Hol a Menyasszony vár Rá, az ő helyén,<br/>És meghalljuk az angyalok énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

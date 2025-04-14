@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Ki teremtette</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Ismeretlen</author>
+      <author type="music">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ki teremtette ezt a világot,<br/>Az egész világot, az egész világot,<br/>Ki teremtette ezt a világot?<br/>Atyánk, Istenünk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ki teremtette a kék tengert,<br/>A hullámzó tengert,<br/>a hullámzó tengert?<br/>Ki teremtette a kék tengert?<br/>Atyánk, Istenünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ki teremtette a sok csillagot,<br/>Ragyogó csillagot,<br/>ragyogó csillagot?<br/>Ki teremtette a sok csillagot?<br/>Atyánk, Istenünk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ki teremtette a madárkát,<br/>Repülő madárkát,<br/>repülő madárkát?<br/>Ki teremtette a madárkát?<br/>Atyánk, Istenünk.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ki teremtett meg téged, őt, és engem,<br/>Téged, őt és engem,<br/>téged őt és engem?<br/>Ki teremtett meg téged, őt, és engem?<br/>Atyánk, Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

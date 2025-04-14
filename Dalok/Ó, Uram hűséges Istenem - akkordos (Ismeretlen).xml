@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Ó, Uram hűséges Istenem - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A-A/C#-----D--------E4-E<br/>Ó, Uram, hűséges Istenem!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A---------D-H/D#----------E--E/F<br/>Dicsérlek én minden nap szüntelen.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>F#m----E------D-A/C#<br/>Jóságod áraszd le rám!</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hm------------E-------A-D<br/>Kegyelmeddel jöjj el hozzám!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>-----A----------A/C#-D--------Hm<br/>Te vagy az egyetlen Úr a szívemben</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>A------------A/C#--------D<br/>Dicsőséges, hatalmas király!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Hm-------E---C#-----F#m<br/>Áldott legyen, áldott legyen,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Hm------E-------A-<br/>Áldott legyen neved!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szeretünk Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szeretünk Jézus, Te légy minden mindenben.<br/>Szeretünk Jézus, légy a fény életünkben.<br/>Szeretünk Jézus, Te vagy az út amin járunk,<br/>Szeretünk Jézus, csak Téged imádunk,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert Te vagy az életünk szerelme, Jézus.<br/>Te vagy az életünk szerelme, Jézus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szeretünk Jézus életed adtad értünk.<br/>Szeretünk Jézus, Benned örökké élünk.<br/>Szeretünk Jézus, mert Te előbb szerettél.<br/>Szeretünk Jézus, mert Te megmentettél.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Új szív</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Újszív<br/>Új szívvel egészen máshogyan érez az ember, és másként látja a dolgokat.<br/>Új szívvel nem jelent gondot hinni Istenben, és elfogadni másokat.<br/>Ettől az új szívtől boldog az életem minden egyes perce.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Ha azt kérdeznéd: "Én is kaphatok új szívet?"<br/>Azt mondom: "Persze, persze, persze!"</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/><br/>Azt kívánom, érezd meg az örök tavasz édes illatát.<br/>Forduljon egy nagyot körülötted a világ.<br/>Figyelj, ha új szívre vágysz, azt Istentől kérhetsz!<br/>Tudod, az élet attól gyönyörű, hogy velünk van az Úr.<br/>Ő odavan az emberért, elmondhatatlanul.<br/>Figyelj, ha új szívre vágysz, nyugodtan kérhetsz.<br/>Lüktessen benned új élet!</lines>
+    </verse>
+  </lyrics>
+</song>

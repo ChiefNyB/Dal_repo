@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Kezednek népe lettünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kezednek népe lettünk, hirdetjük, itt vagy köztünk.<br/>Az életünk új értelmet kapott.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Szentlélek leszállt ránk,<br/>Emésztő tűzzel átjárt,<br/>S a Földön dicsőséged árad.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A Menny leszáll, és minden új lesz<br/>Te szívünkben élsz, ó Urunk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, halleluja,<br/>Tisztesség áldás Neked!<br/>Győztes Király, dicsérlek<br/>Mindörökké!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Halleluja, halleluja,<br/>Mert Te vagy, voltál és leszel<br/>Menny, Föld ünnepli tetteidet<br/>Mindörökké!<br/>Ámen!</lines>
+    </verse>
+  </lyrics>
+</song>

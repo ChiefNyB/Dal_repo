@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Udvözlégy Mária</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>Üdvözlégy Mária, malaszttal teljes, az Úr van Teveled.<br/>Áldott vagy Te az asszonyok között, és áldott a Te méhednek gyümölcse, ó Jézus.</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>|:Asszonyunk Szűz Mária, Istennek szent anyja,<br/>Imádkozz érettünk bűnösökért most és halálunk óráján! Amen.:|</lines>
+    </verse>
+  </lyrics>
+</song>

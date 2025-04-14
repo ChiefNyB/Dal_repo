@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:53">
+  <properties>
+    <titles>
+      <title>Te vagy méltó - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A------------D-A-F#m-E<br/>Te vagy méltó Ó Istenünk</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A---------------D---A--F#m--E<br/>Neked hódolunk, Téged tisztelünk</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>E--------------------F#m--D--E<br/>Magasztalásunk illata szálljon fel,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>E-----------------F#m--D--E<br/>mennyei tróntermedet töltse be</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>-------D---A-------F#m-E-A<br/>Áldunk Téged, Imádunk Téged</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>---------Hm7--C#m7--D------E-<br/>Hűséges megváltó, Te vagy az Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

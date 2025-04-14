@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:49">
+  <properties>
+    <titles>
+      <title>Set a fire</title>
+    </titles>
+    <authors>
+      <author>IH Konf. Horvátoktól</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So set a fire down in my soul<br/>That I can't contain and<br/>I can't control<br/>I want more of You God,<br/>I want more of You God!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There's no place I'd rather be<br/>There's no place I'd rather be<br/>There's no place I'd rather be<br/>Than here in your love, here in your love</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Karjaid tartanak</title>
+      <title>With All I Am</title>
+    </titles>
+    <copyright>© 2003 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author type="words">Reuben Morgan</author>
+      <author type="music">Reuben Morgan</author>
+      <author type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="276"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Karjaid tartanak, tudom,<br/>biztos oltalom szerelmed.<br/>Tied vagyok, csak Benned hiszek,<br/>s ez nem változik meg, míg élek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hozzád tartozom, Uram,<br/>Érted éneklek, Uram,<br/>bárhová is mész, bármit is ígérsz,<br/>Benned bízom!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Egész lényem keres Téged, Uram,<br/>egész lényem követ Téged, Uram,<br/>egész lényem szolgál Téged, Uram,<br/>egész lényem szeret Téged, Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

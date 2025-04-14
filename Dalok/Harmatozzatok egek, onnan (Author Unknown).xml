@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:25">
+  <properties>
+    <titles>
+      <title>Harmatozzatok egek, onnan</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="504"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Harmatozzatok egek, onnan felülről,<br/>és a felhők essék az Igazat.<br/>Nyíljék meg immár a föld,<br/>s teremje az Üdvöztőt.</lines>
+    </verse>
+  </lyrics>
+</song>

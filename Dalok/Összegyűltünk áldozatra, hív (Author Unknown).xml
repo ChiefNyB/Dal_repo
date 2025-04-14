@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Összegyűltünk áldozatra, hív</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="234a"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Összegyűltünk áldozatra, hívő magyar nép,<br/>Krisztus Urunk titokzatos élő testeképp.<br/>Tudjuk, Jézus, szent fejünk,<br/>Ahol össze így jövünk<br/>Ketten, hárman Te nevedben:<br/>Ott vagy mivelünk.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:18">
+  <properties>
+    <titles>
+      <title>Dicső szent Antal, Isten</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="s03"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicső szent Antal, Isten kedveltje, ki a mennyekben tündökölsz fent,<br/>Liliom tiszta, kinek karjában a kis Jézus édesen pihent.<br/>Te csodatévő, ki száz bajunkban érezteted szent segélyedet,<br/>Szívünkből áldunk, általa várunk a Jóistentől dús kegyelmet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicső szent Antal, gyöngék védelme, ki megtalálod, mi elveszett,<br/>Szívünknek oda a tisztasága, urunkhoz jutnunk így nem lehet.<br/>Elvesztettük az utat a mennybe, he nem találjuk, mi lesz velünk,<br/>Esengve kérünk, ó légy mivélünk, mutasd a biztos utat nekünk.</lines>
+    </verse>
+  </lyrics>
+</song>

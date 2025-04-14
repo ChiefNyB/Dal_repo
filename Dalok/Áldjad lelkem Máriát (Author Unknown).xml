@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:09">
+  <properties>
+    <titles>
+      <title>Áldjad lelkem Máriát</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="644"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjad lelkem Máriát,<br/>Üdvözítőnk szent Anyját.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szép Szűz Mária könyörögj értünk!</lines>
+    </verse>
+  </lyrics>
+</song>

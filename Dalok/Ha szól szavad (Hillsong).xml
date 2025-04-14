@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Ha szól szavad</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor nincs bennem tűz, Lelked újra felfűt,<br/>Ahogy ismét látom kezed nagy tetteit.<br/>Mikor nincs előttem út, Lelked újra lángra gyújt,<br/>Ahogy ismét látom kezed nagy tetteit.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ha szól szavad, tenger hasad, népek kelnek rajta át!<br/>Hit, remény, ébred fel, dicsőséged árad ránk,<br/>Dicsőséged árad ránk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenvedések útján irgalmad segít át,<br/>Ahogy ismét látom kezed nagy tetteit.<br/>Ének ébred bennem, amely felráz engem,<br/>Ahogy ismét látom kezed nagy tetteit.</lines>
+    </verse>
+  </lyrics>
+</song>

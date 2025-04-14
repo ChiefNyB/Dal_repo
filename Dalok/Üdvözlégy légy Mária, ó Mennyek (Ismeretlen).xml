@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Üdvözlégy légy Mária, ó Mennyek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viva Maria, Maria la Regina,<br/>Maria nostra Madre. Regina de la pace. (3x)<br/>Benedici i nostri cuori, siamo figli tuoi,<br/>cammina insieme a noi, siamo tutti tuoi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, Ó Mária, Mennynek Királynéja, <br/>Édesanyánk, Mária, Béke Királynéja. (3x)<br/>Áldd meg a szívünk, hogy gyermekeid legyünk,<br/>földi élet után, veled lehessünk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gegrüßt seist du Maria, Himmelskönigin, <br/>Königin des Friedens, Mutter du mein! (3x)<br/>Segne unser Herz, komm, segne mich, dein Kind,<br/>Komm und führe uns, wir gehören Dir!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zdravo Marijo, Marijo Kraljice,<br/>Marija naša Majka. Kraljica mira. (3x)<br/>Blagoslovi naša srca, sinovi smo tvoji,<br/>hodaj s nama zajedno, svi smo mi tvoji.</lines>
+    </verse>
+  </lyrics>
+</song>

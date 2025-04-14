@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Vidi aquam egredientem de</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="403b"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vidi aquam egredientem de templo a latere dextro, alleluja,<br/>et omnes ad quos pervenit aqua ista,<br/>salvi facti sunt et dicent, alleluja, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

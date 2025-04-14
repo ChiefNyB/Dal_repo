@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:25">
+  <properties>
+    <titles>
+      <title>Halld, ó, Izrael</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Halld, ó, Izrael, az Úr az Isten,<br/>Egy Úr, halleluja! /2x/</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Szellemedből minden időben,<br/>Csak néki szolgálj, mást ne valljál<br/>Úrnak a szívedben!<br/>Csak Ő az élő Isten,<br/>Szabadító több nincsen!<br/>Tengeren innen és túl,<br/>Hirdetjük Hogy Ő az egy Úr!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Áradj ki folyó</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áradj ki folyó a mennyből<br/>árassz el, árassz el!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Isten uralkodik, örüljön a Föld<br/>Örvendjenek a távoli partok<br/>Felhő és homály veszi körül<br/>Igazság és jog az Ő trónjának alapja</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tűz jár előtte és megemészti ellenségeit<br/>Villámai bevilágítják a Földet<br/>Látja ezt a világ és megremeg<br/>A hegyek mint viasz olvadnak el az Úr előtt<br/>Az egész Föld Ura előtt</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Az egek hirdetik az Ő igazságát<br/>És minden nép látni fogjai dicsőségét<br/>Mi látni akarjuk a Te dicsőségedet Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

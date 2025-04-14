@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézus, véred megtisztít</title>
+      <title>It's Your Blood</title>
+    </titles>
+    <copyright>© 1985 Mercy / Vineyard Publishing</copyright>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="words">Michael Christ</author>
+      <author type="music">Michael Christ</author>
+      <author type="translation">Harkai Tamás</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="12"/>
+      <songbook name="Zöld könyv" entry="434"/>
+      <songbook name="Kék könyv" entry="67D"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, véred megtisztít,<br/>véred ad új életet,<br/>véred tesz ma szabaddá,<br/>értem folyt e drága vér!<br/>Így a lelkem fehér, mint a hó, mint a hó.<br/>Úr Jézus, Te megölt Bárány!</lines>
+    </verse>
+  </lyrics>
+</song>

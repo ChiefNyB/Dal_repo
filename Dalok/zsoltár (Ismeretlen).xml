@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:59">
+  <properties>
+    <titles>
+      <title>zsoltár</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Téríts meg minket Istenünk, ragyogtasd ránk arcodat, és szabadok leszünk.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Te lettél, Uram, menedékünk, nemzedékről nemzedékre.</lines>
+    </verse>
+  </lyrics>
+</song>

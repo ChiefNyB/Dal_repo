@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Vigasztaló jó Istenünk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent Vagy, Uram!" entry="251c"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vigasztaló jó Istenünk,<br/>Ki a bűnös atyja vagy,<br/>A holtakért engesztelő<br/>Ajándékot ó fogadj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oltárodon feláldozzuk<br/>Szent kenyerünk és borunk.<br/>Oldozza fel az áldozat,<br/>Kikért most imádkozunk.</lines>
+    </verse>
+  </lyrics>
+</song>

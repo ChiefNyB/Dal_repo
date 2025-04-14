@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:27">
+  <properties>
+    <titles>
+      <title>Holy water-áldott eső</title>
+      <title>Mikor hallom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Újra itt vagyok Veled, most újra Eléd térdelek<br/>úgy kérlek, Uram, ments meg!<br/>Szükségem van újra Rád, szomjas lelkem felkiált,<br/>úgy kérlek, Uram, ments meg!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mikor hallom hozzám szóló hangodat,<br/>mint az édes méz, olyan a pillanat,<br/>mintha áldott eső hullna rám!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halott vagyok Nélküled, a bűnök árja eltemet,<br/>úgy kérlek, Uram, ments meg!<br/>Szükségem van újra Rád, hogy ezer vétkem megbocsásd,<br/>úgy kérlek, Uram, ments meg!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>II: Mert kegyelmed nekem többet ér, <br/>mit a világ adhat bárminél,<br/>és csak arra vágyom szüntelen, hogy Téged lássalak! :II 3x</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Hát formáld át a szívemet, <br/>hogy mindörökké az legyek,<br/>akit elképzeltél, s ne engedjem többé el a kezed!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:08">
+  <properties>
+    <titles>
+      <title>Adj, Uram, örök nyugodalmat</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="27"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adj, Uram, örök nyugodalmat nekik,<br/>és az örök világosság fényeskedjék nekik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Téged illet, Uram, minden ének a szent hegyen,<br/>téged illet a szent városban az áldozat.<br/>Hallgasd meg könyörgésemet: hozzád tér meg minden ember.<br/>Adj, Uram…</lines>
+    </verse>
+  </lyrics>
+</song>

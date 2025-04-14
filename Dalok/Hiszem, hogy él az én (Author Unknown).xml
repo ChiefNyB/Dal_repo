@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:26">
+  <properties>
+    <titles>
+      <title>Hiszem, hogy él az én</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="348d"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hiszem, hogy él az én Megváltóm és az utolsó napon a földből feltámadok,<br/>és az én testemben látom meg az én üdvözítő Istenemet.<br/>Kit én magam látok meg és nem más, és szemeim nézik őt,<br/>és az én testemben látom meg az én üdvözítő Istenemet.</lines>
+    </verse>
+  </lyrics>
+</song>

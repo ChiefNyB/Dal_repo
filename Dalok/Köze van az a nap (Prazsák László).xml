@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Köze van az a nap</title>
+    </titles>
+    <authors>
+      <author>Prazsák László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Közel van az a nap, mikor elragad minket<br/>A Szent, aki ment a halálból</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keresnek minket, akik lent maradtak<br/>De az ég fölöttük már bezárult</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsérem Őt mindenek előtt<br/>Dicsérem Őt mindenek fölött</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy Uram<br/>Szent vagy Uram</lines>
+    </verse>
+  </lyrics>
+</song>

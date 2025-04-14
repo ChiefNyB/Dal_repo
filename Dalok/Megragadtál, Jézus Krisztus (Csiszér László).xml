@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Megragadtál, Jézus Krisztus</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Megragadtál, Jézus Krisztus, megragadtál,<br/>az életembe új fényt hoztál, mindenem Te vagy!<br/>Elindultam, futok-futok, meg nem állok,<br/>míg a célba el nem jutok, az én erőm Te vagy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Minden szemét, Jézus mellett minden szemét,<br/>mit e világ tárhat eléd, Vele fel nem ér.<br/>Minden élet Jézusban ma újraéled,<br/>s a szívedben új remény lesz, és örökké élsz.</lines>
+    </verse>
+  </lyrics>
+</song>

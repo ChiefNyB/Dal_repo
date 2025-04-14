@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:28">
+  <properties>
+    <titles>
+      <title>Intimitás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Intimitást fúj a szél, <br/>szíveikben ott a szenvedély,<br/>kapcsolatuk már oly sokszor elszakadt<br/>kergetik a vágyakat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Felvette hűtlen állarcát, azt hitte minden a gazdagság. Bármi történt büszke ifjú maradt, de élete elakadt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ezért értsd meg rossz úton jársz, nyisd meg a szíved ajtaját. Nagyon kérlek gyere hozzám, hadd adjak neked új ruhát.</lines>
+    </verse>
+  </lyrics>
+</song>

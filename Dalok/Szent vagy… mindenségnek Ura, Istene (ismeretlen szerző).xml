@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szent vagy… mindenségnek Ura, Istene</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="155"/>
+      <songbook name="Kék könyv" entry="192"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy,<br/>szent vagy, szent vagy,<br/>mindenségnek Ura, Istene!<br/>Dicsőséged betölti<br/>a mennyet és a földet.<br/>Hozsanna a magasságban!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent vagy, szent vagy,<br/>szent vagy, szent vagy,<br/>mindenségnek Ura, Istene!<br/>Ó-ó áldott, ki az Úr nevében<br/>eljő mihozzánk!<br/>Hozsanna a magasságban!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Mi csak vándorok vagyunk</title>
+    </titles>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author type="words">Varga Attila</author>
+      <author type="music">Varga Attila</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="28"/>
+      <songbook name="Zöld könyv" entry="254"/>
+      <songbook name="Kék könyv" entry="157B"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi csak vándorok vagyunk itt a földön,<br/>vándorként éljük életünk,<br/>és a szívünk úgy vágyik égi hazánkba,<br/>Jézushoz, mert Ő az Úr.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldunk Téged, imádunk Téged,<br/>mert szent kereszted által<br/>megváltottad a világot!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És ha földi sátrunk egyszer összedől,<br/>s az életünk majd véget ér,<br/>az angyaloknak kórusához társul énekünk,<br/>s a szentekkel zengjük örökké:</lines>
+    </verse>
+  </lyrics>
+</song>

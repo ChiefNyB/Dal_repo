@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:53">
+  <properties>
+    <titles>
+      <title>Te vagy Gondviselő - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>---F#m-------A---------E----------H-<br/>Ma újra arra hívsz, hogy lépjek ki a vízre</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>--F#m-------A---------E----------H-<br/>Bízom benned Jézus bízom Tebenned</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>D7+---------------------------E7+-----<br/>Te vagy Gondviselő, Te vagy Mindenható</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>------------D7+-------F#m<br/>Te vagy az örökkévaló Isten</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>------------D7+--------------E7+--------<br/>Te vagy mindenkor Szent, az örök Szeretet</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>-----------D7+------F#m<br/>Te vagy a teljesen jó Isten</lines>
+    </verse>
+  </lyrics>
+</song>

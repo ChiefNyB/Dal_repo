@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szent, szent, szent a Seregek</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">(Signum)</author>
+      <author type="music">(Signum)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="305"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br/>végtelen felettünk hatalma,<br/>mégis úgy néz le ránk, mint a pásztor nyájára,<br/>hallja népét, mindig figyel a szavára.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Áldott légy, Uram áldott légy, mindezért,<br/>vezess el országodba angyalaid közé.<br/>Ó vezess át angyalaid közé!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br/>elkísér egy életen oltalma.<br/>Bennem él, benned él, hisz Ő a szívek királya,<br/>nincsen országának sehol határa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent, Szent, Szent a Seregek Ura,<br/>hidd el, véget nem ér irgalma.<br/>Hangja szól az éjen át, minden vétket megbocsát,<br/>hogyha eltaszítod Őt, akkor is vár Rád.</lines>
+    </verse>
+  </lyrics>
+</song>

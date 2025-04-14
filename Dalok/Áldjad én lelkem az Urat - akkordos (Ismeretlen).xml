@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:09">
+  <properties>
+    <titles>
+      <title>Áldjad én lelkem az Urat - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hm------F#m----Hm-F#m<br/>Áldjad én lekem az Urat!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hm-A----D----Em7-F#7<br/>Áldjad én lekem az Urat!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hm-----F#m----G6-------D----<br/>Áldjad én lekem, áldjad én lelkem,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hm------F#m--Hm-F#m<br/>Áldjad én lekem az Urat!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hm------F#m---Hm-F#m<br/>Zengj halleluját az Úrnak!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hm----A---D--Em7--F#7<br/>Zengj halleluját az Úrnak!</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Hm------F#m----G6-------D-<br/>Zengj halleluját, zengj halleluját,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Hm-------F#m-Hm-F#m<br/>Zengj halleluját az Úrnak!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Hm-F#m--Hm------F#m<br/>Dicsérjük együtt az Urat!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hm-A----D----Em7-F#7<br/>Dicsérjük együtt az Urat!</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Hm-----F#m-----G6------D-----<br/>Dicsérjük együtt, dicsérjük együtt,</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Hm------F#m--Hm-F#m<br/>Dicsérjük együtt az Urat!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Hm------F#m---Hm-F#m<br/>Áldjad én bensőm az Urat!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hm-A-----D-----Em7-F#7<br/>Áldjad én bensőm az Urat!</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Hm------F#m-----G6--------D-----<br/>Áldjad én bensőm, áldjad én bensőm,</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>Hm------F#m----Hm-F#m<br/>Áldjad én bensőm az Urat!</lines>
+    </verse>
+  </lyrics>
+</song>

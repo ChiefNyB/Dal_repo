@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:30">
+  <properties>
+    <titles>
+      <title>Itt az idő, gyere ünnepeljünk hát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Itt az idő, gyere, ünnepeljünk hát,<br/>Hogy Jézus nevétől zengjenek az utcák!<br/>Dicsérjük együtt és kiáltsuk nevét,<br/>Hirdessük országát és nagy kegyelmét!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Énekeljük:<br/>Ez az a nap, melyet szerzett az Úr,<br/>Ez az a nap, melyet úgy vártunk már.<br/>Ez az a nap, melyen nincsen más dolgunk,<br/>Mint dicsérni Jézust, a Királyt.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Induljunk hát vígan, ujjongva már,<br/>Hogy ünnepeljük jókedvvel Jézust, a Királyt.<br/>Áldjuk, mert megváltott, zengjük nevét,<br/>Hogy megismerje országát minden földi nép.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szívünkben él egy jó reménység,<br/>Hogy Jézus már közel van és elviszi népét.<br/>Tárd ki az ajtót és hívd be a Királyt,<br/>Szabaddá tesz téged, csak változtass irányt.</lines>
+    </verse>
+  </lyrics>
+</song>

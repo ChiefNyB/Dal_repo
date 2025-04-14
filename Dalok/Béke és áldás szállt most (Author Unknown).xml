@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:15">
+  <properties>
+    <titles>
+      <title>Béke és áldás szállt most</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="42"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Béke és áldás szállt most ránk,<br/>megnyugszik végre a szívünk,<br/>Jézus szeretete vár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Terített asztalhoz hívott, és vendégül látott ma Ő.<br/>Ujjong és dalol az ajkunk, mert itt van Jézus, a dicső.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jézus él, Jézus él, és nem hagy el sosem.<br/>Jézus él, Jézus él, most is itt van velem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szeret minket az Isten. Elküldte szent Fiát,<br/>hogy véres keresztje árán tisztuljon meg a világ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hiába ölték meg a Bárányt, a harmadik napon felállt.<br/>Reményt hozott a szívünkbe, mert Jézus legyőzte a halált.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jézus él, Jézus él, és nem hagy el sosem.<br/>Jézus él, Jézus él, most is itt van velem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kenyér és bor színében naponta megláthatod.<br/>Hiába kísért a sátán, mert Jézus erőt adott.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Botlik, de újra felállhat, és bízhat a szenvedő.<br/>Nyugalom völgye a szívem, mert benne lakozik Ő.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Jézus él, Jézus él, és nem hagy el sosem.<br/>Jézus él, Jézus él, most is itt van velem.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Jézus él, Jézus él, itt van a szívemben.<br/>Jézus él, Jézus él, hisz látom a szemedben, hogy Jézus él.</lines>
+    </verse>
+  </lyrics>
+</song>

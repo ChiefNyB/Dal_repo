@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:30">
+  <properties>
+    <titles>
+      <title>Istenem, Te vagy a szeretet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>Istenem, Te vagy a szeretet<br/>Istenem Te vagy...</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Irgalommal teljes Istenem vagy,<br/>Megbocsátó, szent Istenem vagy.<br/>Visszaindulok Atyám házába, ahol erős karja ölelésre tárva</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Istenem, Te vagy a szeretet<br/>Bože moj, Ti jesi ljubav<br/>Istenem Te vagy...<br/>Bože moj, Ti jesi...</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Irgalommal teljes Istenem vagy,<br/>Ti si prepun milosrđa, Bože moj,<br/>Megbocsátó, szent Istenem vagy.<br/>Ti si moj Bog Sveti, koji mi sve opraštaš</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Visszaindulok Atyám házába, ahol erős karja ölelésre tárva<br/>Vraćam se u dom  Oca svog, gde me čeka zagrljaj Njegove snažne ruke.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Mikor hívjuk Őt</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mikor hívjuk Őt, Ő majd válaszol.<br/>Futunk Őhozzá, Ő majd hozzánk szól.<br/>Erős Isten Ő, megtart bennünket<br/>Gyertek dicsérjük,	jöjjetek szentek.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örvendjünk,  az Úr oly erős.<br/>Örvendjünk az Úr oly erős Istenünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Közelíts hozzá, itt van mellettünk,<br/>Szeresd szívedből, itt él Ő bennünk.<br/>Szívünk gyógyítja, kezünk tisztítja<br/>Hogyha megtörnénk, népünk ápolja.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Benned bízunk, Téged áldunk,<br/>Teljes szívünkből imádunk!...</lines>
+    </verse>
+  </lyrics>
+</song>

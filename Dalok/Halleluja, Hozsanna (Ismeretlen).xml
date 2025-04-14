@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:25">
+  <properties>
+    <titles>
+      <title>Halleluja, Hozsanna</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja, hozsanna</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus Isten Fia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, hozsanna</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jézus Krisztus él! Ő él!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus Christus Gottes Sohn</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus Christus lebt! Er lebt!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:51">
+  <properties>
+    <titles>
+      <title>Szentlélek jöjj, és töltsd be életünk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szentlélek jöjj és töltsd be életünk!<br/>Állj mellénk ma és jöjj, maradj velünk!<br/>Ó, Lélek jöjj és gyújtsd tüzet bennünk!<br/>Hívj harcodba és vértezd fel szívünk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Várunk Urunk, hozz életünkbe fényt!<br/>Tégy tisztává és adj nekünk reményt!<br/>Ó, állj mellénk, hogy újra élhessünk,<br/>Rázz minket fel és újítsd meg hitünk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jöjj, Istenünk, hisz Téged vár a föld.<br/>Add fényedet, mely benned él!<br/>Szentlélek jöjj, tölts új erővel föl,<br/>A szíveinkben tápláld a reményt.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:08">
+  <properties>
+    <titles>
+      <title>Adjatok az Úrnak dicsőséget</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - vasárnapok" entry="32"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adjatok az Úrnak dicsőséget,<br/>* ismerjétek el hatalmát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kegyes szemed legyen rajtunk,<br/>* tebenned van bizodalmunk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Segítségünk az Úr nevében van,<br/>* aki mennynek és a földnek alkotója.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Köztünk él!</title>
+      <title>God is here!</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>OH....<br/>Szemünket nyisd meg, Uram-akarunk látni!<br/>Szenteld meg szívünk, Uram-hogy ismerjünk Téged!<br/>Nyisd meg fülünk, Uram,-hogy meghalljunk Téged!<br/>Cselekedj bennem, törj most fel bennem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Köztünk él, bennünk él, Ő az Úr, ki eljön értem<br/>És közbenjár, hogy lássam Jézus szent arcát!<br/>Itt van Ő, a Megmentő, Élő Úr, Ő hűséges!<br/>Közbenjár, hogy meglássam, oh, Jézus szent arcát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Leomlik minden gát és áttör a fényed, <br/>Uralmad véget nem ér, imádnak a nemzetek<br/>Nyisd meg a mennyet Uram, áradjon szellemed,<br/>Cselekedj bennem, törj most fel bennem!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy!<br/>Zengjük: Szent vagy!<br/>Halleluja: Itt az Úr!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>OH...</lines>
+    </verse>
+  </lyrics>
+</song>

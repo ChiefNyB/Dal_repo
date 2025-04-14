@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Most átadom néked</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most átadom néked az életemet,<br/>jó Atyám örök Istenem!<br/>Bármit is adsz, azt megköszönöm,<br/>elfogadok mindent, Te vagy örömöm!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teáltalad élek és benned bízom én.<br/>Testem, lelkem is néked él!<br/>Nem vágyom másra,<br/>csakhogy veled éljek,<br/>kezedbe teszem egész életem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mivel Benned bízom, ó irgalmas Atyám!<br/>Mivel Benned bízom, ó ádott jó Atyám!</lines>
+    </verse>
+  </lyrics>
+</song>

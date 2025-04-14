@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:13">
+  <properties>
+    <titles>
+      <title>Az élet megjelent</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az élet megjelent, <br/>az élet megjelent<br/>Láttuk és köztünk él<br/>Láttuk és köztünk él<br/>Az Atyával élünk a Fiúval<br/>Az Atyával élünk Jézussal</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Ő nem ereszt el</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Körülvesz a völgy, hol a halál sötét árnyékot vet,<br/>De szeretete őriz és véd.<br/>Fölkavar és zúg a vad vihar itt a szívemben bent,<br/>Ő velem van és ennyi elég.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Démonhad sem rémít, ha Isten karja érint.<br/>Ha Isten karja érint, mitől félnék hát?<br/>Kitől félnék hát?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Atyám nem, nem soha nem hagysz el. Sima úton sártengeren.<br/>Nem, nem soha nem hagysz e! Hegyre fel, vagy völgybe le.<br/>Nem, nem soha nem hagysz el! Most is itt vagy énvelem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Közeleg a fény, amely betölt, ha célba érek,<br/>A dicsőséges, tündöklő fény.<br/>Közeleg nap, mikor vége minden szenvedésnek,<br/>Már egyre jobban ismerem én.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Közeleg a fény, amely betölt, ha célba érek,<br/>Közeleg a nap, mikor vége minden szenvedésnek.<br/>Addig is áldom, Istenem áldom!</lines>
+    </verse>
+  </lyrics>
+</song>

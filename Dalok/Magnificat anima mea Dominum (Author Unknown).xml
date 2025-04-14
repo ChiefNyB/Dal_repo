@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:39">
+  <properties>
+    <titles>
+      <title>Magnificat anima mea Dominum</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magnificat anima mea Dominum.<br/>Hm… Magnificat. Hm… Magnificat.</lines>
+    </verse>
+  </lyrics>
+</song>

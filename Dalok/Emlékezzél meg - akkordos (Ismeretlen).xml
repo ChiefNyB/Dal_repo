@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>D-----------------------G6--G<br/>Emlékezzél meg az Úr jóságáról!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>D-------------------F#m<br/>Emlékezzél meg oltalmáról,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>-------Gmaj------------F#m<br/>Mert olyan magas, mint az ég</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>---Em7---------------------<br/>Hűséges, s megtartó kegyelme</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>D/A--A---G------G/F#m-Em7<br/>Hozzánk nagy az ő kegyelme</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>------A-D<br/>Népe iránt</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>D-----------------------G6--G<br/>Viharokban Ő erő várunk</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>D-------------------F#m<br/>Mikor szélvész dúl, karjába zár</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>-------Gmaj------------F#m<br/>S amilyen távol van napkelet,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>---Em7---------------------<br/>Oly messze veti el tőlünk bűneinket.</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>D/A-A-G-G/F#m-Em7<br/>Nem fogy el irgalma</lines>
+    </verse>
+    <verse name="v2f">
+      <lines>------A-D<br/>Népe iránt</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Gyötrelmemben felkiáltok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Ujjongj az úrnak! - népdalzsoltárok" entry="58"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyötrelmemben felkiáltok,<br/>s meghallgat az Úr, ha szólok:<br/>Gonosz nyelvtől, Uram ments meg,<br/>hazug szótól szabadíts meg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi is sújtson, mi is verjen,<br/>álnok, rút nyelv, mi büntessen?<br/>Tüzes nyilak üszkös lángja,<br/>rekettye-tűz vad izzása.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jaj, be hosszú száműzöttség,<br/>körülöttem barbár népség.<br/>Ha békére nyílik ajkam,<br/>dúl a vész, bár nem is szóltam.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>Én Uram, te adtad életem</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ÉN URAM, TE ADTAD ÉLETEM, TE FOGTAD KÉT KEZEM, MIÓTA MEGSZÜLETTEM. ÉN URAM, TE ŐRZÖD ÉLETEM, VIGYÁZOD LÉPTEMET, MERT TERVED VAN VELEM!<br/>ÉN URAM, UTAT MUTATSZ NEKEM, VEZETSZ ÖSVÉNYEDEN, MIÓTA MEGSZÜLETTEM. ÉN URAM, VILÁGÍTASZ NEKEM, VIGYÁZOD LÉPTEMET, MERT TERVED VAN VELEM.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>EZÉRT ÁLDLAK, IMÁDLAK, SEGÍTS, HOGY MINDEN TETTEM TÉGED DICSÉRJEM, AMIG ÉLEK, ISTENEM, ÁLDLAK, IMÁDLAK, TE VAGY MÁR MEGVCÁLTÓM ÉS MEGTARTÓM, CSAK ÁLTALAD ÉLEK!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ÉN URAM, UTAT MUTATSZ NEKEM, VEZETSZ ÖSVÉNYEDEN, MIÓTA MEGSZÜLETTEM. ÉN URAM, VILÁGÍTASZ NEKEM, HOGY FÉNYED LEHESSEK, EZ A TERVED ÉNVELEM!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>BRIDGE: HALLELUJA, ÉLETEM KEZEDBEN HALLELUJA, VELEM VAGY, NEM HAGYSZ EL!..</lines>
+    </verse>
+  </lyrics>
+</song>

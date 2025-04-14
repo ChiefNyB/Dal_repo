@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:13">
+  <properties>
+    <titles>
+      <title>Az igaz lelkek Isten kezében</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="659"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az igaz lelkek Isten kezében vannak,<br/>a gonosz kínzása nem érinti őket.<br/>Az oktalanok holtnak vélik őket,<br/>de ők már a békében vannak.</lines>
+    </verse>
+  </lyrics>
+</song>

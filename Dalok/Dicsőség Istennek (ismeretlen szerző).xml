@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:18">
+  <properties>
+    <titles>
+      <title>Dicsőség Istennek</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék könyv" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicső ‖: ség Istennek mindörökké! Örömét lelje minden művében! Bárcsak fogadná tetszéssel énekem, hiszen gyönyörűségem csak benne lelem.:‖ (Dicső) (ké!, ben!, kem, lem)</lines>
+    </verse>
+  </lyrics>
+</song>

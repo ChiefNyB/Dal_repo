@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Tizenhárom fodor…</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="128"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tizenhárom fodor van a szoknyámon.<br/>Azt gondoltam, férjhez megyek a nyáron.<br/>De már látom, semmi se lesz belőle.<br/>Tizenkettőt vágatok le belőle.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tizenhárom veréb ugrál a jégen,<br/>Azt gondoltam, hogy elvesznek a télen,<br/>De már látom, semmi se lesz belőle,<br/>Tizenkettőt elhessentek belőle.</lines>
+    </verse>
+  </lyrics>
+</song>

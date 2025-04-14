@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>O, mily csodás</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó mily csodás, és mily dicső,<br/>mikor megérint minket Isten szerelme!<br/>Ez csodálatos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jöjj, hát ünnepeljünk, ettől zengjen a föld!<br/>Hozva jó reménységet, mikor békéje betölt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Királysága eljött, szívünk így kiált: <br/>Gyertek, énekeljük együtt zengve mennyei himnuszát!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallja hát zenéjét, és dicséretét az ég! <br/>Vígan és nagy örömmel együtt kiáltjuk szerteszét:</lines>
+    </verse>
+  </lyrics>
+</song>

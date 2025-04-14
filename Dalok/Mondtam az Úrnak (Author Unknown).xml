@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Mondtam az Úrnak</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="607"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mondtam az Úrnak:<br/>könyörülj rajtam<br/>* gyógyítsd meg az én lelkemet, mert vétkeztem ellened.</lines>
+    </verse>
+  </lyrics>
+</song>

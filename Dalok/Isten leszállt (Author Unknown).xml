@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:29">
+  <properties>
+    <titles>
+      <title>Isten leszállt</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="358"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Isten leszállt a felhőben, és megjelent dicsőségben.<br/>Isten leszáll, közel jön ő, Neve: végtelen irgalom.<br/>Elrejtőztél a felhőben, közel jöttél a szívemhez.<br/>Kerestelek, kiáltottam, neved: végtelen irgalom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megszólított a felhőből, odaemelt maga mellé, tűz tündökölt a felhőben. Neve: végtelen irgalom.<br/>És a szikla-hasadékban elrejtettél mély titkodban,<br/>sebeidben rejtőztem el, neved: végtelen irgalom.</lines>
+    </verse>
+  </lyrics>
+</song>

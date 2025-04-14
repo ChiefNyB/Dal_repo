@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Vidám, hangos dallal</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vidáman, hangos dallal ébresztem fel a hajnalt,<br/>Alig várom, hogy lássam életem Istenét.<br/>Ajtóm sarkig kitárom, dicsérem és imádom,<br/>jelenléte megérint, lelkem szárnyal a Menny felé.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus az egyetlen, nagyszerű és tökéletes, itt él a szívemben.<br/>Jézus az egyetlen, az életem már össze van kötve vele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nap mint nap új erőt ad, szelíd hangján így bíztat:<br/>Bátran folytasd a harcot, gyerünk, csak így tovább!<br/>Nagyon jól ismer engem, átveszi minden terhem,<br/>Ő a legjobb barátom, mindig számíthatok rá.</lines>
+    </verse>
+  </lyrics>
+</song>

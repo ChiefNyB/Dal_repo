@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:27">
+  <properties>
+    <titles>
+      <title>Hozzád kiáltok</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hozzád kiáltok Uram, én szirtem,<br/>ne fordulj el szótlanul tőlem,<br/>hogy ne legyek, ha néma maradnál,<br/>hasonló ahhoz, ki sírba szállt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Igen áldott az Úr! Áldott az Úr!<br/>Meghallgatja esedezéseim szavát.<br/>Igen áldott az Úr! Áldott az Úr<br/>Meghallgatja esedezéseim szavát.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Halld meg kérlek, esedezésem szavát,<br/>mikor fennszóval kiáltok Hozzád!<br/>Mikor két kezem felemelem szent helyed felé,<br/>mert csak tőled jön a segítség.</lines>
+    </verse>
+  </lyrics>
+</song>

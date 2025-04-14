@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Amíg el nem indulunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amíg el nem indulunk,<br/>Míg a láb a vízre lép,<br/>Még a legkisebb út is<br/>Csak távoli cél.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Míg csak álmodozgatunk,<br/>S közben tétova a kéz,<br/>Addig látszik csak úgy,<br/>Hogy az élet nehéz.<br/>Addig érezzük azt,<br/>Hogy a hit nem elég.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ha fúj a szél, a hajó, 		olyan felborítható.<br/>Partot ér, ez a jó, mert a Mester hangja szól.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mindig el kell kezdeni,<br/>És az első perc kemény.<br/>De pont akkor kell hinni,<br/>Ha nincs is remény.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hogyha léptünk régen tart,<br/>És egy nagy viharba ér,<br/>Sose gondoljuk azt,<br/>Hogy már nincs menekvés.<br/>Mert a hitünk pont itt<br/>Kezd el működni épp.</lines>
+    </verse>
+  </lyrics>
+</song>

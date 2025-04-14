@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:09">
+  <properties>
+    <titles>
+      <title>Áldjátok az Istent, minden</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="672"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áldjátok az Istent, minden angyalai, ti erős hatalmak,<br/>kik hallván hangját, megteszitek híven az ő parancsát.</lines>
+    </verse>
+  </lyrics>
+</song>

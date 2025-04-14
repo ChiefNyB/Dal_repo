@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Álmodtam százszor</title>
+      <title>Szükségem van Rád</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c2 c3</verseOrder>
+    <authors>
+      <author type="words">Pintér Béla</author>
+      <author type="music">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="293"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Álmodtam százszor és elképzeltem,<br/>Milyen lesz majd, ha eljössz hozzám.<br/>Nyílik az ajtó, ott látlak Téged.<br/>Mit mondok majd, hogy nézek Rád?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emlékszem, vártam azon az estén,<br/>Hogy halljam hangod, beszélj hozzám.<br/>Ajtómnál álltál, csendben zörgettél,<br/>Az álmom így vált valósággá.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beléptél hozzám, asztalhoz ültünk,<br/>Elmondtam szívem minden titkát.<br/>Néztem az arcod, megtudtam mindent,<br/>Azóta szükségem van Rád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljött a reggel, nálam maradtál,<br/>Végigbeszéltük az éjszakát.<br/>Maradj itt végleg, ezt kértem Tőled,<br/>S te boldogan igent mondtál.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Beléptél hozzám, asztalhoz ültünk,<br/>Elmondtam szívem, minden titkát.<br/>Néztem az arcod s megtudtam mindent,<br/>Azóta szükségem van Rád.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Beléptél hozzám, asztalhoz ültünk,<br/>Elmondtam szívem, minden titkát.<br/>Nézted az arcom, megtudtál mindent,<br/>Azóta szükségem van Rád.</lines>
+    </verse>
+  </lyrics>
+</song>

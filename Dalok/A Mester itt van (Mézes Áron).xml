@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A Mester itt van</title>
+    </titles>
+    <authors>
+      <author type="words">Mézes Áron</author>
+      <author type="music">Mézes Áron</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="54"/>
+      <songbook name="Zöld könyv" entry="425"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Mester itt van, ma is gyógyít,<br/>Jézus gyógyít és szabaddá tesz.<br/><br/>Ne vidd tovább a terhedet,<br/>Ő letörli minden könnyedet,<br/>gyászod nagy örömre fordul!</lines>
+    </verse>
+  </lyrics>
+</song>

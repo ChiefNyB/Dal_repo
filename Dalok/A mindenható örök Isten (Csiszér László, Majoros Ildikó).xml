@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A mindenható örök Isten</title>
+      <title>Új élet Krisztusban k. himnusz</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+      <author type="words">Majoros Ildikó</author>
+      <author type="music">Majoros Ildikó</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="285"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mindenható örök Isten<br/>hívott téged magához,<br/>mert neked, mint gyermekének<br/>új életet ajándékoz.<br/>Szeretetével megragad<br/>és Lelke által szabadságot ad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ez új élet, ez új remény<br/>új élet, már a tiéd,<br/>csak nyisd meg most szíved!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A mindenható örök Isten<br/>hívott engem magához<br/>mert nekem, mint gyermekének<br/>új életet ajándékoz.<br/>Szeretetével megragad<br/>és Lelke által szabadságot ad.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ez már új élet,<br/>már új remény,<br/>ez már új élet,<br/>már az enyém,<br/>mert átadtam szívem.</lines>
+    </verse>
+  </lyrics>
+</song>

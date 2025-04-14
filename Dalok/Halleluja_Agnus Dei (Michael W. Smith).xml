@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:25">
+  <properties>
+    <titles>
+      <title>Halleluja/Agnus Dei</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Halleluja, Halleluja!<br/>Te vagy Úr, ez a dal Neked szól!<br/>Halleluja, Halleluja!<br/>Te vagy Úr, ez a dal Neked szól!<br/>Halleluja!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, Szent vagy<br/>Örök Isten, Hatalmas!<br/>Méltó vagy Urunk, méltó vagy Urunk!<br/>Győztes Bárányunk, Szent vagy!<br/>Örök Isten, Hatalmas!<br/>Méltó vagy Urunk, Méltó vagy Urunk</lines>
+    </verse>
+  </lyrics>
+</song>

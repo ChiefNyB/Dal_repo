@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Oly kevés az élet</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oly kevés a élet a szívemben,<br/>Ha nem vagy énbennem,<br/>Vágyom rá, hogy megértő legyek!<br/>Vezess el a szeretet  útjára, mely az<br/>örök élet záloga,<br/>Vágyom rá, hogy vígasz legyek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Taníts meg úgy szeretni, a gyengét felkarolni<br/>És odaadni érte az életem.<br/>Gyújtsd meg a fényt, adj még esélyt<br/>Hogy szeresselek, hogy szeressem azt, kit küldesz felém:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áraszd reám szerető lelkedet,<br/>Töltsd el a szívemet,<br/>Hogy kegyelmedből éljem az életem.<br/>Alázattal szolgáljak neked,<br/>Csak Téged kövesselek,<br/>Teljes szívből viszont szeresselek!</lines>
+    </verse>
+  </lyrics>
+</song>

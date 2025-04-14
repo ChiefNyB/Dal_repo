@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Jövök a kereszthez - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>E-------------------E/G#------H/D#-<br/>Jövök a kereszthez, jövök a kereszthez,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>----------C#m---C#m/H-A-A/F#<br/>Neked halált hozott, nekem életet.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>E------------------E/G#-----H/D#--C0<br/>Jövök a kereszthez, jövök a kereszthez,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>------C#m---C#m/H-A-A/F#<br/>Az élet forrása testedből ered.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>---------------E/G#-------------Amaj<br/>Nincsen más hely, ahol megpihenhetek,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>---------------F#m-----F#m/E------H4-H<br/>Nincsen más mód, hogy letegyem bűnömet,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>-------E----------E/D---------A/C#-----Am/C<br/>Amit gondolattal, tettel vagy szóval elkövettem.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>-E//H---------A/H---------E-----<br/>Teremts újra tiszta szívet bennem!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>---------------E/G#-------------Amaj<br/>Nincsen más út, amely szabdságra vezet,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>------------F#m-----F#m/E------H4-H<br/>Nincsen más vér, ami lemossa bűnömet,</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>-----E----------E/D---------A/C#-----Am/C<br/>Jézus, hűséges Isten, vonj magadhoz engem,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>-E//H---------A/H---------E-----<br/>Teremts újra tiszta szívet bennem!</lines>
+    </verse>
+  </lyrics>
+</song>

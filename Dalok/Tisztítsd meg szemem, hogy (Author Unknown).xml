@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg szemem, hogy</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="173"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tisztítsd meg szemem, hogy Téged lásson!<br/>Tisztítsd meg fülem, hogy Téged halljon!<br/>‖: Nyisd meg a szívem, hogy befogadjon! :‖×3<br/>Nyisd meg a szívem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vidd a lábamat, hogy Hozzád érjen!<br/>Emeld két karom, hogy átöleljen!<br/>‖: Mentsd meg a lelkem, hogy Benned éljek! :‖×3<br/>Mentsd meg a lelkem!</lines>
+    </verse>
+  </lyrics>
+</song>

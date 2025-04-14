@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:26">
+  <properties>
+    <titles>
+      <title>Hazamegyek, ez a világ nem</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="431"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Hazamegyek, ez a világ nem a hazám.<br/>Tudom hogy Ő, Jézus király vár én reám. :‖<br/>‖: Jöjj el jöjj el hát! :‖<br/>Jézus király!</lines>
+    </verse>
+  </lyrics>
+</song>

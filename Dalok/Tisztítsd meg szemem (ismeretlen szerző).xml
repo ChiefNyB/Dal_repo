@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Tisztítsd meg szemem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="173"/>
+      <songbook name="Kék könyv" entry="144"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tisztítsd meg szemem,<br/>hogy Téged lásson!<br/>Tisztítsd meg fülem,<br/>hogy Téged halljon!<br/>Nyisd meg szívem,<br/>hogy befogadjon!…<br/>Nyisd meg szívem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vidd a lábamat,<br/>hogy Hozzád érjen!<br/>Emeld két karom,<br/>hogy átöleljen!<br/>Mentsd meg a lelkem,<br/>hogy Benned éljek!…<br/>Mentsd meg a lelkem!</lines>
+    </verse>
+  </lyrics>
+</song>

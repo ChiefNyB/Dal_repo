@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:16">
+  <properties>
+    <titles>
+      <title>Cigány himnusz, Zöld az erdő</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zöld az erdő, zöld a hegy is.<br/>A szerencse jön is, megy is.<br/>Gondok kése húsunkba vág,<br/>Képmutató lett a világ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egész világ ellenségünk<br/>Űzött tolvajok közt élünk.<br/>Nem loptunk mi, csak egy szöget,<br/>Jézus vérző tenyeréből.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isten, könyörülj meg nékünk,<br/>Ne szenvedjen tovább népünk,<br/>Megátkoztál, meg is vertél,<br/>Örök csavargókká tettél.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Isten, könyörülj meg nékünk,<br/>Ne szenvedjen tovább népünk<br/>Megáldottál, megváltottál<br/>Országodba befogadtál</lines>
+    </verse>
+  </lyrics>
+</song>

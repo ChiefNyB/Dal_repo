@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:29">
+  <properties>
+    <titles>
+      <title>Irgalmad tengerében</title>
+    </titles>
+    <authors>
+      <author>L. Cooley &amp; L. LeBlanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>IRGALMAD TENGERÉBEN ELMÉLYÜLÖK, URAM, KEGYELMED TARTJA LÉTEM-MINDENEM TŐLED VAN!<br/>HOZZÁD JÖVÖK, JELENLÉTED ÁTJÁR! VÁROK RÁD, SZÍVEM NYITVA ÁLL!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>HOVÁ MENNÉK? KIHEZ FUTNÉK? E VILÁGON NINCSEN SZÁMOMRA HELY!<br/>HOVÁ MENNÉK? KIHEZ FUTNÉK? HISZ KÉT KAROD VÁR REÁM, ÉS EZ NEKEM ELÉG!</lines>
+    </verse>
+  </lyrics>
+</song>

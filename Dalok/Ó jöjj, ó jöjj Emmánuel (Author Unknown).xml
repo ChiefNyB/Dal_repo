@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó jöjj, ó jöjj Emmánuel</title>
+    </titles>
+    <verseOrder>v1 c1 v3 c1 v4 c1 c2 c3 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó jöjj, ó jöjj Emmánuel<br/>csak Téged áhít Izrael.<br/>És Hozzád sóhajt untalan,<br/>mert Isten híján hontalan.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Örvendj, örvendj, ó Izrael,<br/>hogy eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó jöjj, ó jöjj el Jesse vesszeje,<br/>és állj a rossznak ellene!<br/>A mélyből, mely már eltemet,<br/>s a tűzből mentsd ki népedet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó jöjj, ó jöjj el Napkelet<br/>ím árva néped költöget.<br/>Törd át a sűrű éj ködét,<br/>és oszlasd gyászát szerteszét!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó jöjj királyi Sarjadék!<br/>az üdvöt néped várja rég.<br/>A menny honába tárj utat,<br/>ne legyen része a kárhozat!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó jöjj, ó jöjj el, nagy Király,<br/>Ki Sína hegyről szólottál!<br/>Hogy törvényt lássál népeden,<br/>Jöjj fenségednek teljiben!</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Örvendj, örvendj, ó te magyar nép,<br/>mert eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Örvendj, örvendj, Új Jeruzsálem,<br/>mert eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Örvendj, örvendj, ó én szívem,<br/>mert eljövend Emmánuel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó jöjj, ó jöjj Emmánuel<br/>csak Téged áhít ó az én szívem<br/>És Hozzád sóhajt untalan,<br/>mert Isten híján hontalan.</lines>
+    </verse>
+  </lyrics>
+</song>

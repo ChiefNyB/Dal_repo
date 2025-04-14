@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Az Úr irgalma végtelen</title>
+      <title>Láncom lehullt</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Az Úr irgalma végtelen,<br/>Ezt folyton érzem én.<br/>Habár nincs semmi érdemem,<br/>Ő mégis hord kezén.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Láncom lehullt, szabad vagyok,<br/>mert az Úr elveszni nem hagyott.<br/>Kegyelme tartja meg az életem,<br/>az Úr irgalma végtelen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs arra szó, sem gondolat,<br/>mi jóval áld az Úr.<br/>Ha lankadok, Ő szárnyat ad,<br/>és terhem mind lehull.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sok itt a bűn és küzdelem,<br/>az orkán zúgva dúl,<br/>de minden vészben, tengeren<br/>megtart, megvéd az Úr.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha véget ér az életem,<br/>új otthont nyújt az ég.<br/>Ott még szebb hangon zenghetem,<br/>a Bárány énekét.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:49">
+  <properties>
+    <titles>
+      <title>Rád bízom, Rád bízom</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="147"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rád bízom, Rád bízom, a fényes napokat Rád bízom.<br/>Rád bízom, Rád bízom, a nehéz napokat is.<br/>Sorsom legyen a Te kezedben,<br/>biztos helye van a féltő szívedben,<br/>ezért hát Rád bízom, …</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem félek, nem félek, ha volna mitől is, nem félek.<br/>Nem félek, nem félek, de kérem az erődet.<br/>Támaszt keresek az erődben,<br/>vígaszt a szomorú, nehéz időkben,<br/>- ha lesznek, nem félek …</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reménység, reménység, a holnap felől is reménység.<br/>Reménység, reménység megtart, ha jön a kétség.<br/>Fény lesz ott, ahol ma sötétség,<br/>élet ott, ahol ma reménytelenség,<br/>- ezért hát reménység …</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicsérünk, dicsérünk, mi Téged Jézusunk dicsérünk!<br/>Dicsérünk, dicsérünk, és áldunk, alleluja!<br/>Jézus, Te vagy a mi Királyunk,<br/>Téged leborulva szívből imádunk,<br/>- örökké dicsérünk …</lines>
+    </verse>
+  </lyrics>
+</song>

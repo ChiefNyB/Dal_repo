@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Áraszd ránk Szentlelkedet</title>
+    </titles>
+    <authors>
+      <author>(Lelkes Napok Tábor 2013)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Áraszd ránk Szentlelkedet, nyisd meg felettünk a mennyet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hullj eső, kenet jöjj, szálljon ránk harmat a mennyből!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsőséged áraszd ránk!<br/>A Te fényed áraszd ránk!<br/>Jelenléted áraszd ránk, Istenünk!</lines>
+    </verse>
+  </lyrics>
+</song>

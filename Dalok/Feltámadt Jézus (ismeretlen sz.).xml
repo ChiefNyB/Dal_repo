@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:22">
+  <properties>
+    <titles>
+      <title>Feltámadt Jézus</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feltámadt Jézus, Te vagy az élet.<br/>Téged vár, szomjazik a néped.<br/>Mutasd meg arcod, jöjj közénk újra.<br/>Hogy néked zengjen az alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amen, alleluja!<br/>Amen, alleluja!<br/>Amen, alleluja!<br/>Amen, alleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

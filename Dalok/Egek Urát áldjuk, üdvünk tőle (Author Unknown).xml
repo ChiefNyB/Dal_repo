@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Egek Urát áldjuk, üdvünk tőle</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="196"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Egek Urát áldjuk, üdvünk tőle várjuk, zengjen víg alleluja.<br/>Rendületlen Kőszál, népe fölött őrt áll, zengjen víg alleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Övé földnek mélye, ormok meredélye, zengjen víg alleluja,<br/>műve föld és tenger, fia minden ember, zengjen víg alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Tégy eggyé, Urunk - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>G--------C---D-D7-G------C----D-D7<br/>Tégy eggyé Urunk, tégy eggyé, Urunk,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>-------C-------D----------G--D/F#--Em<br/>Hogy meglássa a világ, hogy el   jöt     tél,</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>C--------D--C---G<br/>Tégy eggyé, Urunk!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>G------------------C-------D-D7<br/>Ó, mily szép, mily gyönyörűséges</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>---G----------C-----------D-D7<br/>A testvérekkel egységben lenni!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>----C---D--------G-D/F#-Em<br/>Az Úr áldása bőven ömlik ránk,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>--C-------D---C----G<br/>Mint a túlcsorduló olaj!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szívünk, lelkünk vigadjon</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="67"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívünk, lelkünk vigadjon,<br/>Mert ma örömnap vagyon,<br/>Mária mennyegzője,<br/>Ma vagyon szent ünnepe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok is vigadnak,<br/>Ékes koszorút fonnak<br/>Menny s föld királynéjának,<br/>A szép Szűz Máriának.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Egész mennyország vigad,<br/>Egyedül pokol jajgat,<br/>Mert a szép Szűz Mária<br/>Sátánok megrontója.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent József, Szűz Mária,<br/>Nézz e kis társaságra,<br/>Mely mennyegződ napjára<br/>Jött, magasztalásodra.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fogadd köszöntésünket,<br/>Méltó üdvözlésünket,<br/>Engedd, veled mennyekben<br/>Legyünk szent mennyegződben.</lines>
+    </verse>
+  </lyrics>
+</song>

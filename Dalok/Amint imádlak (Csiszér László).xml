@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Amint imádlak</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="164"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amint imádlak Téged, Jézus,<br/>szerelmed folyama átmossa lelkem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halleluja, halleluja!<br/>Halleluja, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

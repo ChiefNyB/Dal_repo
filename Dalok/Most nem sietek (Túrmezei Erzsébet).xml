@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Most nem sietek</title>
+    </titles>
+    <authors>
+      <author>Túrmezei Erzsébet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Most nem sietek,<br/>most nem rohanok,<br/>most nem tervezek,<br/>most nem akarok,<br/>most nem teszek semmit sem,<br/>csak engedem, hogy szeressen az Isten.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most megnyugoszom,<br/>most elpihenek<br/>békén, szabadon,<br/>mint gyenge gyerek,<br/>és nem teszek semmit sem,<br/>csak engedem, hogy szeressen az Isten.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>S míg ölel a fény<br/>és ölel a csend,<br/>és árad belém,<br/>és újjáteremt,<br/>míg nem teszek semmit sem,<br/>csak engedem, hogy szeressen az Isten,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Új gyümölcs terem,<br/>másoknak terem,<br/>érik csendesen<br/>erő, győzelem...<br/>ha nem teszek semmit sem,<br/>csak engedem, hogy szeressen az Isten.</lines>
+    </verse>
+  </lyrics>
+</song>

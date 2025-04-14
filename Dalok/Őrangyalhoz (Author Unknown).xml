@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Őrangyalhoz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Imák és válaszok" entry="79"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Őrangyalom, szívből kérlek,<br/>Légy vezérem, amíg élek,<br/>Ments meg engem bűntől, bajtól,<br/>Ne hagyj el a halálomkor.<br/>Mindig jóra figyelmeztess,<br/>Úgy vezess a jó Istenhez.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Őrangyalom, szívből kérlek,<br/>Bűntől, bajtól őrizzél meg.<br/>Életemben légy vezérem,<br/>Halálomkor állj mellettem. Amen</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nincs olyan fájdalom, gond</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincs olyan fájdalom, gond, mit meg nem oldhat.<br/>Nincs olyan nagy hegy, mit Ő meg nem mozdíthat.<br/>Nincs oly sötét, nagy vihar, mit le nem csendesít.<br/>Nem lehet oly bánatod, amin Ő nem segít.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mert e világnak terheit mind vállain hordta<br/>Tudom testvérem,  hogy téged is hordoz majd.</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Így szól: „Jöjj hozzám, ha megfáradtál, nyugalmat én adok.”</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>End<br/>Mert e világnak terheit mind<br/>Vállain hordta, tudom testvérem,<br/>Hogy téged is hordoz majd. /2x/<br/>Jézus hordoz majd....</lines>
+    </verse>
+  </lyrics>
+</song>

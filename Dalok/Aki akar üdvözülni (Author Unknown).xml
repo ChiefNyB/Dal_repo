@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:08">
+  <properties>
+    <titles>
+      <title>Aki akar üdvözülni</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="212"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aki akar üdvözülni,<br/>életét kell jobbítani,<br/>a szent hitet megtartani,<br/>és gyümölcsét megteremni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egyházunknak tanítása,<br/>igéjének hallgatása:<br/>ez vezet az igaz hitre<br/>és a boldog reménységre.</lines>
+    </verse>
+  </lyrics>
+</song>

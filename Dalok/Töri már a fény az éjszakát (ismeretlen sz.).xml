@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Töri már a fény az éjszakát</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Töri már a fény az éjszakát,<br/>Velünk kezdd az ébredést, Atyánk!<br/>Repednek a száraz kősziklák<br/>Szőkőkútként tör az én imám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Neked zengjen ég és föld, mert kihoztál a mélységből!<br/>Veled teljen itt és fönn, minden perc az életből.<br/>Szavad szült a népekből, új népet, most ébred föl.<br/>A sötétség úgy fél ettől, dicsőséges fényedtől,<br/>Dicsőséges fényedtől.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fáj a szív, a táj is érzi már,<br/>Vihar lesz a csendből, új világ.<br/>Lefoszlik sok állarc, délibáb<br/>De szökőkútként tör az én imám.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Hozd el mától, hozd el mától,<br/>Hozd el mától az ébredést!<br/>És nagy tábor közel, s távol készül már az ég felé.</lines>
+    </verse>
+  </lyrics>
+</song>

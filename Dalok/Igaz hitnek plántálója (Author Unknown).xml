@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:27">
+  <properties>
+    <titles>
+      <title>Igaz hitnek plántálója</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="286"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Igaz hitnek plántálója,<br/>pogányságnak megrontója,<br/>István király, ki a hitre eljuttattál,<br/>te vagy, aki néppé tettél, törvényt adtál.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Elvezettél az Egyházhoz,<br/>római szent igazsághoz,<br/>országodat Máriának ajánlottad,<br/>halálodkor minden gondját reá hagytad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Az Istennek trónusánál,<br/>a mennyei szent Királynál<br/>István király, légy e népnek szószólója,<br/>benned bízó magyaroknak pártfogója!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Emlékezzél meg az Úr</title>
+      <title>Think About His Love</title>
+    </titles>
+    <copyright>© 1987 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="words">Walt Harrah</author>
+      <author type="music">Walt Harrah</author>
+      <author type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="61"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emlékezzél meg az Úr jóságáról!<br/>Emlékezzél meg oltalmáról,<br/>mert olyan magas, mint az ég,<br/>hűsége és megtartó kegyelme hozzánk.<br/>Nagy az Ő kegyelme népe iránt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viharokban Ő erős várunk,<br/>mikor szélvész dúl, karjába zár.<br/>Amilyen távol van napkelet,<br/>oly messze veti el tőlünk bűneinket.<br/>Nem fogy el irgalma népe iránt!</lines>
+    </verse>
+  </lyrics>
+</song>

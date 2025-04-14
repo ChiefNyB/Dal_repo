@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:39">
+  <properties>
+    <titles>
+      <title>Let me love you more HU</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">I'm in love with a Man <br/>I'm in love with a Stranger<br/>I'm in love with my Maker<br/>whom I have never seen<br/><br/><tag name="y">Szerelmes vagyok egy Emberbe, <br/>Szerelmes egy idegenbe<br/>Szerelmes az alkotómba,<br/>Kit még nem sosem láttam</tag></lines>
+      <lines>I'm in love with the Lamb <br/>I'm in love with the Lion<br/>I'm in love with my Savior<br/>whom I have yet to know<br/><br/><tag name="y">Szerelmes a Bárányba, <br/>Szerelmes az Oroszlánba<br/>Szerelmes a megmentőmbe,<br/>Kit még nem ismerek</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O won't You let me love You more, <br/>this is all that I desire<br/>Won't You let me love You more<br/>this is all that I require<br/><br/><tag name="y">Engedd, hogy jobban szeresselek, <br/>ez minden vágyam<br/>Engedd, hogy jobban szeresselek,<br/>ez minden, amit kérek</tag></lines>
+      <lines>Won't You let me love You more<br/>this is my deepest heart's desire<br/>Won't You let me love You more<br/>still more and more<br/><br/><tag name="y">Engedd, hogy jobban szeresselek, <br/>ez szívem legmélyebb vágya<br/>Engedd, hogy jobban szeresselek<br/>még jobban, még jobban</tag></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You could give to me the gift of walking on water<br/>Maybe I will raise the dead<br/>I have one life to live<br/>all I have to give to You is love<br/><br/><tag name="y">Megadhatod, hogy vizen járjak<br/>Talán a halottat is feltámasztom<br/>Egy életem van, s mindaz, mit neked adhatok,<br/>az a szerelmem</tag></lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">If I never walk on water <br/>if I never see the miracles<br/>If I never hear your voice so loud<br/><br/><tag name="y">S ha sosem járok vizen, <br/>ha nem látom a csodákat<br/>Ha nem hallom hangodat<br/>olyan hangosan</tag></lines>
+      <lines>Just knowing that You love me <br/>is enough to keep me here<br/>Just hearing those words<br/>is enough is enough to satisfy<br/><br/><tag name="y">Tudni azt, hogy szeretsz, <br/>elég ahhoz, hogy itt tartson<br/>Hallani szavaid elég;<br/>elég, hogy megelégítsen engem</tag></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You do You do You satisfy <br/>I couldn't leave even if a tried<br/>I must have You I must have You<br/><br/><tag name="y">Ezt teszed - megelégítesz engem<br/>Ha akarnék se tudnék elmenni innen<br/>Kellesz nekem, kellesz nekem!</tag></lines>
+    </verse>
+    <verse name="v6">
+      <lines>When it's been said <br/>and when it's all been done<br/>When the race is run<br/>it all comes to love<br/><br/><tag name="y">Amikor minden elmúlik <br/>és minden elhallgat<br/>Amikor megfutottuk a versenyt,<br/>csak a szeretet marad</tag></lines>
+    </verse>
+  </lyrics>
+</song>

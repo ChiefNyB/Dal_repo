@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:32">
+  <properties>
+    <titles>
+      <title>Jézus Krisztus, megengedem</title>
+      <title>Hét fiatal k. himnusz</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus Krisztus, megengedem Néked,<br/>hogy minden nap formálj és alakíts engem!<br/>Testvérem, kérlek, fogadj el így,<br/>mert a szeretet minket Hozzá visz!</lines>
+    </verse>
+  </lyrics>
+</song>

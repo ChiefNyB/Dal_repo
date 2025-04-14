@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Meggyógyítod, aki szenved</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Németh S. Judit</author>
+      <author type="music">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="120"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meggyógyítod, aki szenved, mennyei erővel,<br/>ha fájdalmas lelkünk, betöltöd örömmel.<br/>Úr Jézus, életünk felett végy teljes uralmat,<br/>hogy szent népedhez méltón várjuk nagy napodat.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram, éhezem a Te igazságodat,<br/>szomjazom a Szentlélek vizét,<br/>Jézus, töltsd tele a lámpásomat,<br/>hadd világítson, míg visszatérsz!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szentlélek, erősíts meg, újíts meg, friss kenet, hogy megtegyem akaratod, adj még több kegyelmet,<br/>hogy hűséggel harcoljam meg a hit nemes harcát, utam végén meglássam az én Uram arcát!</lines>
+    </verse>
+  </lyrics>
+</song>

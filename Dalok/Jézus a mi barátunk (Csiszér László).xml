@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:31">
+  <properties>
+    <titles>
+      <title>Jézus a mi barátunk</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus a mi barátunk,<br/>Jézus a mi barátunk,<br/>Szeret Ő bennünket, minden kis gyereket,<br/>Jézus a mi barátunk!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus a mi barátunk, <br/>Jézus a mi barátunk,<br/>Szereti ........, szereti ......,<br/>Jézus a mi barátunk!</lines>
+    </verse>
+  </lyrics>
+</song>

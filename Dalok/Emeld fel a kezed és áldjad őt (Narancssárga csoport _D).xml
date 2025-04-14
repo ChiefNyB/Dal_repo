@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Emeld fel a kezed és áldjad őt</title>
+    </titles>
+    <authors>
+      <author>Narancssárga csoport :D</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Emeld fel a kezed és áldjad Őt,<br/>Lássa meg a szemed az Üdvözítőt<br/>Hallja meg a füled, mit mondd neked,<br/>Mozdítsd meg a lábad és járj Vele!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bal kéz, jobb kéz, <br/>Emeld a két kezed,<br/>Bal szem, jobb szem,<br/>Lásd az Úr közel!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bal fül, jobb fül,<br/>Halld meg az Ő szavát,<br/>Bal láb, jobb láb,<br/>Indulj, ne várj tovább!</lines>
+    </verse>
+  </lyrics>
+</song>

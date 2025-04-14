@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Méltó a Bárány</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Mézes Áron</author>
+      <author type="music">Mézes Áron</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="53"/>
+      <songbook name="Zöld könyv" entry="404"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Méltó a Bárány, hogy vegyen dicsőséget,<br/>hódolatot, áldást és tisztességet!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>‖: Szent az Ő neve örökké! :‖<br/>Szent az Ő neve örökké!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Mighty and Glorious  - Méltó, dicsőséges</title>
+    </titles>
+    <authors>
+      <author>F.O. SSS</author>
+      <author>Paul Wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hangja, mint megannyi vízesés, <br/>hallani már csupa remegés,<br/>haja fehér, szeme tűzben ég,<br/>arca gyémánt fény!<br/>Királyi ruhája ragyogó Nap,<br/>derekát övezi színarany,<br/>ezrek dicsérik a Bárány Nevét,<br/>kiáltva és zengve szent énekét:<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Méltó, dicsőséges, egyedül vagy szentséges <br/>Isten, Győztes, hatalmas!<br/>Magasságos, gyönyörű, félelmetes és erős<br/>hatalmad végtelen nagy!<br/>Áldunk, szent vagy, szent vagy Istenünk!<br/>Szent a Bárány, szent vagy Istenünk!<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ott ül a trónon az Emberfia, <br/>igazság, s irgalom jogara,<br/>Istennek Főpapja, legfőbb Király,<br/>fején fénylő korona.<br/>Szentek állnak üveg tengerén,<br/>imádják Őt, ki a Kezdet és Vég.<br/>Ezre dicsérik a Bárány nevét,<br/>kiáltva és zengve szent énekét:<br/><br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>szent vagy, szent vagy szent vagy, <br/>szent vagy szent a Bárány, szent vagy, szent a Bárány,<br/>szent vagy, szent vagy Istenünk!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

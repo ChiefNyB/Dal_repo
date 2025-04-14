@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Téged dicsér az egész Föld</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Téged dicsér az egész Föld, olyan csodálatos vagy, Téged dicsérlek én is, mert szívem megtisztítottad!<br/>Ref.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus Krisztus, áldott légy, a Te áldozatodért, szívem mindig Téged dicsér, az életem csodálatos szép!<br/>Ref.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lényed betölti a lelkem, szépségedben gyönyörködhetem, közelséged oly jó nékem, alleluja, áldom szent neved!<br/>Ref.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Áldott a mi Istenünk, az Ő neve csodálatos, Jézus Krisztust adta nékünk, szeretete a bűntől feloldott!</lines>
+    </verse>
+  </lyrics>
+</song>

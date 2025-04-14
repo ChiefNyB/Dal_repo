@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:29">
+  <properties>
+    <titles>
+      <title>Irgalmas,  Istenünk/ Örvendjenek igazak</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Irgalmas Istenünk jóságát mindörökké éneklem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>-Örvendjenek az igazak és ujjongjanak Isten színe előtt,*<br/>és örömükben ujjongjanak.<br/>-Énekeljetek az Istennek, nevének zsoltárt zengjetek,*<br/>valóban Úr az Ő neve.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>-Árváknak atyja és özvegyek gyámola.*<br/>Isten az ő szentséges templomában.<br/>-Isten a hontalannak otthont készít,*<br/>a rabnak visszaadja szabadságát.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>-Bőséges esőt adtál, Istenünk,*<br/>örökségedbe, ellankadt népedbe új erőt öntöttél.<br/>-Lakást adtál nyájadnak azon a földön,*<br/>amelyet jóságodban szereztél a szegényeknek, Istenünk.</lines>
+    </verse>
+  </lyrics>
+</song>

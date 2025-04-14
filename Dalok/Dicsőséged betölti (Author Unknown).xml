@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:18">
+  <properties>
+    <titles>
+      <title>Dicsőséged betölti</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Zsoltár - páros hétköznap" entry="39"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsőséged betölti * a mennyet és a földet!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magasabb az egeknél * az Úr dicsősége!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lecsillapodott haragod, Istenem, * és megvigasztaltál engem!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Istenem, kérlek téged: * teremts bennem tiszta szívet!</lines>
+    </verse>
+  </lyrics>
+</song>

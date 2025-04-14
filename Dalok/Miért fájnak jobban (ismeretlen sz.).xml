@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Miért fájnak jobban</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Miért fájnak jobban <br/>a magányos szívek,<br/>talán nem kérdezik meg<br/>sosem idegenek…<br/>Elhitted egyszer,<br/>vár a nagy világ,<br/>másnap már jól becsaptad<br/>házad ajtaját.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tékozló vándorlásban szétszórtad minden kincsedet a semmibe.<br/>Hazatalálnak a hűtlenek,<br/>hazatalálnak, amíg lehet.<br/>Érzik ők, hogy nincsen más,<br/>aki szívből szeret.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hazatalálsz…<br/>Mindenki tudja,<br/>ha nincsen senkije,<br/>akkor újra megérzi,<br/>hogy hol is van a helye.<br/>És visszafordul<br/>a régi ház felé,<br/>ahol mindig is várják,<br/>bármi történt vele.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Verse</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Szerencséd megpróbáltad,<br/>de maradt még<br/>egy út neked – hazafelé.<br/>Hazatalálnak a hűtlenek,<br/>hazatalálnak, amíg lehet.<br/>Érzik ők, hogy nincsen más,<br/>aki szívből szeret.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hazatalálnak a hűtlenek, <br/>hazatalálnak, amíg lehet.<br/>Visszatérnek házukba<br/>a boldog ünnepek!<br/>Hazatalálsz!</lines>
+    </verse>
+  </lyrics>
+</song>

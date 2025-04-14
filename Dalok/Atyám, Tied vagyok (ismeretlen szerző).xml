@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Atyám, Tied vagyok</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="19"/>
+      <songbook name="Kék könyv" entry="357"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, Tied vagyok, és szüntelen imádlak!<br/>Dicsőség szent nevednek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dicsőség nevednek, dicsőség nevednek,<br/>Dicsőség szent nevednek!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lélek, Tied vagyok, és szüntelen imádlak!<br/>Dicsőség szent nevednek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus, Tied vagyok, és szüntelen imádlak!<br/>Dicsőség szent nevednek!</lines>
+    </verse>
+  </lyrics>
+</song>

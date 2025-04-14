@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:28">
+  <properties>
+    <titles>
+      <title>Imádlak Mindenható Istenem</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak Mindenható Istenem, <br/>Szeretlek teljes szívemből!<br/><br/>Imádlak Tökéletes  Istenem,<br/>Szeretlek teljes elmémből!<br/><br/>Imádlak Fenséges  Istenem,<br/>Szeretlek teljes lelkemből!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szent vagy, szent vagy, szent vagy!!!<br/>Mindörökké szent!!!</lines>
+    </verse>
+  </lyrics>
+</song>

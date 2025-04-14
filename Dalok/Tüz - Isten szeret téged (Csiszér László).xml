@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Tüz - Isten szeret téged</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tűz, Tűz, Tűz,<br/>A Szeretet emésztő Tűz,<br/>Tűz, Tűz, Tűz,<br/>Lángolj bennem.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Isten szeret Téged,<br/>De a bűn a halálba küld.<br/>Jézus megváltott,<br/>Jöjj, és fogadd be Őt!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Új szívet hozott néked,<br/>A kőszíved összetörte,<br/>Szentlelekét adja és hív:<br/>Kövess engem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Testvérek egysége vár,<br/>A középpont Jézus Király,<br/>Hirdessük Igéjét,<br/>Míg meghallja az egész világ.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tűz, Tűz, Tűz,<br/>A Szeretet Istene Tűz,<br/>Tűz, Tűz, Tűz,<br/>Lángolok Veled!</lines>
+    </verse>
+  </lyrics>
+</song>

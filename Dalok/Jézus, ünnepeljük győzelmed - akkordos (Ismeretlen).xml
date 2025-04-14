@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézus, ünnepeljük győzelmed - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>E--B--A-B-E----B----A---B<br/>Jézus ünnepeljük győzelmed,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>E--B-A-B--E------------B<br/>Jézus, magasztaljuk neved!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>E--B-A-B-E---B--A---B-<br/>Jézus, hálával köszöntünk,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>E--B-----A-----B--E<br/>Jézus, Tiéd az életünk!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>A---------B----E--B/D#-C#m<br/>Szabadításod örök életre szól,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>-------A-----------B--------------A/C#--------B/D#<br/>Drága véreddel fizettél, hogy megments a gonosztól,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A---------B----E-B/D#-C#m------A-----F#m--------B--<br/>Hogy a halálból életre keljünk, dicsőség néked mesterünk!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A--------------B----E-------B/D#---C#m<br/>Szentleleked eljött, hogy betöltsön erővel,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>------A------B--------A/C#------B/D#-<br/>Hogy tanúid lehessünk tökéletes szívvel.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>A----------B--E-B/D#----C#m<br/>Jelenlétedben eltűnnek a bajok,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>-----A-------F#m-----------B-<br/>S a boldog reménység felragyog.</lines>
+    </verse>
+  </lyrics>
+</song>

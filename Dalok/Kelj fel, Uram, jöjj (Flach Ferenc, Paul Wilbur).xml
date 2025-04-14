@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kelj fel, Uram, jöjj</title>
+      <title>Baruch Haba</title>
+    </titles>
+    <copyright>© 1987 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Paul Wilbur</author>
+      <author type="music">Paul Wilbur</author>
+      <author type="translation">Flach Ferenc</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="262"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kelj fel, Uram, jöjj,<br/>hagyd el nyughelyed,<br/>jöjj, Isten ereje!<br/>És mi ujjongunk majd,<br/>mikor védesz és eltakarsz<br/>a Te szerelmed igazságával.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baruch haba b'shem Adonaj,<br/>áldott, ki az Úr nevében jön!<br/>Baruch haba b'shem Adonaj,<br/>áldott, ki az Úr nevében jön!</lines>
+    </verse>
+  </lyrics>
+</song>

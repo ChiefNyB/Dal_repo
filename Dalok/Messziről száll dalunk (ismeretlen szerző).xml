@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Messziről száll dalunk</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga könyv" entry="184"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Messziről száll dalunk,<br/>halld meg, ó szent Urunk!<br/>Csak feléd indulunk vágyakozva.<br/>Életünk töltse el<br/>Lelked szent hatalma!<br/>Így fogadj el, bűneinkkel,<br/>Krisztusunk, vígy magasba!</lines>
+    </verse>
+  </lyrics>
+</song>

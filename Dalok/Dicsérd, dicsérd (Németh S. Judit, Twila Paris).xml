@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:17">
+  <properties>
+    <titles>
+      <title>Dicsérd, dicsérd</title>
+      <title>Praise Him</title>
+    </titles>
+    <copyright>© 1984 New Spring</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Twila Paris</author>
+      <author type="music">Twila Paris</author>
+      <author type="translation">Németh S. Judit</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="64"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérd, dicsérd, dicsérd az Urat,<br/>dicsérd, dicsérd, mert Ő irgalmas!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>És Ő jó, hódolatra méltó,<br/>ha Hozzá fordulsz, nem vet el,<br/>erős karja felemel, halleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

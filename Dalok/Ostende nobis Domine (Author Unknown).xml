@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Ostende nobis Domine</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="16"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ostende nobis Domine,<br/>misericordiam tuam.<br/>Amen! Amen! Maranatha! Maranatha!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ostende nobis, nobis Domine,<br/>misericordiam tuam, tuam.</lines>
+    </verse>
+  </lyrics>
+</song>

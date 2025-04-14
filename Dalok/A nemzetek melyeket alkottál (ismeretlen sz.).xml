@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A nemzetek melyeket alkottál</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A nemzetek melyeket alkottál<br/>Mindnyájan eljönnek és leborulnak előtted Uram<br/>Dicsérik drága szent Neved<br/>Hisz nagy vagy Te,csak te művelsz csodákat<br/>Egyedül Te vagy Isten<br/>Egyedül Te vagy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vezess minket, utadon <br/>Hogy igazságodban járjunk<br/>S a szívünket tedd egyszerűvé, hogy féljük neved<br/>Teljes szívemből dicsérlek<br/>Én Uram vagy én Istenem<br/>Mindörökké magasztalom, csodálatos Neved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uram nagy vagy Te, és a Te irgalmad<br/>Amelyet árasztasz szüntelenül reám<br/>Kiragadtad a lelkemet<br/>az alvilágból s a halál torkából</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Egyedül Te vagy Isten<br/>Egyedül Te vagy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Irgalomnak Istene<br/>Igaz vagy és türelmes<br/>Tekints ránk jöjj szabadíts meg és add a Te erődet<br/>Te megsegítesz, és megvigasztalsz<br/>Átölelsz és bátorítasz<br/>Gyönyörűséged imádatában lángolok Veled<br/>Lángolok Veled…..</lines>
+    </verse>
+  </lyrics>
+</song>

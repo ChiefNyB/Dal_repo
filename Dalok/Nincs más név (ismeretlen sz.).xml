@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nincs más név</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nincs más név, csak az Úr Jézus neve,<br/>nincs más név, melyben lenne üdvösség.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nincs más név, csak az Ő neve, Jézus,<br/>Övé minden áldás, Övé minden dicsőség,<br/>Övé a hatalom és erő!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neve legyen áldott égen és földön,<br/>és fönt a mennyei helyeken.<br/>Neve legyen áldott égen és földön,<br/>és Övé legyen minden dicséret, áldás!</lines>
+    </verse>
+  </lyrics>
+</song>

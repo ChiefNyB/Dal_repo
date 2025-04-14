@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kántorok, kántorok</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kántorok, kántorok egybegyűlve,<br/>Legyünk itt mindnyájan üdvözölve,<br/>Áldjon a jó Isten mindnyájunkat,<br/>Hogy híven szolgáljuk Egyházunkat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akik most együtt itt jelen vagyunk,<br/>Úr Jézus, tégedet mind imádunk.<br/>Áldjon a jó Isten mindnyájunkat,<br/>Hogy híven szolgáljuk Egyházunkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Énekeljünk tehát az Istennek<br/>Szép, buzgó egyházi énekeket.<br/>Áldjon a jó Isten mindnyájunkat,<br/>És a jó házigazdájainkat.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:14">
+  <properties>
+    <titles>
+      <title>Az úrral való egység imája</title>
+    </titles>
+    <authors>
+      <author type="words">Az Úr</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>„A mi lábunk együtt járjon.<br/>A kezünk együtt gyűjtsön.<br/>A szívünk együtt dobbanjon.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A bensőnk együtt érezzen.<br/>Az elménk gondolata egy legyen.<br/>A fülünk együtt figyeljen a csöndességre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A mi szemünk egymásba nézzen és (tekintetünk) összeforrjon.<br/>Az ajkunk együtt könyörögjön az Örök Atyához irgalomért.”</lines>
+    </verse>
+  </lyrics>
+</song>

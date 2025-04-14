@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nemsokára indulunk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nem sokára indulunk, mert hallottuk az elhívást.<br/>Az Úr szája szólt: Utat készítettem már.<br/>Nem sokára indulunk, így szól a mennyei látás:<br/>Ha átkelünk a nagy folyón, ott már az ígéret földje vár.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A folyón túl már látom, milyen gazdagon termő a föld.<br/>És sok-sok nép van rajta, aki csak reánk vár.<br/>A folyón túl már látom, a nagy várost, Jerikót.<br/>A falai még állnak, de néhány nap és leomlanak már.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beviszel minket az ígéret földjére.<br/>Nincs akadály, néped készen áll.<br/>Beviszel minket, s ha átkelünk a nagy folyón,<br/>Miénk lesz az a föld, miénk lesz az a föld. /a föld/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Meszenteljük magunkat, tiszta kezeket emelünk fel.<br/>Jézus nevében indulunk, betelve Szentlélekkel.<br/>A kürtök riadót fújnak már, a sereg minden tagja készen áll.<br/>Ha átkelünk a nagy folyón, ott már az ígéret földje vár.</lines>
+    </verse>
+  </lyrics>
+</song>

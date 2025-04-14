@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:10">
+  <properties>
+    <titles>
+      <title>Alleluja, Jézus szeret</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Alleluja, alleluja,<br/>alleluja, alleluja!:|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus szeret...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eljön újra...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hozsianna...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Marana tha...</lines>
+    </verse>
+  </lyrics>
+</song>

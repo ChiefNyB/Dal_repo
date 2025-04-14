@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Ment két tanítvány</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">(Spirituálé)</author>
+      <author type="music">(Spirituálé)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="281"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ment két tanítvány mély csalódással,<br/>minden remény nélkül.<br/>Jött akkor Jézus, hallgatták szavát,<br/>ettől szívük lángra gyúlt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maradj velünk,<br/>mert már esteledik,<br/>és lemenőben van már a nap!<br/>Maradj velünk,<br/>mert a hitünk kihűl,<br/>ha igéd nem halljuk Uram!</lines>
+    </verse>
+  </lyrics>
+</song>

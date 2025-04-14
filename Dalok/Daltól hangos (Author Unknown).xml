@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:17">
+  <properties>
+    <titles>
+      <title>Daltól hangos</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="29"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daltól hangos erdő, mező, berek, merre járunk mi, cserkészek.<br/>Dalol a szív, muzsikál a lélek, vele dalol a természet.<br/>Aki dalol, sohse fárad el, aki felnéz, sohse csügged el.<br/>Mert a dalos kedvet a Jóisten adja, ő ad erőt a nagy harcra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobog a föld lépéseink alatt, visszhangoznak a kőfalak.<br/>Öreg házak közt ifjú legények dacosan, keményen lépnek.<br/>Nyisd ki, anyám, az ablakodat, csókold meg a cserkészfiadat!<br/>Szép Magyarországnak kicsi katonája, büszke szemmel nézhetsz rája.</lines>
+    </verse>
+  </lyrics>
+</song>

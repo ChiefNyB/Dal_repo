@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Una hora non potuistis</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Latin imák" entry="73"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Una hora non potuistis vigilare mecum,<br/>qui exhortabamini mori pro me?<br/>Vel Judam no videtis, quomodo non dormit,<br/>sed festinat tradere me Judæis?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quid dormitis? Surgite et orate,<br/>ne intretis in tentationem.<br/>Vel Judam no videtis, quomodo non dormit,<br/>sed festinat tradere me Judæis?</lines>
+    </verse>
+  </lyrics>
+</song>

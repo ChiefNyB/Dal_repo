@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:53">
+  <properties>
+    <titles>
+      <title>Te vagy városunk Ura</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Hanna  projekt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Te vagy városunk Ura<br/>És az ország Királya<br/>Ez a nemzet is Tiéd, Uram!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te vagy a Fény, amit várnak<br/>A remény, de nem látnak<br/>Békesség, amit szívük még vár.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nézd, e város Rád vár<br/>Nézd, e város Rád vár</lines>
+    </verse>
+    <verse name="b1">
+      <lines>A legjobb rész még hátravan<br/>A szél söpör és felkavarja ezt a vizet<br/>Az ébredés még hátravan<br/>Elér és átjár minden szívet</lines>
+    </verse>
+  </lyrics>
+</song>

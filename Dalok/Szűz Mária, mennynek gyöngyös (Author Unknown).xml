@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:53">
+  <properties>
+    <titles>
+      <title>Szűz Mária, mennynek gyöngyös</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="247"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szűz Mária, mennynek gyöngyös ékessége,<br/>tiszta szeretetnek aranya, szépsége!<br/>Szeretlek és áldlak, én szívembe zárlak.<br/>Mária, Mária, bűnösök Szószólója!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó Mária, tenger csillaga, est fénye,<br/>szegény gyarló ember második reménye!<br/>Általad, szűz Szépség, Istennek dicsőség!<br/>Mária, Mária, bűnösök Szószólója!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te szent Szülöttednek földi útját jártad,<br/>minden szavát, tettét te szívedbe zártad.<br/>Ó legyen, míg élünk, élted nyitott könyvünk!<br/>Mária, Mária, bűnösök Szószólója!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>MIndenem Tiéd</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mindenem Tiéd, az egész életem,<br/>A szívem teljesen átadom neked.<br/>Saját terveim és büszkeségemet<br/>Most lábadhoz teszem, s új életet nyerek!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tiéd minden álmom,<br/>az életem, mindenem!<br/>Tiéd minden álmom,<br/>az életem, mindenem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keresztnél várlak, ahol dalom hozzád száll,<br/>Kárnak ítélem, mit a világ felkínál.<br/>Hogy megismerjelek dicsőségedben,<br/>S hogy fájdalmadban is osztozzam veled.</lines>
+    </verse>
+  </lyrics>
+</song>

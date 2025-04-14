@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:39">
+  <properties>
+    <titles>
+      <title>Legyen ez az áldozatunk</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="338"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Legyen ez az áldozatunk,<br/>melyet Néked bemutatunk,<br/>erősítő a halálra,<br/>s lelkek örök megváltása.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kik előttünk már elmentek,<br/>lássák meg a fényességet,<br/>s erejéből e szentségnek<br/>nyerjék el az üdvösséget!</lines>
+    </verse>
+  </lyrics>
+</song>

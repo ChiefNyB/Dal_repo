@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Minden kár és szemét</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden kár és szemét, mit nélküled tettem.<br/>Minden elmúlik majd, ha ott állok előtted.<br/>Ezért nélküled én már semmit nem teszek.<br/>Kérlek, Jézus, cselekedjél bennem.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Küldj el Jézus, használd az életem.<br/>Szolgád vagyok, néked hódolok.<br/>Igen, küldj el Jézus, használd az életem,<br/>Szolgád vagyok örökké.</lines>
+    </verse>
+  </lyrics>
+</song>

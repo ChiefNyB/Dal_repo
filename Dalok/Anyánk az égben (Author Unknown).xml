@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Anyánk az égben</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="3C"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anyánk vagy az égben, ruhád a Nap, tündökölsz a fényben.<br/>Lábad alatt a Hold, koronáznak csillagok,<br/>Mária, Mária, ragyogj!<br/>Csöndes jelenlét, aggódó anya,<br/>Istenre figyelő, hogy mi az akarata.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hét tőrrel átjárt, fájdalmak szíve,<br/>a szenvedést is vállaló, mert nagy az Ő hite.<br/>Minden ember anya, igaz menekítő,<br/>oltalom és védelem, velünk könyörgő.</lines>
+    </verse>
+  </lyrics>
+</song>

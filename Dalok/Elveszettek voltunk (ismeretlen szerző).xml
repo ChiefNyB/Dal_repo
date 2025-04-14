@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Elveszettek voltunk</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">ismeretlen szerző</author>
+      <author type="music">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="241"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Elveszettek voltunk, <br/>a Sátán foglya voltunk,<br/>de kihozott a mélyből,<br/>a halál völgyéből.<br/>Jézus szeret minket,<br/>oltalmába vesz minket,<br/>vigyáz ránk,<br/>mint anya az egyszülött fiára.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jézus, visszavárlak, <br/>Jézus, Téged várlak,<br/>Jézus, Te vagy a mindenem,<br/>a mindenem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Most élem a legszebb,<br/>a legszebb éveimet,<br/>várom az Úr Jézust,<br/>várom a Vőlegényem.<br/>Minden éjjel felnézek az égre,<br/>hogy mikor jön már<br/>az én Vőlegényem.</lines>
+    </verse>
+  </lyrics>
+</song>

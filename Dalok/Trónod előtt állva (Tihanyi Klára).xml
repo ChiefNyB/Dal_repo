@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Trónod előtt állva</title>
+      <title>Klári Édesapjának</title>
+    </titles>
+    <verseOrder>v1 c1 c2 c3 v1 c1 c2 c3</verseOrder>
+    <authors>
+      <author>Tihanyi Klára</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent vagy, szent vagy,<br/>irgalmas vagy, Istenem!<br/>Hűséged nagy,<br/>hatalmad is végtelen!<br/>Szerelmed oly vonzó,<br/>erős, féktelen,<br/>Fényed mindig<br/>utat mutat énnekem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Trónod előtt állva,<br/>Lelked várva<br/>áldom szent neved.<br/>Jézus arra vágyom,<br/>hadd legyek már<br/>mindig csak Veled!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Fogadd el és áldd meg,<br/>kérlek, minden percemet,<br/>II:Életem most<br/>átadom Neked!:II</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ó-ó-ó...</lines>
+    </verse>
+  </lyrics>
+</song>

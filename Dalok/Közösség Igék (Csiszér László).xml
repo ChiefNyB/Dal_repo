@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Közösség Igék</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mt 23,8<br/>Ti ne hívassátok magatokat rabbinak, mert egy a ti mesteretek, ti pedig mindnyájan testvérek vagytok.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mt 22,37<br/>Jézus ezt felelte: „Szeresd Uradat, Istenedet teljes szívedből, teljes lelkedből és teljes elmédből.<br/>Mt 22,38<br/>Ez a legnagyobb, az első parancs.<br/>Mt 22,39<br/>A második hasonló hozzá: Szeresd felebarátodat, mint saját magadat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lk 10,29<br/>De az igazolni akarta magát, ezért megkérdezte Jézustól: „Kit tekintsek felebarátomnak?”<br/>Lk 10,30<br/>Erre Jézus átvette a szót: „Egy ember Jeruzsálemből Jerikóba ment. Rablók kezébe került. Ezek kifosztották, véresre verték, és félholtan otthagyták.<br/>Lk 10,31<br/>Történetesen egy pap tartott lefelé az úton. Észrevette, de elment mellette.<br/>Lk 10,32</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Ugyanígy közeledett egy levita is. Látta, de továbbment.<br/>Lk 10,33<br/>Végül egy szamariainak is arra vitt az útja. Amikor meglátta, megesett rajta a szíve.<br/>Lk 10,34<br/>Odament hozzá, olajat és bort öntött a sebeire és bekötözte, magát az embert pedig felültette teherhordó állatára, elvitte egy fogadóba és ápolta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Lk 10,35<br/>Másnap elővett két dénárt, odaadta a fogadósnak ezzel a kéréssel: Viseld gondját, és ha többet költenél, visszatérve megadom neked. -<br/>Lk 10,36<br/>Mit gondolsz, e három közül ki volt az igazi felebarátja annak, aki a rablók kezébe került?”<br/>Lk 10,37<br/>„Aki irgalmas szívű volt iránta” - felelte. Jézus így folytatta: „Menj és tégy te is hasonlóképpen.”</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jn 13,35<br/>Arról tudják majd meg rólatok, hogy a tanítványaim vagytok, hogy szeretettel vagytok egymás iránt.”</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mt 18,21<br/>Akkor odalépett hozzá Péter és megkérdezte: „Uram, ha vét ellenem testvérem, hányszor kell neki megbocsátanom? Talán hétszer?”<br/>Mt 18,22<br/>„Mondom neked - felelte Jézus -, nem hétszer, hanem hetvenhétszer.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Mt 18,35<br/>Így tesz mennyei Atyátok is veletek, ha mindegyitek meg nem bocsát szívből felebarátjának.”</lines>
+    </verse>
+  </lyrics>
+</song>

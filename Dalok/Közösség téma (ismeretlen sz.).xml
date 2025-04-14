@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Közösség téma</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mt 18,20<br/>Mert ahol ketten vagy hárman összegyűlnek az én nevemben, ott vagyok közöttük.«</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekkor az anyja és a testvérei odajöttek, és kint megállva üzentek neki, és hívták őt.<br/>Mk 3,32<br/>A körülötte ülő tömegből szóltak is neki: »Íme, anyád és testvéreid keresnek téged odakinn!«<br/>Mk 3,33<br/>Ő így felelt nekik: »Ki az én anyám, és kik az én testvéreim?«<br/>Mk 3,34<br/>Aztán körültekintett azokon, akik körülötte ültek, és ezt mondta: »Íme, az én anyám és testvéreim.<br/>Mk 3,35<br/>Mert aki Isten akaratát cselekszi, az az én testvérem, nővérem és anyám.«</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arról ismeri meg mindenki, hogy az én tanítványaim vagytok, ha szeretettel vagytok egymás iránt.«</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ha a testvéred vétkezik ellened, menj és figyelmeztesd őt négyszemközt. Ha hallgat rád, megnyerted testvéredet.</lines>
+    </verse>
+  </lyrics>
+</song>

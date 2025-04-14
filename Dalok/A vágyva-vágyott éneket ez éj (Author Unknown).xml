@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A vágyva-vágyott éneket ez éj</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="786"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A vágyva-vágyott éneket ez éj visszaadja,<br/>mert föltámadt Krisztus.<br/>Hát figyeljetek reám, s vegyétek át tőlem,<br/>hogy együtt zenghessük: Alleluja.<br/>Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

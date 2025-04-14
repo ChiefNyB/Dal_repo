@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:39">
+  <properties>
+    <titles>
+      <title>Lélek, jöjj</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="Őrtüzek Imádság Háza Budapest (SSS)"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lélek, jöjj, kenet, jöjj,<br/>szálljon ránk harmat a mennyből!<br/>Hullj eső, kenet, jöjj,<br/>szálljon ránk harmat a mennyből!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áraszd ránk Szentlelked,<br/>Nyisd meg fölöttünk a mennyet!</lines>
+    </verse>
+  </lyrics>
+</song>

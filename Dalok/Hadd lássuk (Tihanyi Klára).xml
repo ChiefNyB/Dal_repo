@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Hadd lássuk</title>
+      <title>A mennyben azt kiáltják</title>
+    </titles>
+    <authors>
+      <author>Tihanyi Klára</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mennyben azt kiáltják:<br/>szent vagy Istenem!<br/>S jelenléted mindenkit betölt.<br/>Hódolnak Tenéked,<br/>a Királynak,<br/>dicsőség az Isten Fiának!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hadd lássuk azt, <br/>amit az angyalok a mennyben,<br/>Hadd zengjük együtt,<br/>hogy szent vagy!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szent vagy, szent vagy, szent vagy,<br/>dicsőség Néked,<br/>Hadd lássunk, hadd halljunk Téged, Téged!</lines>
+    </verse>
+  </lyrics>
+</song>

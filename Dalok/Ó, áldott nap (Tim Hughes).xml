@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó, áldott nap</title>
+      <title>Happy day</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyörű nap virradt fel,<br/>A halál vesztett, van ki felemel.<br/>Énekeljük: Jézus Krisztus él!<br/>Drága kereszt, üres sír,<br/>Az örök élet könyvébe beír.<br/>Énekeljük: Jézus Krisztus él.<br/>Jézus él!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ó, áldott nap, az a nap,<br/>mikor bűnöm elmostad!<br/>Ó, áldott nap, az a nap,<br/>mikor új szívet kaptam!<br/>Örökké áldott nap!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt állok lábadnál,<br/>Végre érzem, arcod rám talál,<br/>Tied vagyok, s Te az enyém már.<br/>Öröm, béke végtelen,<br/>Földi kín nem árthat már nekem,<br/>Ünnepeljünk: Jézus Krisztus él.<br/>Jézus él!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó, milyen gyönyörű nap,<br/>igazi örömöt ad,<br/>hogy megmentettél!<br/>Ó, milyen gyönyörű nap,<br/>milyen gyönyörű vagy,<br/>JÉZUS!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

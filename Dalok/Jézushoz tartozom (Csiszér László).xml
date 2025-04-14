@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézushoz tartozom</title>
+    </titles>
+    <authors>
+      <author>Csiszér László</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézushoz tartozom<br/>Csak benne bízom<br/>Legyőzte bűnömet<br/>Most már szabadon élhetek<br/>Áldom Őt, szívemől áldom Őt<br/>szívemből imádom Őt, Ő a királyom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus él énbennem,<br/>Most már győztesként élhetek<br/>Akkor is így van ez, ha nem mindig így érzem<br/>Áldom Őt, szívemől áldom Őt<br/>szívemből imádom Őt, Ő a királyom</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Ha összefog…</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="60"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha összefog karunk és egybecseng dalunk, mi sziklaerősek vagyunk,<br/>Ha egy ütemre ver hű szerető szívünk, legyőzhetetlenek leszünk.<br/>Fel cserkésztáborba, eljött a nyár, erdőknek mélye vár,<br/>Ha körülüljük tábortüzünk s föllobog a láng, a nóta hangja körbejár,<br/>Ha földerül a hajnalpír és imánk égbe száll, az Isten arca néz mireánk.</lines>
+    </verse>
+  </lyrics>
+</song>

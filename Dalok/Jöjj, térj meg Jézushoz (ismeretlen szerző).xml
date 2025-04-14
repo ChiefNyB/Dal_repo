@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj, térj meg Jézushoz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="words">ismeretlen szerző</author>
+      <author type="music">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="71"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jöjj, térj meg Jézushoz,<br/>add Néki szívedet!<br/>Jöjj, bízzál Benne,<br/>Megváltód szeret.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallgasd szelíd szavát,<br/>fogadd el hívását,<br/>ragadd meg szent kezét,<br/>most nyújtja feléd.</lines>
+    </verse>
+  </lyrics>
+</song>

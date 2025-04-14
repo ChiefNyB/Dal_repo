@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>No Longer Slaves  - Többé nem rabok</title>
+    </titles>
+    <authors>
+      <author>Jonathan David &amp; Melissa Helser</author>
+      <author>T.J. SSS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kibontasz magamból, a dal szívemhez szól<br/>jelenléted jár most  át.<br/>Szavad megszabadít ellenségeimtől<br/>félelmem már mind elszállt<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Többé nem vagyok a félelmeim rabja<br/>gyermeked vagyok.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anyám méhétől  kiválasztottál<br/>nevemen szólítottál.<br/>Újjászülettem, testvéred lettem,<br/>véred folyik testemben.<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>A tenger kettévált, átvittél rajta <br/>félelmem eltűnt, már nem fáj,<br/>megszabadítva élek, s  éneklem<br/>a tiéd vagyok már!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

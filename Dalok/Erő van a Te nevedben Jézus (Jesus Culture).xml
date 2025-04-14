@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:21">
+  <properties>
+    <titles>
+      <title>Erő van a Te nevedben Jézus</title>
+      <title>There is Power in the name of Jesus</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Erő van a Te nevedben Jézus<br/>Erő van a Te nevedben Jézus<br/>Erő van a Te nevedben Jézus<br/><br/>Láncokat tör, Láncokat tör, Láncokat tör!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Feláldozta önmagát<br/>Inygen adta a megváltást.<br/>Kitárta a Mennyország kapuját!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sereged újra készen áll! ....<br/>Láncokat tör! Láncokat tör! Láncokat tör!</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>Hatalmas erő van az Úr Jézus nevében<br/>Hatalmas erő van az Úr Jézus nevében<br/>Hatalmas erő van az Úr Jézus nevében<br/><br/>Láncokat tör, láncokat tör, láncokat tép szét az Úr<br/>Láncokat tör, láncokat tör.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

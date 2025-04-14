@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:30">
+  <properties>
+    <titles>
+      <title>Istenem, Te vagy mindenem</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Simonfalvy Krisztián</author>
+      <author type="music">Simonfalvy Krisztián</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="232"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Istenem, Te vagy mindenem,<br/>Hozzád vágyakozom!<br/>Utánad szomjazik a lelkem,<br/>Utánad sóvárog a testem<br/>kiszikkadt, kopár, víztelen földön.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Így nézek Rád a szentélyben,<br/>hogy lássam hatalmad és dicsőségedet,<br/>mert szereteted az életnél is jobb,<br/>ajkam Téged dicsőít, csak Téged dicsőít.</lines>
+    </verse>
+  </lyrics>
+</song>

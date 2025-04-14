@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:32">
+  <properties>
+    <titles>
+      <title>Jézus szeret minden kicsi gyereket</title>
+    </titles>
+    <verseOrder>v1 b1</verseOrder>
+    <authors>
+      <author type="words">Ismeretlen</author>
+      <author type="music">Ismeretlen</author>
+    </authors>
+    <songbooks>
+      <songbook name="Gyerekdalok"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus szeret minden kicsi gyereket<br/>Jézus szeret minden kicsi gyereket<br/>Jézus szeret minden kicsi gyereket,<br/>Minden kicsi gyerek jöhet hozzá.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Egy kicsi, két kicsi,<br/>három kicsi gyereket,<br/>négy kicsi, öt kicsi,<br/>hat kicsi gyereket,<br/>hét kicsi, nyolc kicsi,<br/>kilenc kicsi gyereket,<br/>Minden kicsi gyerek jöhet hozzá.</lines>
+    </verse>
+  </lyrics>
+</song>

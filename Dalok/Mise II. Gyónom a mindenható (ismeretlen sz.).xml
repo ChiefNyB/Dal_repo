@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Mise II. Gyónom a mindenható</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyónom a mindenható Istennek és nektek, testvéreim, <br/>hogy sokszor és sokat vétkeztem, gondolattal, szóval,<br/>cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kérem ezért a Boldogságos, mindenkor Szeplőtelen Szűz Máriát,<br/>az összes angyalokat és szenteket, és titeket, testvéreim,<br/>hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</lines>
+    </verse>
+  </lyrics>
+</song>

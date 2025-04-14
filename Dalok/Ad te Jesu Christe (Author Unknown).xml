@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>Ad te Jesu Christe</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="11"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ad te Jesu Christe<br/>levavi animam meam.<br/>Salvator mundi,<br/>in te speravi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Megváltó Úr Jézus,<br/>világot ölelő jóság,<br/>segíts ma rajtam,<br/>emelj föl engem.</lines>
+    </verse>
+  </lyrics>
+</song>

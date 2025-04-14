@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:57">
+  <properties>
+    <titles>
+      <title>Velem vagy mindig</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p2 c1 v3 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Kari Jobe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ha a mélyben lent járok,<br/>Tudom mellettem leszel.<br/>Ha a tűzben ott állok,<br/>Tudom győztessé teszel.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Szívből kiáltok Tehozzád,<br/>Én nem félek már.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>II: Velem vagy mindig,<br/>Velem vagy mindig,<br/>Előttem jársz védesz,<br/>Nem hagysz el ha félek. :II</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szenvedésem legmélyén<br/>Látom fényed ragyog.<br/>Az éj sötétje nem győzhet le,<br/>Tudom csak Benned bízhatok.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Harcaimban csak Te éltetsz,<br/>Én nem félek már.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Erősségem, oltalmam vagy,<br/>Menedék a viharban.<br/>Hűséged nagy, reménységem vagy,<br/>Lelkem meggyógyítottad.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>II: Megvallom, szeretlek, szívemből dicsérlek,<br/>Te úr vagy, felettem, igéd szívembe rejtem. :II</lines>
+    </verse>
+  </lyrics>
+</song>

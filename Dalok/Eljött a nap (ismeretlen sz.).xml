@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Eljött a nap</title>
+    </titles>
+    <verseOrder>v1 c1 c1 v2 v1 b1</verseOrder>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Eljött a nap és újra felkensz minket,<br/>Eljött a nap és újra betöltesz minket.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>És az Isten fiainak arcán dicsőséged felragyog.<br/>És az Isten fiainak arcán dicsőséged felragyog.<br/>Énekeld:</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Ez az a nap, ez az a nap, <br/>Ez az a nap, mit az Úr rendelt!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Örvendezek, örvendezek,<br/>Örvendezek, vígadok ezen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kezdetben teremtettél mindent.<br/>És minden teremtmény neked énekel.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dicsőséged járjon át! Dicsőséged járjon át!<br/>Dicsőséged járjon át! Dicsőséged járjon át!</lines>
+    </verse>
+  </lyrics>
+</song>

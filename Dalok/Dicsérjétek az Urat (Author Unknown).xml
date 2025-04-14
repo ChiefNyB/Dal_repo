@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:17">
+  <properties>
+    <titles>
+      <title>Dicsérjétek az Urat</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="197"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicsérjétek az Urat,<br/>mind a tágas ég alatt,<br/>hírét zengje orgona,<br/>sípszó lant és harsona.<br/>Alleluja, alleluja.<br/>Zúgva hirdesse a dob:<br/>Isten mindeneknél jobb.<br/>Alleluja, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

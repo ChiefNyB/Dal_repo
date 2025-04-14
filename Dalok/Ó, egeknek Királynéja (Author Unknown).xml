@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó, egeknek Királynéja</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="347"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, egeknek Királynéja, elhunyt hívek nagy oltalma!<br/>Irgalmasság édesanyja, szánd meg őket, ó, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus adta vérét értük, benne van csak üdvösségük.<br/>Irgalmasság édesanyja, szánd meg őket, ó, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Borítsd rájuk palástodat, tárd ki nékik két karodat!<br/>Irgalmasság édesanyja, szánd meg őket, ó, Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anyánk, mutasd jóságodat, engeszteld meg szent Fiadat!<br/>Irgalmasság édesanyja, szánd meg őket, ó, Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

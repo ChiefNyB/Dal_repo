@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Üdvözlégy Mária, magasztal</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="ZöldKönyv" entry="280"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Üdvözlégy Mária, magasztal teljes, az Úr van Teveled.<br/>Áldott vagy Te az asszonyok között<br/>És áldott a Te méhednek gyümölcse, Jézus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asszonyunk Szűz Mária, Istennek Szent Anyja.<br/>Imádkozz érettünk, bűnösökért.<br/>Most és halálunk óráján, Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

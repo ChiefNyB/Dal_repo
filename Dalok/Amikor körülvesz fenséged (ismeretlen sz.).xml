@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Amikor körülvesz fenséged</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amikor körülvesz Fenséged,<br/>Áthatol szívemen Szentséged.<br/>Dicsőséged szelíd csöndjében,<br/>Megszólítasz engem.<br/>Szelíden suttogsz hozzám, oly jó vagy.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Chorus</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Vágyom meglátni Téged, szemlélni dicsőséged!<br/>Eléd állok, imádlak én Istenem.<br/>Kezem feléd emelem, szívem keres szüntelen,<br/>Szólíts újra engem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amikor árad Szentlelked, meglátom mennyei szépséged.<br/>Hatalmad, ó, Uram végtelen, megszólítasz engem,<br/>Szelíden suttogsz hozzám, oly jó vagy.</lines>
+    </verse>
+  </lyrics>
+</song>

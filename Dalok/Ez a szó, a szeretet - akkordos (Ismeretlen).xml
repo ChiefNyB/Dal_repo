@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:22">
+  <properties>
+    <titles>
+      <title>Ez a szó, a szeretet - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F--------------------C----------------<br/>Ez a szó, a szeretet, minden nyelvben él</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gm7-----------------------B--------------C-<br/>Legyen nyugat, vagy kelet, észak bár vagy dél.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>F---------------------C-------------<br/>Ez a szó Istenről szól, mert ez Ő maga,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Gm7------------------B----C-<br/>És hogy megismerjük, eljött Fia.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>F----------------B---------<br/>A szeretet erős, nem múlik el,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>C--------------------Gm7----F/A----C-<br/>Nem gerjed haragra, gonoszt nem ró fel.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>F--------F/E-----Dm---B------B/A-G<br/>Mindent remél és hisz, mindent elvisel,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>C----------------B--------C----F-<br/>A szeretet erős, soha nem múlik el!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>F--------------------------C-----------<br/>Jézus, a mi mesterünk, mielőtt eltávozott,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gm7---------------B--------------C-<br/>Ránk, tanítványaira, új parancsot hagyott.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>F--------------------------------C--------------<br/>Azt, hogy ahogy Ő minket, úgy szeressük egymást,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Gm7--------------------------B------------C-<br/>S, hogy Krisztuséi vagyunk, megtudja így a világ!</lines>
+    </verse>
+  </lyrics>
+</song>

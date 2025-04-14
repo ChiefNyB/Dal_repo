@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nyújtsd ki a kezed!</title>
+    </titles>
+    <copyright>2008©</copyright>
+    <authors>
+      <author>Flach Ferenc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Vártam reád. vártam, hogy megismerjél,<br/>Vártam, hogy megtaláljalak.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ott voltam én. <br/>Ott voltam minden bajban.<br/>Melletted álltam, s óvtalak.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>És most is itt vagyok, hogy védelmezzelek.<br/>Bármerre jársz, féltve óvom minden léptedet.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Nyújtsd ki a kezed, fogadd el érintésemet!<br/>Érted jöttem, hogy meggyógyítsam megtört életed.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nyújtsd ki a kezed, reménnyel töltöm el szíved!<br/>Lelkem által megújítom egész lényedet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szerelmemből alkottalak, két karomban hordoztalak,<br/>Életednek minden percén vágytam hangodat.</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bármit tettél, visszavárlak, palástommal betakarlak,<br/>Gyógyításom megtalál, csak add át önmagad.</lines>
+    </verse>
+  </lyrics>
+</song>

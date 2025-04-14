@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Legjobb helyen</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A múlt még visszahúz <br/>Van emlék ami nem fakul</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>De bármi történt is velem<br/>Itt vagyok a legjobb helyen</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kezedben az életem<br/>Biztonságot adsz nekem</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ha rágódok is miérteken<br/>Itt vagyok a legjobb helyen</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Körbevesz két kezed<br/>Hatalmas karod vezet</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tenyeredbe írtad fel nevem<br/>Itt vagyok a legjobb helyen</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Terhem lábadhoz teszem<br/>Mostmár végleg elengedem</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Jézus, mindent átadok neked<br/>Mert Nálad van a legjobb helyen</lines>
+    </verse>
+  </lyrics>
+</song>

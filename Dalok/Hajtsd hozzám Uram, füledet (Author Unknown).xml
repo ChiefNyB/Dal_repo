@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Hajtsd hozzám Uram, füledet</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="391"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hajtsd hozzám Uram, füledet, s hallgass meg engem,<br/>szabadítsd meg szolgádat, mert tebenned bízik.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó dolog az Urat dicsérni,<br/>(*)<br/>zsoltározni a te nevednek, ó Fölséges!</lines>
+    </verse>
+  </lyrics>
+</song>

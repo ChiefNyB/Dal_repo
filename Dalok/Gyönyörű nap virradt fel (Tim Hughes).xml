@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Gyönyörű nap virradt fel</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyönyörű nap virradt fel,<br/>A halál vesztett, van ki felemel,<br/>Énekeljük, Jézus Krisztus él.<br/>Drága Kereszt és üres sír,<br/>Az örök élet könyvébe beír,<br/>Énekeljük, Jézus Krisztus él. Ő él!</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Eljött a nap, az a nap mikor bűnöm elmostad,<br/>Eljött a nap, ez a nap mindent megváltoztat,<br/>Semmi nem kárhoztat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Itt állok lábadnál,<br/>Végre érzem arcod rám talál,<br/>Tied vagyok, s te az enyém már.<br/>Öröm, béke végtelen,<br/>Földi kín nem árthat már nekem,<br/>Ünnepeljünk, Jézus Krisztus él. Ő él!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Eljött a nap, az a nap mikor bűnöm elmostad,<br/>Eljött a nap, az a nap mindent megváltoztat,<br/>Semmi nem kárhoztat.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ó milyen gyönyörű nap - igazi örömöt ad, hogy megmentettél,<br/>Ó milyen gyönyörű nap, milyen gyönyörű név: Jézus Krisztus</lines>
+    </verse>
+  </lyrics>
+</song>

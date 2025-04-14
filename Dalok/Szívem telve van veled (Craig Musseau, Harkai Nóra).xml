@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:52">
+  <properties>
+    <titles>
+      <title>Szívem telve van veled</title>
+      <title>Arms Of Love</title>
+    </titles>
+    <copyright>© 1991 Mercy / Vineyard Publishing, Vineyard Songs Canada</copyright>
+    <verseOrder>v1 c1 e1</verseOrder>
+    <authors>
+      <author type="words">Craig Musseau</author>
+      <author type="music">Craig Musseau</author>
+      <author type="translation">Harkai Nóra</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="18"/>
+      <songbook name="Zöld könyv" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szívem telve van Veled,<br/>drága Jézus, hű Megváltóm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hálát érzek mindazért,<br/>mit értem tettél, drága Jézus!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hogy elhívtál és befogadtál,<br/>nincsen más otthonom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Karod óv és átölel,<br/>Nálad van lakhelyem.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Jöjj közel hát, ölelj most át,<br/>szükségem van Rád!</lines>
+    </verse>
+  </lyrics>
+</song>

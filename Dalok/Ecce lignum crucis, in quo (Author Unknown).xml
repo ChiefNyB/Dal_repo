@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:18">
+  <properties>
+    <titles>
+      <title>Ecce lignum crucis, in quo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="95g"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ecce lignum crucis, in quo salus mundi pependit.<br/>Venite adoremus!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Íme, a keresztnek fája, melyen a világ Üdvössége függött.<br/>Jöjjetek imádjuk!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>P: Íme, Jézus keresztjének drága, áldott fája,<br/>ezen függ az egész világ váltságdíja,<br/>és üdvünket őáltala nyertük.<br/>H: Jöjjetek, hívek, hódoljunk és buzgó szívvel imádjuk.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>P: Íme a szent keresztfa, rajta függött valaha a világnak váltsága.<br/>H: Jöjjetek hát keresztények, hódolattal hajtsunk térdet, üdvözlégy szent keresztfa.</lines>
+    </verse>
+  </lyrics>
+</song>

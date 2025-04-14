@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:37">
+  <properties>
+    <titles>
+      <title>Kicsiny kis fényemmmel</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kicsiny kis fényemmmel, világítani fogok<br/>Áldom őt minden nap és mindenhol!<br/>Elrejtsem-e fényemet?...Nem! világítani fogok<br/>Áldom őt minden nap és mindenhol!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sátán sem állíthat meg..Nem! világítani fogok<br/>Áldom őt minden nap és mindenhol!<br/>Így teszek míg Jézus jön..Igen! világítani fogok<br/>Áldom őt minden nap és mindenhol!</lines>
+    </verse>
+  </lyrics>
+</song>

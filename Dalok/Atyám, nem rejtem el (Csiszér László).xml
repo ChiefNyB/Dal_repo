@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Atyám, nem rejtem el</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="words">Csiszér László</author>
+      <author type="music">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="200"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atyám, nem rejtem el az én sáros szívemet,<br/>ma nem bújok el Előled!</lines>
+    </verse>
+  </lyrics>
+</song>

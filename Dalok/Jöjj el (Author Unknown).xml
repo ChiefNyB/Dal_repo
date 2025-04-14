@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj el</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="287"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Jöjj el, jöjj el, jöjj el Fénylő Láng, Szentlélek jöjj, szállj le ránk! Szent lélek jöjj, szállj le ránk! :‖<br/>Jöjj el, jöjj, Igazság, remény, jöjj, maradj velünk, csodás fény! Ref.<br/>Jöjj el, jöjj, örök Szeretet, jöjj, tisztísd meg lelkünket! Ref.</lines>
+    </verse>
+  </lyrics>
+</song>

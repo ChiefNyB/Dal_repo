@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:34">
+  <properties>
+    <titles>
+      <title>Jöjj, Szentlélek, szállj le rám</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author type="words">Király Péter</author>
+      <author type="music">Király Péter</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="188"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jöjj, Szentlélek, szállj le rám,<br/>reményt hozó Fénysugár!<br/>Vezesd életem a szűk ösvényen,<br/>Segítsd levetni régi ruhám!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jöjj Szentlélek, szállj le rám,<br/>Örök boldog fénysugár.<br/>Vezesd életem a szűk ösvényen,<br/>Segíts levetni régi ruhám!</lines>
+    </verse>
+  </lyrics>
+</song>

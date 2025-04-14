@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:15">
+  <properties>
+    <titles>
+      <title>Békét kaptam a szívembe</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Békét kaptam a szívembe,<br/>Hála neked, Uram!<br/>Megnyugszik most a lelkem,<br/>Átadom magam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldalak, áldalak, Uram!<br/>Benned élni, nincs boldogabb!<br/>Áldalak, áldalak, Uram!<br/>Teljes szívemből áldalak!</lines>
+    </verse>
+  </lyrics>
+</song>

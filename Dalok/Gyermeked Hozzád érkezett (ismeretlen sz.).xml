@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Gyermeked Hozzád érkezett</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gyermeked hozzád érkezett,<br/>Ki életét átadta Neked.<br/>Megmentetted Őt a haláltól,<br/>Szabaddá tetted a rabságból.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Áldd meg, áldd meg!<br/>Áldd meg a Megváltó szívével!<br/>Áldd meg, áldd meg!<br/>Áldd meg, Istenünk, áldd meg őt!</lines>
+    </verse>
+  </lyrics>
+</song>

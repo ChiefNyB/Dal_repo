@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:55">
+  <properties>
+    <titles>
+      <title>Több vagy mindennél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Több vagy mindennél, amit emberi szem lát.<br/>Mégis annyiszor eljössz, s lehajolsz hozzám.<br/>Két kezed kísér, s gondot visel rám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ismerni arcodat, hallgatni hangodat,<br/>Érezni szent kezed, mindennél több nekem.<br/>Tiéd az életem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zúghat kint a szél, tombolhat vihar,<br/>Szerelmed megvéd, s melletem  végig kitart.<br/>Hogy megismertelek, ez boldogságot ad.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ismerni Téged, több, mint az élet,<br/>Te vagy az én Uram!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bármit is nézek, semmi nem ér fel veled.<br/>A legnagyobb kincsem az, hogy megismertelek.</lines>
+    </verse>
+  </lyrics>
+</song>

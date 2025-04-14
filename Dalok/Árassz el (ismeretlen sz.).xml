@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Árassz el</title>
+    </titles>
+    <comments>
+      <comment>verse (katolikus)
+verse (protestáns)
+
+[above are Song Tags with notes imported from                         EasyWorship]</comment>
+    </comments>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Áraszd ránk Lelkedet,<br/>Nyisd meg felettünk a mennyet!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Áraszd ránk Szellemed,<br/>Nyisd meg felettünk a mennyet!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Áradjon kenet a mennyből<br/>Árassz el, árassz el</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Árassz el, árassz el!<br/>Áradj ki folyó a mennyből!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:50">
+  <properties>
+    <titles>
+      <title>Számomra nincsen más remény</title>
+    </titles>
+    <authors>
+      <author>Narancssárga csoport :D</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>SZÁMOMRA NINCSEN MÁS REMÉNY, JÉZUS VÉRÉBEN BÍZOM ÉN<br/>MAGAMBAN ÉN SEMMI VAGYOK, AZ Ő NEVÉBEN BÍZHATOK!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>KRISZTUS LETT A SZEGLETKŐ, BŰNÖSNEK MEGMENTŐ, KŐSZIKLA A VIHARBAN, Ő AZ ÚR!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>HA JÖNNEK RÁM SÖTÉT NAPOK, KEGYELMÉBŐL ERŐT KAOK, VIHARBAN JÓL KAPASZKODOM, KÁRPIT MÖGÖTT VAN HORGONYOM!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>MAJD JÖTTÉT JELZI HARSONA, Ó, BÁRCSAK ELJUTNÉK ODA<br/>IGAZSÁGA LESZ ÖLTÖNYÖM, VÉGLEG A MENNYBE KÖLTÖZÖM!</lines>
+    </verse>
+  </lyrics>
+</song>

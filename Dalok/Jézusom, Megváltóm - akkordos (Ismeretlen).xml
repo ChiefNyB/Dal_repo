@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézusom, Megváltóm - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A---------------F#m<br/>Jézusom, Megváltóm,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>-------Dmaj-----E--<br/>Isten Fia, szabadítóm,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>--------A------------F#m<br/>Ó Jézusom, én gyógyítom</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>---------Dmaj------------E----------A--<br/>Minden bűnöm megbocsátod. Köszönöm!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>A---------------F#m<br/>Jézusom az életedet,</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>-------Dmaj-----E--<br/>Odaadtad s megkínoztak,</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>--------A------------F#m<br/>Sebeidből a véred rám folyt,</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>---------Dmaj------------E----------A--<br/>Megtisztított, megszabadított. Köszönöm!</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>A---------------F#m<br/>Jézusom, én megváltóm,</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>-------Dmaj-----E--<br/>Isten fia, szabadítóm,</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>--------A------------F#m<br/>Ó Jézusom, megmentettél,</lines>
+    </verse>
+    <verse name="v1l">
+      <lines>---------Dmaj----------E--------A--<br/>A haláltól, a pusztulástól. Köszönöm!</lines>
+    </verse>
+  </lyrics>
+</song>

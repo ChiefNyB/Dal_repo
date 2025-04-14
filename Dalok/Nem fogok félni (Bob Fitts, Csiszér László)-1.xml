@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:44">
+  <properties>
+    <titles>
+      <title>Nem fogok félni</title>
+      <title>I Will Not Be Afraid</title>
+    </titles>
+    <copyright>© 2001 Integrity's Hosanna! Music</copyright>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Bob Fitts</author>
+      <author type="music">Bob Fitts</author>
+      <author type="translation">Csiszér László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="88"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Nem fogok félni, soha nem fogok félni,<br/>nem fogok félni én Atyám:‖3×</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Szerelmed elmossa félelmem,<br/>a Te szerelmed elmossa félelmem.</lines>
+    </verse>
+  </lyrics>
+</song>

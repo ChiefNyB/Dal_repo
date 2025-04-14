@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:48">
+  <properties>
+    <titles>
+      <title>Örvendjetek, angyalok</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Dicsérjétek az Urat!" entry="101"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Örvendjetek, angyalok!<br/>Jézusunk feltámadott,<br/>És a lelkünk meglelé<br/>Ösvényét a menny felé.<br/>Alleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jó hírt hoz az Úr nekünk:<br/>a sötétség már letűnt,<br/>S nincsen rajtunk hatalma,<br/>ha a lelkünk akarja.<br/>Alleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bort és fehér kenyeret<br/>Ajánlunk fel teneked,<br/>Fogadd véle, Istenünk,<br/>Néked szentelt életünk.<br/>Alleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szent vagy, szent vagy, Jézusunk,<br/>Kősírodhoz elfutunk,<br/>S angyaliddal teneked<br/>Zengünk boldog éneket.<br/>Alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Ó, Uram, a Te igéd lámpás - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>E----------H---------C#m<br/>Ó, Uram, a Te igéd lámpás,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>----A2----H-----A-E<br/>Utamon a fényforrás!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>H------F#m----C#m----------G#m<br/>Amikor kísért szorongás, csüggedés,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A---------H-------A-E<br/>Ott vagy, így nem félek.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>H--------F#m---C#m-----------G#m<br/>És erőt veszek, Veled tovább megyek,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>A------H-C#----H<br/>Míg az út véget ér.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>H----------F#m----C#m---------G#m<br/>Nem felejtem el, hogy Te itt vagy közel,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A---------H--------A--E<br/>Jézus van itt énmelettem.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>H------------F#m---C#m----------G#m<br/>Nincs olyan veszély, amit Te ne ismernél,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>A---------H-C#-----H<br/>Te vagy ki örökké élsz!</lines>
+    </verse>
+  </lyrics>
+</song>

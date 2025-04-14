@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A Tiéd</title>
+      <title>A Tiéd teljesen</title>
+    </titles>
+    <authors>
+      <author>Jonas Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Tiéd<br/>Teljesen a Tiéd</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Első szerelmem, Te vagy az egyetlen<br/>Istenem nincsen más nékem. Hová is mehetnék<br/>A szívem a Tiéd<br/>Istenem, Rád van szükségem!</lines>
+    </verse>
+  </lyrics>
+</song>

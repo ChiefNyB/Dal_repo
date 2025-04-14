@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Urunk, áraszd ránk</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Urunk, áraszd ránk most kegyelmed,<br/>Szentelj meg bennünket!<br/>Friss szél, járj át, jöjj el!<br/>Hadd lehessek mindennap melletted,<br/>Benned rejtőzzem el!<br/>Jelenlétedből ne vess el!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Majd tágas térre állok,<br/>Hegyekről nézek szét.<br/>A Te ösvényed választom,<br/>Veled együtt járok mindenkor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ismertesd meg velem a terveidet,<br/>Mit akarsz az életemmel,<br/>Tiéd, most már a tiéd.<br/>Tégy újjá, tégy mássá,<br/>Uralkodj mindenben,<br/>Köztünk, úgy, mint a mennyben!</lines>
+    </verse>
+  </lyrics>
+</song>

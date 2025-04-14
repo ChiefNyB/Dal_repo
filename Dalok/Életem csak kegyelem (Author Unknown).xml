@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Életem csak kegyelem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="68"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>‖: Életem csak kegyelem, önérdemem nincs. :‖<br/>‖: „Veled vagyok naponta, kezeidet megfogva,<br/>te csak bízzál karomban!” – mondja az Úr. :‖</lines>
+    </verse>
+    <verse name="v2">
+      <lines>‖: Régi énem leküzdöm nagy erejével. :‖<br/>‖: „Veled vagyok naponta, kezeidet megfogva,<br/>te csak bízzál karomban!” – mondja az Úr. :‖</lines>
+    </verse>
+    <verse name="v3">
+      <lines>‖: Szeretete igazgat, ellát tanáccsal. :‖<br/>‖: „Veled vagyok naponta, kezeidet megfogva,<br/>te csak bízzál karomban!” – mondja az Úr. :‖</lines>
+    </verse>
+    <verse name="v4">
+      <lines>‖: Hűen vezet utamon, nem hagy magamra. :‖<br/>‖: „Veled vagyok naponta, kezeidet megfogva,<br/>te csak bízzál karomban!” – mondja az Úr. :‖</lines>
+    </verse>
+  </lyrics>
+</song>

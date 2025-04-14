@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>El alma queandaen amor</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="107"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El alma que'anda'en amor,<br/>ni cansa ni se cansa. O…</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Csak legyél több szeretet,<br/>ha szeretsz, meg nem fáradsz. Ó…</lines>
+    </verse>
+  </lyrics>
+</song>

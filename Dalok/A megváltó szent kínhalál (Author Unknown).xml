@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:06">
+  <properties>
+    <titles>
+      <title>A megváltó szent kínhalál</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="83"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A megváltó szent kínhalál,<br/>melyben a föld üdvöt talál,<br/>adjon, Urunk, most békülést,<br/>szívünk vágyának enyhülést.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tápláljanak szent titkaid,<br/>ihlessenek vércseppjeid,<br/>lelkünknek mélye teljen el<br/>szenvedésed emlékivel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Éljen szívünkben szüntelen<br/>e gyalázat, e gyötrelem,<br/>keresztfa, lándzsa, vas-szögek,<br/>tövisszúrások, sebhelyek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó megfeszített Jézusunk,<br/>egész szívvel fohászkodunk.<br/>Kit eladott a gyűlölet:<br/>Tenéked áldás tisztelet!</lines>
+    </verse>
+  </lyrics>
+</song>

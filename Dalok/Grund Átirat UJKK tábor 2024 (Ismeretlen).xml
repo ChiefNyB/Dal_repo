@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:23">
+  <properties>
+    <titles>
+      <title>Grund Átirat UJKK tábor 2024</title>
+    </titles>
+    <verseOrder>i1 v1 p1 c1 v2 p2 c1 e1</verseOrder>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1a">
+      <lines>Tölgyi- itt leszek<br/>Vitéz- itt leszek<br/>Szabó- itt leszek<br/>Rogács- itt leszek<br/>Bárány- itt leszek<br/>Kohajna- itt leszek</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Felszegi- itt leszek<br/>Mihály- itt leszek<br/>Kunszabó- itt leszek<br/>Csiszér- itt leszek<br/>Mikesy- itt leszek<br/>Nagy- itt leszek</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nagy a világ Vajtáig ér,<br/>De ezen a héten az Új Jerué.<br/>Itt nevet a nap sugara ránk,<br/>Adott egy kastélyt a Zichy család.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>És a fény és a nyár és a fák, az akác,<br/>És a Menny és a Föld, és a Szentháromság,<br/>Te meg én ugye szét soha nem szakadunk:<br/>Isten szent serege mi vagyunk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lélekben nyugdjunk el, bármi jöjjön is el,<br/>Igédben maradunk.<br/>Véssük ide ma fel, hogy megmarad ez a hely,<br/>Egyszer Mennybe jutunk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vad a világ, de rá se ránts<br/>Mert közöttünk rád Isten békéje vár,<br/>Ha közel a vég, nem remeg a szánk,<br/>Le fogjuk győzni, mert a Menny a hazánk.</lines>
+    </verse>
+    <verse name="p2">
+      <lines>Ez a nap, ez a hét, ez a sok tanítás,<br/>Ez a hit, ahogy nő, ez a szívdobogás.<br/>ez a jel, innen el soha nem szakadunk:<br/>Isten szent serege mi vagyunk.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Miért élnénk, miért élnénk?<br/>Ha nem Jézusért?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:46">
+  <properties>
+    <titles>
+      <title>Ó szentséges lakoma</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="760"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó szentséges lakoma!<br/>Krisztust vesszük rajta,<br/>felidézzük szenvedésének emlékét:<br/>bensőnket kegyelem tölti el,<br/>s a jövendő dicsőség záloga<br/>nekünk adatik, alleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

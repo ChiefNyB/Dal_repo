@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kanadai mise - Sanctus</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kék Könyv" entry="341"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szent, szent, szent az Úr, Ő a kezdet és a vég!<br/>Dicsőséged betölti a\ mennyet és a földet, hozsanna a\ magasságban!<br/>Áldott, aki jön az Úr nevében! Hozsanna a\ magasságban!</lines>
+    </verse>
+  </lyrics>
+</song>

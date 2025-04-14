@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:35">
+  <properties>
+    <titles>
+      <title>Kegyelmed jobb az életnél</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kegyelmed jobb az életnél,<br/>Te vagy, ki megváltottál.<br/>Igédet nem felejtem,<br/>Előtted szívem nyitva áll.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te vagy életem és mindenem,<br/>Véred lemosta a bűnömet,<br/>És kihoztál a sötétből,<br/>Sziklára állítottál föl.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kezeddel újjá formáltál<br/>És minden régi elmúlt.<br/>Szívembe változást hoztál<br/>És bensőm újra lángra gyúlt.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>End<br/>Tegnap, ma és mindörökké ugyanaz...</lines>
+    </verse>
+  </lyrics>
+</song>

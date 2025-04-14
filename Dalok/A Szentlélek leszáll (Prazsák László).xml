@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:07">
+  <properties>
+    <titles>
+      <title>A Szentlélek leszáll</title>
+      <title>A Szent Szellem leszáll</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">Prazsák László</author>
+      <author type="music">Prazsák László</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="95"/>
+      <songbook name="Zöld könyv" entry="419"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A Szentlélek leszáll,<br/>és minden megváltozik, megnyílik szemed!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A Szentlélek leszáll,<br/>és új emberré leszel, meglátod Őt, aki szeret!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Meglátod Őt, Jézust, meglátod Őt, Jézust!</lines>
+    </verse>
+  </lyrics>
+</song>

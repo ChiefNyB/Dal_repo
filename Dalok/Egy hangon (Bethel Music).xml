@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:19">
+  <properties>
+    <titles>
+      <title>Egy hangon</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Féltő szerelmed hozott ki minket,<br/>A sötét homályból a fényedre.<br/>Fájdalmunk elmúlt,<br/>gyógyulást hoztál szívünkbe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Egy hangon emeljük fel, <br/>egy hangon dicsérjük Őt,<br/>Egy hangon emeljük fel,<br/>zengjük Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A láncok széttörnek, <br/>a szemek megnyílnak,<br/>A sereged felkel és<br/>győztesen jár.<br/>A halál legyőzve,<br/>győzelmet adtál, mert feltámadtál!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Dicsérjük, mert dicsőséges,<br/>dicsőséges, dicsőséges,<br/>Az Ő neve dicsőséges,<br/>dicsőséges, dicsőséges!</lines>
+    </verse>
+  </lyrics>
+</song>

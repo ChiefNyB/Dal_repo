@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:50">
+  <properties>
+    <titles>
+      <title>Sötét éjjel betlehem tájára</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Harmatozzatok, egek!" entry="45"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sötét éjjel betlehem tájára<br/>Angyal szállott a pásztortanyára.<br/>Mennyei fény terjedt széjjel,<br/>Eloszlott a sötét éjjel,<br/>Földre szállott az egek királya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicsőség fönn, mennyben az Istennek,<br/>Szent békesség földön az embernek.<br/>Jó pásztorok, miért féltek?<br/>Nagy örömhírt hoztam néktek:<br/>Ím, halljátok, megjött Messiástok.</lines>
+    </verse>
+  </lyrics>
+</song>

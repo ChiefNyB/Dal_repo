@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:22">
+  <properties>
+    <titles>
+      <title>Feladtad méltó nagy neved</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Feladtad méltó, nagy neved, feláldoztad az életed,<br/>Te formáltad azt, kinek kezében szenvedtél.<br/>Minden bűnöm, szégyenem fennmaradt a kereszten,<br/>mégis újra élsz, és Ura vagy mindeneknek!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A Tiéd vagyok, megnyerted szívem,<br/>Dicsérni akarlak szüntelen, én soha meg nem állok, úgy szeretlek!<br/>Te vagy, ki értem adtad életed, hogy most szabaddá legyek,<br/>Hozzád száll a hangom már, imádlak Nagy Király!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Megtérők imája</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 c2 c3 b1 b2 b3</verseOrder>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mennyei Atyám!<br/>Köszönöm, hogy szeretsz engem,<br/>és velem voltál életem minden napján!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bocsáss meg, hogy bűneimmel megbántottalak Téged!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Köszönöm, hogy értem adtad szent Fiadat, Jézus Krisztust,<br/>hogy eltörölje bűnömet és életet adjon nekem!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Úr Jézus! <br/>Köszönöm, hogy meghaltál értem a kereszten!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hiszek Benned! Hiszem, hogy feltámadtál és élsz!<br/>Kérlek, most lépj be a szívem ajtaján!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Elfogadlak Téged, mint egyetlen Uramat és Megváltómat!<br/>Élj és uralkodj bennem mindörökre!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Szentlélek Úristen!<br/>Kérlek áradj most ki rám!<br/>Tölts el engem Atyám szeretetével!</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Tisztíts meg engem, szabadíts meg engem minden gonosztól,<br/>és vezess az igazság útján egész életemben!</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Köszönöm, hogy Isten családjába, az Egyházba hívtál,<br/>ahol táplálnak és befogadnak engem! Ámen.</lines>
+    </verse>
+  </lyrics>
+</song>

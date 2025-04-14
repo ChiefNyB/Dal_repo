@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:45">
+  <properties>
+    <titles>
+      <title>Nemsokára elindul a mennyei űrhajó</title>
+    </titles>
+    <authors>
+      <author>Pintér Béla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nemsokára elindul a mennyei űrhajó <br/>a fedélzetén sok-sok millió boldog földlakó<br/>az uticél nem más mint a csodaszép menyországbolygó<br/>figyelem figyelem mindjárt indul a mennyei űrhajó</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Igyekezni kell a beszállással,<br/>gyere gyorsan van még néhány hely<br/>Igyekezni kell a beszállással<br/>már mindenki a kapitányra figyel</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Soha nem volt még ennyire közeli az indulás,<br/>hallom ahogy dübörög alattunk a kilövőállomás .<br/>Mindenki feszülten figyeli mit mond a kapitány,<br/>az egész világ csak jelre vár , s kezdődik az utazás</lines>
+    </verse>
+  </lyrics>
+</song>

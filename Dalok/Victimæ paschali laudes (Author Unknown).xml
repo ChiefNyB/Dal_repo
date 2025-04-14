@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:58">
+  <properties>
+    <titles>
+      <title>Victimæ paschali laudes</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="547"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victimæ paschali laudes immolent Christiani.<br/>Agnus redemit oves: Christus innocens Patri reconciliavit peccatores.<br/>Mors et vita duello conflixere mirando: dux vitæ mortuus regnat vivus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dic nobis Maria,quid vidisti in via?<br/>Sepulchrum Christi viventis, et gloriam vidi resurgentis,<br/>angelicos testes, sudarium et vestes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Surrexit Christus, spes mea, præcedet suos in Galileam.<br/>Scimus Christum surrexisse a mortuis vere:<br/>tu nobis victor Rex, miserere.</lines>
+    </verse>
+  </lyrics>
+</song>

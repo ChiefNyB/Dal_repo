@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Mise XI. áldozási</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Imádlak, nagy Istenség, Test s vér, titkos mély Szentség,<br/>Leborulva.<br/>Itt van Isten s emberség, Véghetetlen nagy Fölség<br/>Föláldozva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Üdvözlégy, te szent manna! Ennél többet ki adna?<br/>Nincs mód benne.<br/>Ez az égi nagy Jóság, A teljes Szentháromság<br/>Nagy kegyelme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent testével így táplál, Hogy ne ártson a halál!<br/>Mily kegyesség!<br/>Szent vérével harmatoz, Így szelídít magához<br/>Ez Istenség.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Szállj le hozzám, szent kenyér, Jöjj, ártatlan drága Vér,<br/>Szánd lelkemet!<br/>Bár hajlékom nem méltó, Elég Tőled csak egy szó,<br/>Vedd szívemet.</lines>
+    </verse>
+  </lyrics>
+</song>

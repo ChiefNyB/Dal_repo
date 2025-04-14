@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:09">
+  <properties>
+    <titles>
+      <title>Áldom szent neved - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A-------E------------F#m----------D-----<br/>Áldom szent neved a mázzel folyó földeken.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>-----A-------------E---------D-------------<br/>Hol nincs hiányom semmiben, áldom nevedet</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A-------E------------F#m----------D--------<br/>Áldom szent neved, ha az út a pusztába vezet.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>-----A-------------E---------D------<br/>Száraz, kietlen helyen, áldom nevedet.</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>A-------------E--------F#m--E----D-<br/>Minden áldást dícséretté formál szívem.</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>A-----------E---------F#m-E-------D-<br/>Ha körül zár a sötétség, azt mondom én,</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>--------------A------E-------------F#m-D<br/>Áldott legyen az Úr neve! Áldom nevedet!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>-------------A--------E----------------F#m--E------D-<br/>Áldott legyen az Úr neve! Áldott legyen hatalmas Neved!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A-------E------------F#m----------D--------------<br/>Áldom szent neved, ha éppen minden rendben megy,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>-----A-------------E---------D--------<br/>Ha napfényes az életem, áldom nevedet!</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>A-------E------------F#m----------D-------------<br/>Áldom szent neved, ha gyötrelmek közt szenvedek,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>-----A-------------E---------D----------------<br/>S bár könnyek között áldozom, áldom Nevedet!</lines>
+    </verse>
+    <verse name="b2a">
+      <lines>----A-----------E-------F#m---E----D-<br/>Te adsz és elveszel, Te adsz és elveszel,</lines>
+    </verse>
+    <verse name="b2b">
+      <lines>-----A---------E--------F#m-----E-------D--<br/>A szívem így felel, hogy, "Áldott szent Neved!"</lines>
+    </verse>
+  </lyrics>
+</song>

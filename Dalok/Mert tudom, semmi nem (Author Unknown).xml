@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:41">
+  <properties>
+    <titles>
+      <title>Mert tudom, semmi nem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Sárga akkordos" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mert tudom, semmi nem szakaszthat el az én Uram szerelmétől.<br/>Sem élet, sem halál nem választ el sem ma, sem holnap.<br/>Mert az angyalok visznek őhozzá,<br/>s a pokol erői sem állítnak meg.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nem számít, ha hegytetőn állok meg vagy a sík tenger partján,<br/>mert az Úr alkotta mindezt, és minden az övé.<br/>És tudom, semmi nem szakaszthat el az én Uram szerelmétől.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:42">
+  <properties>
+    <titles>
+      <title>Minden nap veled leszek</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">(Mahanaim)</author>
+      <author type="music">(Mahanaim)</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="5"/>
+      <songbook name="Zöld könyv" entry="434"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Minden nap veled leszek, fogom a kezed,<br/>csak őrizd meg mindig tisztán a szíved!<br/>El nem hagylak téged, el nem távozom,<br/>kiáltasz Hozzám, és Én meghallgatom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Hát) ne félj, Én népem, hisz tiéd az örökségem,<br/>ne félj és ne lankadj el, hisz neked győznöd kell!</lines>
+    </verse>
+  </lyrics>
+</song>

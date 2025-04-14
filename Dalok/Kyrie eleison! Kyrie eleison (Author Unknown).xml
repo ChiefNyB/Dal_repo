@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:38">
+  <properties>
+    <titles>
+      <title>Kyrie eleison! Kyrie eleison</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Éneklő Egyház" entry="411"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kyrie eleison! Kyrie eleison! Kyrie eleison!<br/>Christe eleison! Christe eleison! Christe eleison!<br/>Kyrie eleison! Kyrie eleison! Kyrie eleison!<br/>Uram, irgalmazz nékünk!<br/>Uram, irgalmazz nékünk, Uram, irgalmazz nékünk!<br/>Krisztus kegyelmezz nékünk!<br/>Krisztus, kegyelmezz nékünk, Krisztus, kegyelmez nékünk!<br/>Uram, irgalmazz nékünk!<br/>Uram, irgalmazz nékünk, Uram, irgalmazz nékünk!</lines>
+    </verse>
+  </lyrics>
+</song>

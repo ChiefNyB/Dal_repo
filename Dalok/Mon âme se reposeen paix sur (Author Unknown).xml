@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:43">
+  <properties>
+    <titles>
+      <title>Mon âme se reposeen paix sur</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Taize-i énekek" entry="46"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mon âme se repose'en paix sur Dieu seul:<br/>de lui vient mon salut.<br/>Oui, sur Dieu seul mon âme se repose,<br/>se repose'en paix.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A lelkem csak az Úrnál csendesül el:<br/>az Úrban béke vár.<br/>Csak nála lelhet nyugodalmat lelkem,<br/>nála béke vár.</lines>
+    </verse>
+  </lyrics>
+</song>

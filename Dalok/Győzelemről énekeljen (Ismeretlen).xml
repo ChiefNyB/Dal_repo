@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:24">
+  <properties>
+    <titles>
+      <title>Győzelemről énekeljen</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Győzelemről énekeljen  napkelet és napnyugat,<br/>Millió szív összecsengjen magasztalja az Urat!<br/>Krisztus újra földre szállott, vándorlásunk társa lett,<br/>Mert szerette a világot, kenyér színbe rejtezett.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Egykor értünk testet öltött, kisgyermekként jött közénk.<br/>A keresztfán vére ömlött váltságunknak béreként.<br/>Most az oltár Golgotáján újra itt a drága vér.<br/>Áldozat az Isten Bárány, Krisztus teste a kenyér.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zúgjon hát a hála ének, szálljon völgyön tengeren,<br/>Szeretet hű Istenének dicsőség és üdv legyen.<br/>Az egész Föld legyen oltár, virág rajta a szívünk.<br/>Minden dallam zengő zsoltár, tömjén illat a hitünk.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Krisztus kenyér, s bor színében<br/>Úr s Király a Föld felett,<br/>Forrassz eggyé békességben<br/>Minden népet, s nemzetet.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Minden forrásom Belőled fakad!<br/>Minden forrásom Belőled fakad!<br/>Minden forrásom Belőled fakad!</lines>
+    </verse>
+  </lyrics>
+</song>

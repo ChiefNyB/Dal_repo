@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:54">
+  <properties>
+    <titles>
+      <title>Télen-nyáron</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Cserkészek daloskönyve" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Télen-nyáron jókedvem van, az ördög fog búsulni.<br/>Nincs is jobb, mint tábortűznél a hajdútáncot járni.<br/>Leszakadt, haj, a csizmám szára, jókedvem van, az ördög bánja,<br/>majd hoz újat a Mózsi.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:32">
+  <properties>
+    <titles>
+      <title>Jézus most Rád nézek</title>
+    </titles>
+    <authors>
+      <author>Gável András</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus most Rád nézek! Szeretve hív tekinteted.<br/>Arcod most rajtam pihen és a szívemhez szólsz!<br/>Hangod oly édes hang. Igazság minden szavad.<br/>Élek, de már nem én, mert a szívemben élsz!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jézus most Rád nézek, szeretve hív tekinteted<br/>Arcod most rajtam pihen és a szívemhez szólsz.<br/>Nem kell már más, csak Te! Legyen az életem Tiéd!<br/>Atya, Fiú és Lélek! Felemel ma az ég!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Uram vagy, az élő! Mindenem, Megváltóm!<br/>Dicsőítlek Téged nagy Király!<br/>Jöjj, és légy a lelkem, testem adom Néked!<br/>Egységben a  lényem Veled!</lines>
+    </verse>
+  </lyrics>
+</song>

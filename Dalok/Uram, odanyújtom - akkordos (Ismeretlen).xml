@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:56">
+  <properties>
+    <titles>
+      <title>Uram, odanyújtom - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>F-----------F4------F--------C-<br/>Uram, odanyújtom a lázas kezem,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>----F-----------F4----F--------------C-<br/>Te tudod, hogy mitől beteg az én szívem!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>--------B-----------F<br/>Érints meg! Érints meg!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>F-----------F4------F--------C-<br/>Uram, odanyújtom a lázas kezem,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>----F-----------F4----F--------------C-<br/>Te tudod, hogy mitől beteg az én szívem!</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>-----------B--------------F<br/>Gyógyíts meg! Gyógyíts meg!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>F-----------F4------F--------C-<br/>Uram, odanyújtom a lázas kezem,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>----F-----------F4----F--------------C-<br/>Te tudod, hogy mitől beteg az én szívem!</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>----------B------------F<br/>Tisztíts meg! Tisztíts meg!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>F-----------F4------F--------C-<br/>Uram, odanyújtom a lázas kezem,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>----F-----------F4----F--------------C-<br/>Te tudod, hogy mitől beteg az én szívem!</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>------------B---------------F<br/>Szabadíts meg! Szabadíts meg!</lines>
+    </verse>
+  </lyrics>
+</song>

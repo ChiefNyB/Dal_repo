@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:06">
+  <properties>
+    <titles>
+      <title>A Királynak áldozom</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author type="words">ismeretlen szerző</author>
+      <author type="music">ismeretlen szerző</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="161"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Királynak áldozom, Néki szolgálok,<br/>díszes ruhában jövök elé.<br/>Felékesítem magam, dicséret palástja rajtam,<br/>szívem s ajkam megtisztítottam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Az Úr előtt állni szüntelen, ezt kívánja lelkem,<br/>az Ő szépségében gyönyörködni minden időben!</lines>
+    </verse>
+  </lyrics>
+</song>

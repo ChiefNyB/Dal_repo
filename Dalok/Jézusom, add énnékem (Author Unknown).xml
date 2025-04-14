@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézusom, add énnékem</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="j07"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézusom, add énnékem szentséges szívedet,<br/>Mely engem oly végtelen mértékben szeretett.<br/>Bűnös, fásult lelkemet hadd gyulassza lángra<br/>Szerető szent szívednek ódvözítő lángja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Szívednek szent szerelme, lelkemnek harmatja,<br/>Mely táplál és feléleszt, mely lelkem áthatja.<br/>Szent szívednek szerelme, bűnös lelkem napja,<br/>Melytől lelkem világít, s üdvösségét kapja.</lines>
+    </verse>
+  </lyrics>
+</song>

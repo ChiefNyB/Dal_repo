@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:12">
+  <properties>
+    <titles>
+      <title>Ászáf összefoglaló</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kik vagyunk mi? A nép!<br/>Emeld Isten nevét!<br/><br/>Találkozni gyertek<br/>Az Élő Istennel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kapcsolódjál össze<br/>A mi Istenünkkel!<br/><br/>Mit dobtunk le tegnap?<br/>A mi láncainkat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A szíved kitárod,<br/>Mi a te oltárod?<br/><br/>Bonts le minden falat,<br/>Add át Néki magad!<br/><br/>Ez a dicsőítés<br/>Soha véget nem ér!!</lines>
+    </verse>
+  </lyrics>
+</song>

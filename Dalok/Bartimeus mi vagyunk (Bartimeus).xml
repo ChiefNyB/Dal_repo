@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:15">
+  <properties>
+    <titles>
+      <title>Bartimeus mi vagyunk</title>
+    </titles>
+    <authors>
+      <author>Bartimeus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bartimeus  mi vagyunk, tovatűnt a vakságunk,<br/>Jézus lett a Gyógyítónk, meghívo, hogy szolgáljunk.<br/>Betöltött a Szentlélek, az Ő ereje visz minket,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hogy hirdessük az Örömhírt:<br/>Foglyoknak szabadulást!<br/>Betegeknek gyógyulást!<br/>Vak szemeknek megnyílást!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hogy mi ezen dolgozunk, így lesz teljes örömünk,<br/>Az egység és a szeretet, mindennap megtart minket!<br/>Hálát adunk Istennek, dicsérjük Őt szüntelen!<br/>Jézus a mi barátunk, Mesterünk és Királyunk!</lines>
+    </verse>
+  </lyrics>
+</song>

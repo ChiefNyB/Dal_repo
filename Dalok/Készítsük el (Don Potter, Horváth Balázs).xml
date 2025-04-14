@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:36">
+  <properties>
+    <titles>
+      <title>Készítsük el</title>
+      <title>Prepare the Way</title>
+    </titles>
+    <copyright>© 1997 EagleStar Productions</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 e1 c1</verseOrder>
+    <authors>
+      <author type="words">Don Potter</author>
+      <author type="music">Don Potter</author>
+      <author type="translation">Horváth Balázs</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="174"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Készítsük el, készítsük el,<br/>jöjjetek, készítsük az Úr útját!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Áldott a szolga, akit Mestere munkában talál, ha visszatér. Hamar itt a nap, és a Fiú újra jön, lássuk meg az idők jelét!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Álljunk meg bátran a hit próbái közt, ne sodorjon mindenféle szél! Szívembe rejtem és őrzöm igédet, úgy vágylak meglátni én.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kiáltó hang szól, készítsetek ösvényt a pusztákon át! Völgy, emelkedj fel, és hegy, szállj alá, dicsőségét mindenhol hadd lássák!</lines>
+    </verse>
+    <verse name="e1">
+      <lines>És az ég tündöklő és fényes lesz, csak egy szempillantás alatt történik ez. Eljön felhőkben és nagy dicsőségben fehér lovon ülve a Fiú Isten.</lines>
+    </verse>
+  </lyrics>
+</song>

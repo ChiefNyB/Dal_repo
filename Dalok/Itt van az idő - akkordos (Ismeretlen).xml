@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:30">
+  <properties>
+    <titles>
+      <title>Itt van az idő - akkordos</title>
+    </titles>
+    <authors>
+      <author>Ismeretlen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>---------A/C#----B--H<br/>Itt van az idő dícsérni Őt.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>------E-------------A/C#----B-H<br/>Az Ő Szentlelkének szentélyében.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>----A------H-E--<br/>Figyeljünk Őreá és</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>A-------H------E<br/>Áldjuk most nevét</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>------D----------A/C#---------B--H<br/>És az Úrnak dicsősége szálljon Ránk!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>E-A/C#-Hsus4-H<br/>Áldjuk Őt</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>---------A/C#----B--H<br/>Ő népének dicséretében él</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>------E-----------A/C#----B-H<br/>És kedveli ha hívjuk Szent nevét</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>----A-----H-E--<br/>Figyeljünk Őreá</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:47">
+  <properties>
+    <titles>
+      <title>Óh, életünk reménye, Istennek</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+    <songbooks>
+      <songbook name="Erdélyi gyűjtemény" entry="m21"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óh, életünk reménye, Istennek Szent Anyja.<br/>Dicsőségedből nézz le, s légy néped oltalma.<br/>Kik főképp bűnbe estünk, zokogva, sírva esdünk,<br/>Mária, Mária, Mária segíts!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te látod, menyi bajjal kell mindig küzdenünk,<br/>Hogy kisértettel s jajjal van telve életünk.<br/>Magunkban bízni félünk, azért esengve kérünk,<br/>Mária, Mária, Mária segíts!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Szent pártfogásod adjon erős akaratot,<br/>Mely ahoz hű maradjon, mit sokszor fogadott.<br/>Hogy így Istennek élve, célját lelkünk elérje,<br/>Mária, Mária, Mária segíts!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fiadnak szent keresztje adjon vigasztalást,<br/>Hogy amit ránk ereszte, eltűrjük a csapást.<br/>Lelkünknek ujulása, legyen a vére hullása,<br/>Mária, Mária, Mária segíts!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tebenned van reményünk, mert kegyes anya vagy,<br/>Akármi sorsban éljünk, óh kérünk, el ne hagyj.<br/>Főkép, ha jő az óra, mely elhív a számadóra,<br/>Mária, Mária, Mária segíts!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:57">
+  <properties>
+    <titles>
+      <title>Van egy ország a láthatáron túl</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Van egy ország a láthatáron túl,<br/>szívünk ellát, a bent kitárul.<br/>Ez a föld most átalakul,<br/>minden lángra gyúl, minden lángra gyúl,<br/>/:ha jő a Szél, a perzselő Szél,:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Van egy név, a végső győztesé,<br/>a föld és az ég övé örökké!<br/>S van egy nép, ki hosszan vándorol,<br/>Hozzád vándorol a láthatáron túl,<br/>/:ha jő a Szél, a perzselő Szél,:/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Valami ég itt legbelül,<br/>valami láng, valami tűz!<br/>Egy darab végtelen, tudom nem érthetem,<br/>hogy is lehet a Minden enyém.<br/>Te itt élsz legbelül,<br/>valami hajt, valami űz,<br/>Hogy Hozzád érkezzem, és Benned létezzem!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Te az enyém , én a Tied!<br/>Te az enyém , én a Tied!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Van még tenger a láthatáron túl!<br/>Van még kezdet a végsőkön túl!<br/>Van még fény, ha szemünk elborul!<br/>Most minden lágragyúl, most mindent lángra gyújt,<br/>/:ha jő a Szél, a perzselő Szél,:/</lines>
+    </verse>
+  </lyrics>
+</song>

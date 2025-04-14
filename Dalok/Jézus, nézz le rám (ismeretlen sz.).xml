@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:33">
+  <properties>
+    <titles>
+      <title>Jézus, nézz le rám</title>
+    </titles>
+    <authors>
+      <author>ismeretlen sz.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jézus, nézz le rám,<br/>Jöjj, vigyázz rám!<br/>Soha ne hagyj el<br/>Ó, légy velem!<br/>Én szeretlek: Itt az életem!<br/>Formáld gyermeked,<br/>Tudom mindennap vétkezem,<br/>De a Te drága véred folyt érettem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>És te azt mondtad nekem:<br/>„Jöjj, gyermekem!”<br/>Amikor lábam néha meginog,<br/>Akkor én mindig Hozzád fordulok,<br/>Tudom Jézus célba visz:<br/>Ne félj, csak higgy!</lines>
+    </verse>
+  </lyrics>
+</song>

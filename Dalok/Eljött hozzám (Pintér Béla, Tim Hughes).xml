@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:20">
+  <properties>
+    <titles>
+      <title>Eljött hozzám</title>
+      <title>Here I Am To Worship</title>
+    </titles>
+    <copyright>© 2000 Thankyou Music</copyright>
+    <verseOrder>v1 c1 b1 v3</verseOrder>
+    <authors>
+      <author type="words">Tim Hughes</author>
+      <author type="music">Tim Hughes</author>
+      <author type="translation">Pintér Béla</author>
+    </authors>
+    <songbooks>
+      <songbook name="Szent András énekfüzet" entry="202"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eljött hozzám,<br/>mikor még bűnben éltem,<br/>felnyitotta a szemem.<br/>Szolgává lett,<br/>önmagát megalázva<br/>bűneimért szenvedett.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eljöttem, hogy áldjam,<br/>csodáljam, imádjam<br/>Őt, ki értem adta önmagát!<br/>Csodálatos Isten,<br/>dicsőséges Bárány,<br/>fogadd el szívem imádatát!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mindenség Királya, <br/>Őt minden magasztalja:<br/>Glória az égben fenn!<br/>Mert úgy szerettél,<br/>hogy emberré lettél,<br/>szegénnyé tetted önmagad.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nem tudom felfogni azt,<br/>milyen nagy volt az áldozat!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hívd segítségül Nevét, <br/>és megmenekülsz!</lines>
+    </verse>
+  </lyrics>
+</song>

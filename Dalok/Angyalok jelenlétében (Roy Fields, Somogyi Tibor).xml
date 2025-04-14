@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:11">
+  <properties>
+    <titles>
+      <title>Angyalok jelenlétében</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v1 v2 c1</verseOrder>
+    <authors>
+      <author>Roy Fields</author>
+      <author>Somogyi Tibor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ez a Te dicsőséged földje,<br/>ez a Te kegyelmed helye,<br/>Érzem hatalmas erődet,<br/>ahogy itt vagy most velem.<br/>(Ladada...)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Angyalok jelenlétében,<br/>Isten dicsőségében<br/>Mint a nagy vizek zúgása,<br/>Minden angyal énekel!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>║: Szent vagy! Szent vagy!<br/>Szent vagy! Szent vagy! :║</lines>
+    </verse>
+  </lyrics>
+</song>
