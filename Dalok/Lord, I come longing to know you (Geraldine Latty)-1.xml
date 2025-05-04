@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Lord, I come longing to know you</title>
+    </titles>
+    <authors>
+      <author>Geraldine Latty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I come longing to know you<br/>Lord I come drawn by your love<br/>Lord I come longing to see your face<br/>For you call me to come into the holiest place<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>What did I do to deserve your favour?<br/>What did I do to deserve your grace?<br/>Called by my name into your presence<br/>Undeserved, Holy God.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord I come because of Jesus<br/>Lord I come because He came<br/>Lord I bow as you reveal your face<br/>For You have called me to come<br/>into the holiest place.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

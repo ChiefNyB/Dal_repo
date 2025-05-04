@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The Rhythm Of Heaven</title>
+    </titles>
+    <authors>
+      <author>P Eckly &amp; N Hemming</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you feel the rhythm of heaven<br/>Bringing freedom as we sing<br/>Can you feel the passion growing<br/>It is beating deep within<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We lay our pride on the floor<br/>We come to surrender our all<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the centre of it all<br/>And that is why we fall<br/>Down on our knees<br/>We're here 'cause we heard Your<br/>Spirit's call<br/>Now the curtain has been torn<br/>As we worship we are freed<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Can you feel the pow'r of heaven<br/>Bringing healing as we pray<br/>Can you feel the compassion flowing<br/>Taking all our fears away<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>We lay our pride on the floor<br/>We come to surrender our all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Gentle As Silence</title>
+    </titles>
+    <authors>
+      <author>Marilla Ness</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the love of my Lord is the essence<br/>Of all that I love here on earth.<br/>All the beauty I see, He has given to me,<br/>And his giving is gentle as silence.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every day, every hour, every moment,<br/>Have been blessed by the strength of His love.<br/>At the turn of each tide, He is there at my side,<br/>And his touch is as gentle as silence.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>There've been times when I've turned from his presence,<br/>And I've walked other paths, other ways,<br/>But I've called on his name, in the dark of my shame<br/>And his mercy was gentle as silence.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>He has poured out his spirit upon me<br/>He has turned all my world upside down<br/>And his peace and his calm<br/>Fills my soul like a balm<br/>And his healing is gentle as silence<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Hej Jezu Krolem Tys</title>
+    </titles>
+    <authors>
+      <author>36</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hej, Jezu, Królem Tyś<br/>życie Twe uwalnia mnie.<br/>Będę sławić cały dzień<br/>doskonałe drogi Twe.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hej, Jezu, Panem Tyś,<br/>chcę słuchać Twoich słów.<br/>Twe Królestwo ujrzeć chcę,<br/>wola Twa niech spełni się.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwała Barankowi, cześć,	<br/>weź mnie do ziemi swej.<br/>Zwyciężymy w imię Twe,<br/>ogłosimy rządy Twe.<br/><br/>Hej, o hej, o Lwie Judy,<br/>jak potężnym jesteś Ty,<br/>hej, o hej, o Lwie Judy,<br/>jak wspaniałym jesteś Ty.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

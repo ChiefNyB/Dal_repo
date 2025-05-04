@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Take me in the Holy of Holies</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me past the outer courts<br/>Into the Holy Place<br/>Past the brazen Alter<br/>Lord, I want to see Your face<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pass me by the crowds of people<br/>The priests who sing Your praise<br/>I hunger and thirst for Your righteousness<br/>But it's only found in one place<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take me into the Holy of Holies<br/>Take me in by the blood of the Lamb<br/>Take me into the Holy of Holies<br/>Take the coal, touch my lips, here I am<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bring me in the Inner court<br/>And past the golden light<br/>Through the incense altar<br/>Lord I long to see your light<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let me touch the coloured curtain<br/>And clothed in linen white<br/>And part the veil that's hanging<br/>That keeps you from men's sight.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

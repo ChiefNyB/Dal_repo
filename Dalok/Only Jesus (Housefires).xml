@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>Only Jesus</title>
+    </titles>
+    <authors>
+      <author>Housefires</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You can have my heart<br/>You can have it all<br/>I'm laying down my life<br/>No matter what the cost</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Only Jesus all my days<br/>No greater treasure, no sweeter name<br/>The cross before me, the world behind<br/>I have decided only Jesus<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>No turning back<br/>No turning back<br/>I have decided only Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

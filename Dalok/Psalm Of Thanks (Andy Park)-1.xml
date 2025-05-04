@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:08">
+  <properties>
+    <titles>
+      <title>Psalm Of Thanks</title>
+    </titles>
+    <authors>
+      <author>Andy Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks unto the Lord, call on His name<br/>Give thanks unto the Lord, call on His name<br/>And sing to Him, sing praise to Him<br/>Glory in His holy name<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give thanks unto the Lord for He is good<br/>Give thanks unto the Lord for He is good<br/>And His love endures forever<br/>Call upon His holy name<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tell all the nations what He has done<br/>Tell all the nations what He has done<br/>Tell of His mighty deeds, all His mighty deeds<br/>Glory in His holy name<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/>And rejoice in the Lord, rejoice in the Lord<br/>Let the hearts of those who seek the Lord rejoice<br/></lines>
+    </verse>
+  </lyrics>
+</song>

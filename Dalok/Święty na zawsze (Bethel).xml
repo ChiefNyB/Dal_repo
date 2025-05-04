@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Święty na zawsze</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kolejne pokolenia od wieków wielbią Ciebie, śpiewając pieśni chwały na Twą cześć.<br/>Śpiewali ci przed nami, następni śpiewać będą, nie ucichną pieśni na Twą cześć.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Twe imię jest najwyższe, Twe imię jest największe, Twe imię ponad wszystkim jest.<br/>Nad królów panowaniem, ich mocą i władaniem, Twe Imię ponad wszystkim jest.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Pieśń aniołów brzmi... Święty<br/>Wszystko śpiewa dziś...Święty<br/>Wywyższamy Cię...Święty, Święty na zawsze!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jeśli krew baranka zmyła twoje winy, śpiewaj najwyższemu chwały pieśń.<br/>Jeśli dał ci wolność i nosisz Jego Imię, śpiewaj nieustannie chwały pieśń.<br/>Śpiewajmy pieśni chwały na Twą cześć.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pieśń aniołów brzmi...Święty<br/>Wszystko śpiewa dziś...Święty<br/>Wywyższamy Cię...Święty, Święty na zawsze!<br/><br/>Śpiewa Boży lud...Święty<br/>To nasz królów król...Święty<br/>Już do końca dni...Święty, Święty na zawsze.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>As the deer pants</title>
+    </titles>
+    <authors>
+      <author>Martin Nystrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. As the deer pants for the water,<br/>So my soul longs after You.<br/>You alone are my heart's desire<br/>And I long to worship You.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You alone are my strength and shield,<br/>to You alone may my spirit yield.<br/>You alone are my heart's desire<br/>And I long to worship You.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. I want You more than gold and silver,<br/>Only You can satisfy.<br/>You alone are the real joy-giver<br/>And the apple of my eye.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. You're my Friend and You are my Brother,<br/>Even though You are a King.<br/>I love You more than any other,<br/>So much more than anything.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>WHO IS THERE LIKE YOU</title>
+    </titles>
+    <authors>
+      <author>PAUL OAKLEY</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is there like You?<br/>And who else would give their life for me<br/>Even suffering in my place?<br/>And who could repay You?<br/>All of creation looks to You<br/>And You provide for all You have made<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>So I'm lifting up my hands<br/>Lifting up my voice<br/>Lifting up Your name<br/>And in Your grace I rest<br/>For Your love has come to me<br/>And set me free<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I'm trusting in Your word<br/>Trusting in Your cross<br/>Trusting in Your blood and all Your faithfulness<br/>For Your power at work in me is changing me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

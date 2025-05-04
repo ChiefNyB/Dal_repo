@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:42">
+  <properties>
+    <titles>
+      <title>Come let us return</title>
+    </titles>
+    <authors>
+      <author>Kevin Prosch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For He has torn us, but He will heal us,<br/>For He has wounded us<br/>But He will bandage us<br/>And he will come<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will come to us like rain, spring rain<br/>He will come to us like rain, spring rain<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>If we ask (if we ask)<br/>He will come (he will come)<br/>Send His rain on everyone<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>For every child(soul) needs rain, spring rain<br/>For every child(soul) needs rain, spring rain<br/></lines>
+    </verse>
+  </lyrics>
+</song>

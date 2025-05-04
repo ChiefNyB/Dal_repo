@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Polish Christmas Gospel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdy Jan nauczał nad Jordanem,<br/>pytały go tłumy:<br/>«Cóż mamy czynić?»<br/>On im odpowiadał:<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>«Kto ma dwie suknie,<br/>niech się podzieli z tym,<br/>który nie ma; a kto ma żywność,<br/>niech tak samo czyni».<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przyszli także celnicy,<br/>żeby przyjąć chrzest,<br/>i rzekli do niego:<br/>«Nauczycielu, co mamy czynić?»<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>On im powiedział:<br/>«Nie pobierajcie nic więcej ponad to,<br/>co wam wyznaczono».<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pytali go też i żołnierze:<br/>«a my co mamy czynić?»<br/>On im odpowiedział:<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>«Na nikim pieniędzy nie<br/>wymuszajcie i nikogo nie uciskajcie,<br/>lecz poprzestawajcie na waszym żołdzie».<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>Gdy więc lud oczekiwał z napięciem<br/>i wszyscy snuli domysły w swych sercach co do Jana,<br/>czy nie jest Mesjaszem,<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>on tak przemówił do wszystkich:<br/>«Ja was chrzczę wodą;<br/>lecz idzie mocniejszy ode mnie,<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>któremu nie jestem godzien<br/>rozwiązać rzemyka u sandałów.<br/>On będzie was chrzcił<br/>Duchem Świętym i ogniem.<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>Ma on wiejadło w ręku dla<br/>oczyszczenia swego omłotu:<br/>pszenicę zbierze do spichlerza,<br/></lines>
+    </verse>
+    <verse name="v11">
+      <lines>a plewy spali w ogniu nieugaszonym».<br/>Wiele też innych napomnień<br/>dawał ludowi i głosił dobrą nowinę.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

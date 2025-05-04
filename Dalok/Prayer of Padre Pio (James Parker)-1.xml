@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:07">
+  <properties>
+    <titles>
+      <title>Prayer of Padre Pio</title>
+    </titles>
+    <authors>
+      <author>James Parker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stay with me Lord, Thou knowest how Thee I can forget<br/>Stay with me Lord, Thou knowest that without Thy strength I fall<br/>Stay with me Lord, for without Thee my fervour fails<br/>Stay with me Lord – Thou art my light<br/>Stay with me Lord – Thou art my life<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stay with me Lord, Stay with me Lord<br/>Stay with me Lord, Stay with me Lord<br/>Resta con me, ora e sempre Signore<br/>Resta con me, ora e sempre Signore<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stay with me Lord, how easily I abandon Thee<br/>Stay with me Lord, Thou knowest I have such need of Thee<br/>Stay with me Lord, though my soul is poor abide with me<br/>Stay with me Lord – Thou knowest I'm weak<br/>Stay with me Lord – Show me Thy will<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stay with me Lord, that I may always stay with Thee<br/>Stay with me Lord, that I may love Thee more and more<br/>Stay with me Lord, let me hear Thy voice and follow Thee<br/>Stay with me Lord - tis Thee I seek<br/>Stay with me Lord - tis Thee I seek<br/></lines>
+    </verse>
+  </lyrics>
+</song>

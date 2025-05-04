@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Pieces</title>
+    </titles>
+    <authors>
+      <author>Amanda Cook</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unreserved, unrestrained,<br/>your love is wild<br/>Your love is wild for me<br/>It isn’t shy, its unashamed<br/>Your love is proud<br/>to be seen with me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You don’t give your heart in pieces,<br/>You don’t hide yourself to tease us<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uncontrolled, uncontained<br/>You love is a fire<br/>Burning bright for me<br/>It’s not just a spark<br/>It's not just a flame<br/>Your love is a light<br/>That all the world will see<br/>That all the world will see<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You don’t give your heart in pieces<br/>You don’t hide yourself to tease us<br/>You don’t give your heart in pieces<br/>You don’t hid yourself to tease us<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You don’t give your heart in pieces, you don’t hid yourself to tease us<br/>You don’t give your heart in pieces, you don’t hid yourself to tease us<br/>You don’t give your heart in pieces, you don’t hid yourself to tease us<br/></lines>
+    </verse>
+  </lyrics>
+</song>

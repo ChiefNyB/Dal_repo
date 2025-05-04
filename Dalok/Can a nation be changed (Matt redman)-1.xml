@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Can a nation be changed</title>
+    </titles>
+    <authors>
+      <author>Matt redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can a nation be changed?<br/>Can a nation be saved?<br/>Can a nation be turned back to you?<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're on our knees,<br/>We're on our knees again.<br/>We're on our knees,<br/>We're on our knees again...<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let this nation be changed,<br/>Let this nation be saved.<br/>Let this nation be turned back to you.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We're on our knees,<br/>We're on our knees again.<br/>We're on our knees,<br/>We're on our knees again...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

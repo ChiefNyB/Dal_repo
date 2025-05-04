@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>Moj Jezus Krolem krolow jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mój Jezus Królem królów jest.	<br/>Mój Jezus władać będzie wciąż.<br/>Królestwo Jego wiecznie trwa.<br/>On zbawił duszę mą<br/>i teraz we mnie mieszka już.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>On dał mi całkiem nowe życie,<br/>Uczynił mnie dzieckiem światłości.<br/>Dziedzictwem swym obdarzył mnie,<br/>Bo umiłował mnie mój Ojciec Bóg.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

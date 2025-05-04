@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Graves Into Gardens</title>
+    </titles>
+    <authors>
+      <author>Elevation Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I searched the world<br/>But it couldn't fill me<br/>Man's empty praise<br/>And treasures that fade<br/>Are never enough</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then you came along <br/>And put me back together<br/>And every desire<br/>Is now satisfied<br/>Here in your love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh there's nothing better than You<br/>There's nothing better than you<br/>Lord, there's nothing<br/>Nothing is better than you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm not afraid <br/>To show you my weakness<br/>My failures and flaws<br/>Lord, you've seen them all<br/>And you still call me friend</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cause the God of the mountain<br/>Is the God of the valley<br/>There's not a place<br/>Your mercy and grace<br/>Won't find me again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You turn mourning to dancing <br/>You bring beauty for ashes<br/>You turn shame into glory<br/>You're the only one who can</lines>
+    </verse>
+    <verse name="b2">
+      <lines>You turn graves into gardens<br/>Your turn beauty for ashes<br/>You turn shame into glory<br/>You're the only one who can</lines>
+    </verse>
+    <verse name="b3">
+      <lines>You turn graves into gardens <br/>You turn bones into armies<br/>You turn seas into highways<br/>You're the only one who can</lines>
+    </verse>
+  </lyrics>
+</song>

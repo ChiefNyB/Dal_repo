@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Worthy, You Are Worthy</title>
+    </titles>
+    <authors>
+      <author>Matt redman &amp; Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy, You are worthy<br/>Much more worthy than I know<br/>I cannot imagine<br/>Just how glorious You are<br/>And I cannot begin to tell<br/>How deep a love You bring<br/>O Lord my ears have heard of You<br/>But now my eyes have seen<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're worthy<br/>You're worthy<br/>You're worthy<br/>You're worthy to be praised<br/>Forever and a day<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory, I give glory<br/>To the One who saved my soul<br/>You found me and You freed me<br/>From the shame that was my own<br/>And I cannot begin to tell<br/>How merciful You've been<br/>O Lord, my ears had heard of You<br/>But now my eyes have seen<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We'll sing an anthem of the highest praise<br/>We'll sound an anthem of Your glorious name<br/></lines>
+    </verse>
+  </lyrics>
+</song>

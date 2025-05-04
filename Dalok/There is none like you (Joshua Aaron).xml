@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>There is none like you</title>
+    </titles>
+    <authors>
+      <author>Joshua Aaron</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The One who calms the raging storm<br/>The One who walks upon the sea<br/>Earth and Heaven are Your own<br/>Yet You're watching over me<br/>How majestic is Your Name</lines>
+    </verse>
+    <verse name="c1">
+      <lines>There is none like You<br/>There is none like You<br/>Together we proclaim<br/>The power of Your Name<br/>'Cause there is none like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who can stand before Your throne<br/>Your kingdom will forever reign<br/>We will sing the a song of praise<br/>To the Ancient of Days</lines>
+    </verse>
+    <verse name="b1">
+      <lines>How majestic is Your Name<br/>How majestic is Your Name<br/>How majestic is Your Name<br/>In all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

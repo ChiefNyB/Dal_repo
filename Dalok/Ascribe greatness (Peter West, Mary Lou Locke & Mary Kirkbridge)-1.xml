@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>Ascribe greatness</title>
+    </titles>
+    <authors>
+      <author>Peter West, Mary Lou Locke &amp; Mary Kirkbridge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ascribe greatness to our God the Rock,<br/>His work is perfect and all His ways are just.<br/>(repeat)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>A God of faithfulness and without injustice,<br/>Good and upright is He.<br/>(repeat)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

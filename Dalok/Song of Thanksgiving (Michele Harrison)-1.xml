@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Song of Thanksgiving</title>
+    </titles>
+    <authors>
+      <author>Michele Harrison</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My song of thanksgiving I sing unto You<br/>You've fulfilled your word to me<br/>Your promises true<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I love You, love You, Jesus I love You<br/>Jesus so faithful and true<br/>Yes I love You, love You, Jesus I love You<br/>Jesus I love You, I do<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your Word is life to me<br/>You've always been there<br/>You've never forgotten<br/>You've answered my prayer<br/></lines>
+    </verse>
+  </lyrics>
+</song>

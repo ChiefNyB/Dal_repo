@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>at all times</title>
+    </titles>
+    <authors>
+      <author>Vicky Beeching</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the mountain of joy,<br/>In the valley of tears<br/>I will love You, I will trust You<br/>When the flamme's burning bright,<br/>When I'm weary and dry<br/>I will love You, I will trust You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my strength and you are my<br/>song<br/>Giving me hope and guiding me on<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And at all times I will sing of Your greatness<br/>And at all times I will sing of Your love<br/>And at all times I will sing of Your faithfulness<br/>For Your goodness remains<br/>And Your love is the same at all times<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Your guidance is clear,<br/>When I can't see ahead<br/>I will love You, I will trust You<br/>In the summer of life,<br/>In the soul's darkest night<br/>I will love You, I will trust You<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are my strength and you are my<br/>song<br/>Giving me hope and guiding me on<br/></lines>
+    </verse>
+  </lyrics>
+</song>

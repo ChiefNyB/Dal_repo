@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Let Your living water</title>
+    </titles>
+    <authors>
+      <author>John Watson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Your living water flow over my soul.<br/>Let Your Holy Spirit come and take control.<br/>Of every situation that has troubled my mind.<br/>All my cares and burdens on You I do roll.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus, Jesus<br/>Father, Father, Father<br/>Spirit, Spirit, Spirit<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give your life to Jesus, let Him fill your soul.<br/>Let Him take you in His arms and make you whole.<br/>If you give your life to Him, He'll set you free.<br/>You can live and reign with Him eternally.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, Jesus, Jesus<br/>Father, Father, Father<br/>Spirit, Spirit, Spirit<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come now, Holy Spirit, and take control.<br/>Hold me in Your loving arms and make me whole.<br/>Wipe away all doubt and fear and take my pride<br/>Draw me to your love and keep me by Your side.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus, Jesus, Jesus<br/>Father, Father, Father<br/>Spirit, Spirit, Spirit<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:45">
+  <properties>
+    <titles>
+      <title>Empty Me</title>
+    </titles>
+    <authors>
+      <author>Jeremy Camp</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy fire burn away<br/>My desire for anything<br/>That is not of you and is of me<br/>I want more of you<br/>And less of me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Empty me, empty me, fill me<br/>With you, with you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

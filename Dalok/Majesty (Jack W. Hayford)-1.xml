@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Majesty</title>
+    </titles>
+    <authors>
+      <author>Jack W. Hayford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Majesty, worship His majesty,<br/>Unto Jesus be glory, honour and praise.<br/>Majesty, kingdom authority,<br/>Flows from His throne unto His own, His anthem raise.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>So exalt, lift up on high the name of Jesus;<br/>Magnify, come glorify Christ Jesus the King.<br/>Majesty, worship His majesty,<br/>Jesus who died, now glorified, King of all kings.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>Holy Spirit</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Holy Spirit, come with Your fire.<br/>(repeat 4 times)<br/>Come Holy Spirit, let Your fire fall. (x2)<br/>Let the fire fall, let the fire fall.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Holy Spirit, purify my heart.<br/>(repeat 4 times)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Holy Spirit, set my heart on fire.<br/>(repeat 4 times)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

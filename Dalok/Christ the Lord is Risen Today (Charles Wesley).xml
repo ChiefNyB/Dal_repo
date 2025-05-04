@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:40">
+  <properties>
+    <titles>
+      <title>Christ the Lord is Risen Today</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ the Lord is Risen today: Hallelujah!<br/>Sons of men and angels say: Hallelujah!<br/>Raise your joys and triumphs high: Hallelujah!<br/>Sing, ye heavens, and earth reply: Hallelujah!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love’s redeeming work is done: Hallelujah!<br/>Fought the fight, the battle won: Hallelujah!<br/>Vain the stone, the watch, the seal: Hallelujah!<br/>Christ hath burst the gates of hell: Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lives again our glorious King: Hallelujah!<br/>Where, O death, is now thy sting? Hallelujah!<br/>Once He died, our souls to save: Hallelujah!<br/>Where thy victory, O grave? Hallelujah!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Soar we now where Christ hath led: Hallelujah!<br/>Following our exalted Head: Hallelujah!<br/>Made like Him, like Him we rise: Hallelujah!<br/>Ours the cross, the grave, the skies: Hallelujah!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hail the Lord of earth and heaven: Hallelujah!<br/>Praise to Thee by both be given: Hallelujah!<br/>Thee we greet, in triumph sing: Hallelujah!<br/>Hail our resurrected King: Hallelujah!</lines>
+    </verse>
+  </lyrics>
+</song>

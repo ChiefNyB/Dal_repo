@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Gloria in excelsis Deo, Gloria, Gloria</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria in excelsis Deo, Gloria, Gloria<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwalimy Cię, błogosławimy Cię<br/>Wielbimy Cię, wysławiamy Cię<br/>Dzięki Ci składamy Bo wielka jest chwała Twoja<br/>Panie Boże, Królu Nieba<br/>Boże Ojcze Wszechmogący<br/>Panie Synu Jednorodzony<br/>Jezu Chryste, Jezu Chryste, Jezu Chryste!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie Boże, Baranku Boży, Synu Ojca<br/>Który gładzisz grzechy świata<br/>Zmiłuj się nad nami<br/>Który gładzisz grzechy świata<br/>Przyjm błaganie nasze<br/>Który siedzisz po prawicy Ojca,<br/>Zmiłuj się nad nami!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Albowiem tylko Tyś jest Święty<br/>Tylko Tyś jest Panem<br/>Tylko Tyś Najwyższy<br/>Jezu Chryste, z Duchem Świętym<br/>W chwale Boga Ojca<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gloria in excelsis Deo, Gloria Gloria!<br/>Amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:31">
+  <properties>
+    <titles>
+      <title>Abba Arms of the Father</title>
+    </titles>
+    <authors>
+      <author>Bethel church</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You’re more real than the ground I’m standing on<br/>You’re more real than the wind in my lungs<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your thoughts define me<br/>You’re inside me<br/>You’re my reality<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abba, I belong to You<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You’re closer than the skin on my bones<br/>You’re closer than the song on my tongue<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You came running down my prodigal road<br/>You came running with a ring and a robe<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Grace is the collision on the way back home<br/>With the arms of a Father who won’t let go<br/></lines>
+    </verse>
+  </lyrics>
+</song>

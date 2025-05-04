@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The Lord is present here</title>
+    </titles>
+    <authors>
+      <author>G R A H A M  K E N D R I C K</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is present here x 3<br/>Come worship<br/>The Lord is present here x 3<br/>Come worship<br/>Brought near by Jesus' blood x 3<br/>We worship<br/>With angels round your throne x 3<br/>We worship<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We offer up our lives<br/>A living sacrifice<br/>Pouring out our gifts<br/>Of thanks and praise<br/>This is your holy hill<br/>You call us higher still<br/>Joining with all heaven<br/>To acclaim<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Holy Holy Lord<br/>God of power and might<br/>Heaven and earth are full<br/>Of your glory<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let all the nations come x 3<br/>And worship<br/>Let all creation bow x 3<br/>In worship<br/></lines>
+    </verse>
+  </lyrics>
+</song>

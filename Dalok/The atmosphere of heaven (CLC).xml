@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The atmosphere of heaven</title>
+    </titles>
+    <authors>
+      <author>CLC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fire and light is in the air<br/>We have been taken up to Your glory place.<br/>Angels and saints are here with us<br/>We have been blinded by Your glorious light.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>We've been taken up, we've been taken up<br/>To Your Holy Place, where Your glory dwells oh Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I'm breathing in the atmosphere of heaven<br/>I'm breathing in the atmosphere of heaven<br/>Fire and light<br/>I'm living in the atmosphere of heaven<br/>I'm living in the atmosphere of heaven<br/>With angels and saints</lines>
+    </verse>
+    <verse name="b1">
+      <lines>We've been taken up, we've been taken up</lines>
+    </verse>
+  </lyrics>
+</song>

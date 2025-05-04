@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:10">
+  <properties>
+    <titles>
+      <title>Shout to The North</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Men of faith rise up and sing<br/>Of the great and glorious king<br/>You are strong when you feel weak<br/>In your brokenness complete;<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shout to the North and the South,<br/>Sing to the East and the West.<br/>Jesus is Savior to all<br/>Lord of heaven and earth<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rise up women of the truth<br/>Stand and sing to broken hearts<br/>Who can know the healing power<br/>Of our awesome King of love;<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We've been through fire, we've been through rain<br/>We've been refined by the power of His name<br/>We've fallen deeper in love with You<br/>You've burned the truth on our lips;<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Rise up church with broken wings<br/>Fill this place with songs again<br/>Of our God who reigns on high<br/>By His grace again we'll fly;<br/></lines>
+    </verse>
+  </lyrics>
+</song>

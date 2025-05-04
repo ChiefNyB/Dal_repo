@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>Miłość Twa przemieniła mnie</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tyś światłem mym i pieśnią mą<br/>Prowadzisz mnie i mówisz w sercu mym<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miłości ma któż jest jak Ty<br/>Wszystko czym jestem pragnie Cię<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stworzony przez Ciebie<br/>Aby żyć dla Ciebie<br/>Jestem niespełniony<br/>Bez jedności z Tobą<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Miłość Twa przemieniła mnie<br/>Miłość Twa przemieniła mnie<br/>Zrodzony na nowo aby z Tobą żyć<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Twój Duch, przenika mnie<br/>Oddech mój, życie me - wszystko Twoje jest<br/></lines>
+    </verse>
+  </lyrics>
+</song>

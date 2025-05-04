@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>This is the air I breathe</title>
+    </titles>
+    <authors>
+      <author>Marie Barnett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe<br/>This is the air I breathe<br/>Your holy presence living in me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my daily bread<br/>This is my daily bread<br/>Your very word spoken to me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I I'm desperate for you<br/>And I I'm I'm lost without you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

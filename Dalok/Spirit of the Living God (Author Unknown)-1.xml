@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Spirit of the Living God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spirit of the loiving God<br/>Fall afresh on me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Melt me, mold me,<br/>fill me, use me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of the loiving God<br/>Fall afresh on us<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Melt us, mold us,<br/>fill us, use us<br/></lines>
+    </verse>
+  </lyrics>
+</song>

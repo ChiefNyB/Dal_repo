@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Wielka jest wiernosc Twa (Unchanging Chris Tomlin)</title>
+    </titles>
+    <authors>
+      <author>100</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wielka jest wierność Twa /x2<br/>Nie zawodzisz mnie<br/>Ty nie zmieniasz się, Boże<br/>Great is Your faithfulness /x2<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twoje  obietnice<br/>Sprawdzają zawsze się<br/>Nie zawodzisz mnie<br/>Ty nie zmieniasz się Boże<br/>True are Your promises /x2<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Więc wznosimy ręce swe<br/>By wielbić imię Twe<br/>So we raise up holy hands<br/>To praise the Holy One<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Który był i jest i przyjdzie znów<br/>Who was and is and is to come<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Miłość i łaska twa,<br/>hojna, nieskończona<br/>Nie zawodzisz mnie<br/>Ty nie zmieniasz się Boże<br/>Wide is Your love and grace /x2<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+  </lyrics>
+</song>

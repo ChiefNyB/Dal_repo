@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Garments of Praise</title>
+    </titles>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Put on the garments of praise <br/>For the spirit of heaviness<br/>Let the oil of gladness fall down from your throne<br/>Put on the garments of praise<br/>For the spirit of heaviness<br/>Your joy is my strength oh Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Make these broken weary bones made to dance again<br/>Wet this dry and thirsty land with a river<br/>Lord, our eyes are fixed on you<br/>We are waiting<br/>For your garland of grace<br/>As we praise your name</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hallelujah sing hallelujah<br/>We give all honour and praise to Your name</lines>
+    </verse>
+  </lyrics>
+</song>

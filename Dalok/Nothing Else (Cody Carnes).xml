@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:02">
+  <properties>
+    <titles>
+      <title>Nothing Else</title>
+    </titles>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want You<br/>Nothing else, nothing else<br/>Nothing else will do</lines>
+    </verse>
+  </lyrics>
+</song>

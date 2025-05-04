@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:41">
+  <properties>
+    <titles>
+      <title>CLC_Gloria</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria, gloria<br/>Gloria, gloria<br/>In Excelsis Deo<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory to God in the highest,<br/>and on earth peace to people of good will.<br/>We praise you,<br/>we bless you,<br/>we adore you,<br/>we glorify you,<br/>we give you thanks for your great glory,<br/>Lord God, heavenly King,<br/>O God, almighty Father.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord Jesus Christ, Only Begotten Son,<br/>Lord God, Lamb of God, Son of the Father,<br/>you take away the sins of the world,<br/>have mercy on us;<br/>you take away the sins of the world,<br/>receive our prayer;<br/>you are seated at the right hand<br/>of the Father,<br/>have mercy on us.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>For you alone are the Holy One,<br/>you alone are the Lord,<br/>you alone are the Most High,<br/>Jesus Christ,<br/>with the Holy Spirit,<br/>in the glory of God the Father.<br/>Amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

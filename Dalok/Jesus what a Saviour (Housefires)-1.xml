@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jesus what a Saviour</title>
+    </titles>
+    <authors>
+      <author>Housefires</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus what a Saviour, what a Brother, what a friend<br/>lifter of the lowly, God you meet me where I am<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your Love it has no borders, has no walls<br/>Your contantly moving towards me with open arms<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've never known a love like yours x4<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Hallelujah<br/>what a beautiful way You show this<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, Hallelujah<br/>what a wonderful Saviour<br/></lines>
+    </verse>
+  </lyrics>
+</song>

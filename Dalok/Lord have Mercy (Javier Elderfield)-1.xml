@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Lord have Mercy</title>
+    </titles>
+    <authors>
+      <author>Javier Elderfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord have mercy, Lord have mercy<br/>On me, on me, on me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ have mercy, Christ have mercy,<br/>On me, on me, on me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord have mercy, Lord have mercy<br/>On me, on me, on me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

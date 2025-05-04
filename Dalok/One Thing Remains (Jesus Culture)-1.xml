@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>One Thing Remains</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher than the mountains that I face<br/>Stronger than the power of the grave<br/>Constant in the trial and the change<br/>One thing… Remains<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love never fails, never gives up<br/>Never runs out on me (3x)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>On and on and on and on it goes<br/>It overwhelms and satisfies my soul<br/>And I never, ever, have to be afraid<br/>One thing remains<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>In death, In life, I'm confident and<br/>covered by the power of Your great love<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>My debt is paid, there's nothing that can<br/>separate my heart from Your great love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

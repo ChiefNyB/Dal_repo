@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:33">
+  <properties>
+    <titles>
+      <title>And the Father will dance</title>
+    </titles>
+    <authors>
+      <author>Carey Landry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And the Father will dance as on the day of joy<br/>He will exult over you and renew you by His love!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shout for joy, all you, His people.<br/>Sing aloud and exult with all your heart,<br/>For Yahweh, your God is in your midst.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

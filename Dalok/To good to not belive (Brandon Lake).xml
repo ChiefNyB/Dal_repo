@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:15">
+  <properties>
+    <titles>
+      <title>To good to not belive</title>
+    </titles>
+    <authors>
+      <author>Brandon Lake</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've lived stories that have proved Your faithfulness<br/>I've seen miracles my mind can't comprehend<br/>And there is beauty in what I can't understand<br/>Jesus, it's You, Jesus, it's You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe<br/>You're the wonder-working God<br/>You're the wonder-working God<br/>All the miracles I've seen<br/>Too good to not believe</lines>
+    </verse>
+    <verse name="c2">
+      <lines>You're the wonder-working God<br/>And You heal because You love<br/>Oh, the miracles we'll see<br/>You're too good to not believe<br/>Too good to not believe</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I can't resurrect a man with my own hands<br/>But just the mention of Your name can raise the dead (yeah)<br/>All the glory to the only One who can<br/>Jesus, it's You, Jesus, it's You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>gospel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewangelia (J 3, 14-21)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bóg posłał swego Syna, aby świat został zbawiony<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Słowa Ewangelii według Świętego Jana<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus powiedział do Nikodema:<br/>«Jak Mojżesz wywyższył węża na pustyni, tak trzeba, by wywyższono Syna Człowieczego, aby każdy, kto w Niego wierzy, miał życie wieczne. Tak bowiem Bóg umiłował świat, że Syna swego Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne. Albowiem Bóg nie posłał swego Syna na świat po to, aby świat potępił, ale po to, by świat został przez Niego zbawiony. Kto wierzy w Niego, nie podlega potępieniu; a kto nie wierzy, już został potępiony, bo nie uwierzył w imię Jednorodzonego Syna Bożego.<br/>A sąd polega na tym, że światło przyszło na świat, lecz ludzie bardziej umiłowali ciemność aniżeli światło: bo złe były ich uczynki. Każdy bowiem, kto źle czyni, nienawidzi światła i nie zbliża się do światła, aby jego uczynki nie zostały ujawnione. Kto spełnia wymagania prawdy, zbliża się do światła, aby się okazało, że jego uczynki zostały dokonane w Bogu».<br/></lines>
+    </verse>
+  </lyrics>
+</song>

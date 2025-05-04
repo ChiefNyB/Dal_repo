@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>Holy is the Lord</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We stand and lift up our hands<br/>For the joy of the Lord is our strength<br/>We bow down and worship Him now<br/>How great, how awesome is He</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And together we sing<br/>And everyone sing</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy is the Lord, God Almighty<br/>The earth is filled with His glory<br/>Holy is the Lord, God Almighty<br/>The earth is filled with His glory<br/>The earth is filled with His glory</lines>
+    </verse>
+    <verse name="b1">
+      <lines>It's rising up all around<br/>It's the anthem of the Lord's renown<br/>It's rising up all around<br/>It's the anthem of the Lord's renown</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>We have come</title>
+    </titles>
+    <authors>
+      <author>United Pursuit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I wanna follow You<br/>With all my heart<br/>I worship You, God<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have come to give You glory<br/>We have come to give You praise<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're welcome in this place<br/>You're welcome in this place<br/>You're welcome in this place<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Have Your way, have Your way<br/>Have Your way<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>We have come to give You glory<br/>We have come to give You praise<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're welcome in this place<br/>You're welcome in this place<br/>You're welcome in this place<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>Have Your way, have Your way<br/>Have Your way<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>It's only You we want<br/></lines>
+    </verse>
+  </lyrics>
+</song>

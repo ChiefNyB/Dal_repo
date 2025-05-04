@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Our Master, Our Saviour</title>
+    </titles>
+    <authors>
+      <author>Viola Grafstrom</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Master, our Saviour,<br/>You are Lord our king.<br/>Our Master, our Saviour,<br/>We give our praise to the king,<br/>To our king<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the everlasting Father,<br/>The beginning and the end.<br/>There is no one<br/>That can take Your place,<br/>There is no other name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

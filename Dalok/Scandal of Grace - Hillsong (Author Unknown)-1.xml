@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Scandal of Grace - Hillsong</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grace, what have you done?<br/>Murdered for me on that cross<br/>Accused in absence of wrong<br/>My sin washed away in your blood<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Too much to make sense of it all<br/>I know that your love breaks my fall<br/>The scandal of grace, you died in my place<br/>So my soul will live<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh to be like you<br/>Give all I have just to know you<br/>Jesus, there's no one besides you<br/>Forever the hope in my heart<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Death, where is your sting?<br/>Your power is as dead as my sin<br/>The cross has taught me to live<br/>In mercy, my heart now to sing<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>The day and its trouble shall come<br/>I know that your strength is enough<br/>The scandal of grace, you died in my place<br/>So my soul will live<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>And it's all because of you, Jesus<br/>It's all because of you, Jesus<br/>It's all because of your love<br/>And my soul will live<br/></lines>
+    </verse>
+  </lyrics>
+</song>

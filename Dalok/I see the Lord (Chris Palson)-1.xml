@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I see the Lord</title>
+    </titles>
+    <authors>
+      <author>Chris Palson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Lord seated on the throne exalted<br/>And the train of His robe fills the temple with glory<br/>And the whole earth is filled And the whole earth is filled<br/>And the whole earth is filled with His glory<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, Holy, Holy, Holy<br/>Holy is the Lord<br/>Holy, Holy, Holy, Holy<br/>Holy is the Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

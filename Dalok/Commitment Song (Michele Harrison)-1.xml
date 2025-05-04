@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:42">
+  <properties>
+    <titles>
+      <title>Commitment Song</title>
+    </titles>
+    <authors>
+      <author>Michele Harrison</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your heart and Your light<br/>That's what You called us to be<br/>Lord help us become truly one in unity<br/>Lord help us to pay the price<br/>To respond to Your grace<br/>To lay down our lives for You<br/>And one another each day<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we say yes Lord! Yes Lord!<br/>Yes to Your call, Yes to our common life<br/>And we say yes Lord! Yes Lord!<br/>Yes to Your call to renew Your church<br/>As we more fully become<br/>Your heart and Your light<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord use us to heal and teach us to pray<br/>Make us a living example<br/>Of how to walk in Your way<br/></lines>
+    </verse>
+  </lyrics>
+</song>

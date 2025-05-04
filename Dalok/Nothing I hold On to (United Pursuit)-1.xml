@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:03">
+  <properties>
+    <titles>
+      <title>Nothing I hold On to</title>
+    </titles>
+    <authors>
+      <author>United Pursuit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lean not on my own understanding,<br/>My life is in the hands of the maker of heaven<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I Give it all to you God,<br/>Trusting that you'll make something beautiful out of me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will climb this mountain<br/>With my hands wide open<br/>I will climb this mountain<br/>With my hands wide open<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is nothing I hold on to<br/>There is nothing I hold on to<br/>There is nothing I hold on to<br/>There is nothing I hold on to<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>All Glory To God, Forever. Amen<br/></lines>
+    </verse>
+  </lyrics>
+</song>

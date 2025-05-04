@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>Wait on the Lord</title>
+    </titles>
+    <authors>
+      <author>Maverick City Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wait on the Lord<br/>Wait on the Lord<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm gonna wait on You<br/>I'm gonna wait on You<br/>I've tasted your goodness<br/>I'll trust in Your promise<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>He will renew your strength<br/>to wait I say<br/>wait on the Lord,<br/>wait on the Lord.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>While I'm waiting I'll be worshipping<br/>while I'm waiting I'll be praising<br/>while I'm waiting I'll be praising<br/>while I'm waiting I'll be praising.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>What's the use of complaining<br/>when I can be praising<br/></lines>
+    </verse>
+  </lyrics>
+</song>

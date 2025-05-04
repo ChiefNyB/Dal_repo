@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>Angels bow</title>
+    </titles>
+    <authors>
+      <author>Steve Crown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angels bow before Your throne<br/>Miracles happen in Your name<br/>What a mighty God You are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>We lift You high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesus 4x<br/>Healer 4x</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author>Mike Anderson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria! (clap, clap)<br/>Gloria! (clap, clap)<br/>In excelsis Deo.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord God, heavenly King,<br/>Peace You bring to us;<br/>We worship You, we give You thanks,<br/>We sing our song of praise.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Savior of all,<br/>Lord God, Lamb of God,<br/>You take away our sins, O Lord,<br/>Have mercy on us all.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>At the Father's right hand,<br/>Lord, receive our prayer,<br/>for You alone are the Holy One,<br/>and You alone are the Lord.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory, Father and Son,<br/>Glory, Holy Spirit,<br/>To you we raise our hands up high,<br/>We glorify your name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

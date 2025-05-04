@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>O sacred King</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Sacred King, O Holy King<br/>How can I honour You rightly,<br/>Honour that's right for Your name?<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Sacred friend, O Holy friend<br/>I don't take what You give lightly<br/>Friendship instead of disgrace.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>For it's the mystery of the universe<br/>You're the God of holiness,<br/>Yet You welcome souls like me<br/>And with the blessing of Your Father's heart<br/>You disciple the ones You love<br/>There's kindness in Your majesty<br/>Jesus those who recognise Your power<br/>Know just how wonderful You are<br/>That You draw near<br/></lines>
+    </verse>
+  </lyrics>
+</song>

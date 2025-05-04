@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Our God saves</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the name of the Father<br/>In the name of the Son<br/>In the name of the Spirit<br/>Lord we've come<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're gathered together<br/>To lift up Your name<br/>To call on our savior<br/>To fall on Your grace<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hear the joyful sound of our offering<br/>As your saints bow down, as your people sing<br/>We will rise with You, lifted on Your wings<br/>And the world will see that<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our God saves, our God saves<br/>There is hope in Your name<br/>Mourning turns to songs of praise<br/>Our God saves, our God saves<br/></lines>
+    </verse>
+  </lyrics>
+</song>

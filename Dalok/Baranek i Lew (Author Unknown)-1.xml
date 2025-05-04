@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:35">
+  <properties>
+    <titles>
+      <title>Baranek i Lew</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On przyjdzie pośród chwał<br/>i każdy wyzna że to Pan<br/>Kajdany zerwą się a z wdzięcznych serc<br/>popłynie pieśń<br/>Któz zatrzyma Ciebie Panie<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nasz Bóg jest jak Lew, potężny Lew Judy<br/>Jest niepokonany, On sam walczy za nas<br/>Wszyscy sie pokłonią przed Nim<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nasz Bóg jak Baranek, wydany na śmierć<br/>Żeby Jego święta krew zmazała nasz grzech<br/>Wszyscy sie pokłonią przed Barankiem jak i Lwem<br/>Wszyscy sie pokłonią przed Nim<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Torujcie droge Mu bo już nadchodzi królów Król<br/>Całego świata Pan przychodzi by uwolnić nas<br/>Któz zatrzyma Ciebie Panie<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Któz zatrzyma ciebie Panie  x3<br/>Nikt nie zatrzyma Cię<br/></lines>
+    </verse>
+  </lyrics>
+</song>

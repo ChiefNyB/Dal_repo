@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:36">
+  <properties>
+    <titles>
+      <title>Beautiful one</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wonderful, so wonderful<br/>Is your unfailing love<br/>Your cross has spoken mercy over me<br/>No eye has seen no ear has heard<br/>No heart could fully know<br/>How glorious, how wonderful you are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Beautiful one I love you<br/>Beautiful one I adore<br/>Beautiful one my soul must sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Powerful so powerful<br/>Your glory fills the skies<br/>Your mighty works displayed for all to see<br/>The beauty of your majesty<br/>Awakes my soul to sing<br/>How marvellous how wonderful you are.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Beautiful one I love you<br/>Beautiful one I adore<br/>Beautiful one my soul must sing.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You opened my eyes to your wonders anew<br/>You captured my heart with this love<br/>Because nothing on Earth is as beautiful as you</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Beautiful one I love you<br/>Beautiful one I adore<br/>Beautiful one my soul must sing.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And you opened my eyes to your wonders anew<br/>You captured my heart with this love<br/>'cause nothing on earth is as beautiful as you are.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My soul <br/>my soul<br/>my soul must sing<br/>Beautiful One</lines>
+    </verse>
+  </lyrics>
+</song>

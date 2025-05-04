@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:35">
+  <properties>
+    <titles>
+      <title>Battle Belongs</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When all I see is the battle<br/>You see my victory<br/>When all I see is the mountain<br/>You see a mountain moved<br/>And as I walk through the shadow<br/>Your love surrounds me<br/>There's nothing to fear now<br/>For I am safe with You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>So when I fight I'll fight on my knees<br/>With my hands lifted high<br/>Oh God the battle belongs to You<br/>And every fear I'll lay at Your feet<br/>I'll sing through the night<br/>Oh God the battle belongs to You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And if You are for me<br/>Who can be against me<br/>For Jesus there's nothing<br/>Impossible for You<br/>When all I see are the ashes<br/>You see the beauty<br/>When all I see is a cross<br/>God You see the empty tomb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Almighty Fortress You go before us<br/>Nothing can stand against<br/>The power of our God<br/>You shine in the shadow<br/>You win every battle<br/>Nothing can stand against<br/>The power of our God</lines>
+    </verse>
+  </lyrics>
+</song>

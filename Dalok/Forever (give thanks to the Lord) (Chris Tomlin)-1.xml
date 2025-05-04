@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Forever (give thanks to the Lord)</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks to the Lord our God and King<br/>His love endures forever<br/>For He is good, He is above all things<br/>His love endures forever<br/>Sing praise, sing praise<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a mighty hand<br/>and outstretched arm<br/>His love endures forever<br/>For the life that's been reborn<br/>His love endures forever<br/>Sing praise, sing praise<br/>Sing praise, sing praise<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Forever God is faithful<br/>Forever God is strong<br/>Forever God is with us<br/>Forever<br/>(repeat)<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the rising to the setting sun<br/>His love endures forever<br/>By the grace of God we will carry on<br/>His love endures forever<br/>Sing praise, sing praise<br/>Sing praise, sing praise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

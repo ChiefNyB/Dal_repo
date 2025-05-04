@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:03">
+  <properties>
+    <titles>
+      <title>O Magnify the Lord</title>
+    </titles>
+    <authors>
+      <author>Maggi Dawn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O magnify the Lord with me<br/>And let us exalt His name together<br/>O magnify the Lord with me<br/>And let us exalt His name together<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I called to the Lord and He answered,<br/>Saved me from all of my trouble;<br/>He delivered me from all my fear,<br/>So I'll rejoice, I'll rejoice!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>We will boast about the Lord,<br/>Tell of the things He has done,<br/>Let the whole world hear about it,<br/>And they'll rejoice, they'll rejoice!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We will magnify Jesus together<br/>We will magnify You, O Lord<br/>We will magnify Jesus together<br/>We will magnify You, O Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Philip Saturday psalm ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>R. (14) I will walk in the presence of God, in the light of the living.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I know that God is with me.<br/>In God, in whose promise I glory,<br/>in God I trust without fear;<br/>what can flesh do against me?<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>R. I will walk in the presence of God, in the light of the living.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am bound, O God, by vows to you;<br/>your thank offerings I will fulfill.<br/>For you have rescued me from death,<br/>my feet, too, from stumbling;<br/>that I may walk before God in the light of the living.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>R. I will walk in the presence of God, in the light of the living.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

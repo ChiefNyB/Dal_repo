@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:35">
+  <properties>
+    <titles>
+      <title>Awaken the Dawn</title>
+    </titles>
+    <authors>
+      <author>Stuart Garrard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing to the Lord with all of your heart<br/>Sing of the glory that's due to his name<br/>Sing to the Lord with all of your soul<br/>Join all of heaven and earth to proclaim<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the Lord, the Saviour of all,<br/>God of creation we praise You<br/>We sing the songs that awaken the Dawn,<br/>God of creation we praise You<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing to the Lord with all of your mind<br/>With understanding give thanks to the King<br/>Sing to the Lord with all of your strength<br/>Living your lives as a praise offering<br/></lines>
+    </verse>
+  </lyrics>
+</song>

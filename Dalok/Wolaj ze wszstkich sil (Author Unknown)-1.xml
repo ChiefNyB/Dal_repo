@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Wolaj ze wszstkich sil</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z wiarą wstań i śpiewaj pieśń<br/>O wspaniałym Królu Chwał<br/>Bo w słabości siłę masz<br/>Z niepewności wyjście znasz<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wołaj ze  wszystkich sił<br/>W każdą ze świata stron<br/>Jezus Zbawiciel nasz<br/>Panem nieba jest      /x2<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>W prawdzie wstań i śpiewaj pieśń<br/>Do złamanych śpiewaj serc<br/>Mogą poznać Jego moc,<br/>Moc co leczy, Króla moc.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wołaj ze wszystkich sił<br/>W każdą ze świata stron<br/>Jezus Zbawiciel nasz<br/>Panem nieba jest      /x2<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Choć złamane skrzydła masz<br/>Wstań kościele Pana chwal<br/>Niechaj znowu zabrzmi pieśń<br/>Z łaski w góre wzbijesz się.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wołaj ze  wszystkich sił<br/>W każdą ze świata stron<br/>Jezus Zbawiciel nasz<br/>Panem nieba jest     /x2<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Growth 2018 first reading</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In those days, I Daniel,<br/>heard this word of the Lord:<br/>"At that time there shall arise<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Michael, the great prince,<br/>guardian of your people;<br/>it shall be a time unsurpassed in distress<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>since nations began until that time.<br/>At that time your people shall escape,<br/>everyone who is found written in the book.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>"Many of those who sleep in the dust of the earth shall awake;<br/>some shall live forever,<br/>others shall be an everlasting horror and disgrace.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>"But the wise shall shine brightly<br/>like the splendor of the firmament,<br/>and those who lead the many to justice<br/>shall be like the stars forever."<br/></lines>
+    </verse>
+  </lyrics>
+</song>

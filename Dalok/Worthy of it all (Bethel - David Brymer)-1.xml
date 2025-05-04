@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Worthy of it all</title>
+    </titles>
+    <authors>
+      <author>Bethel - David Brymer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the saints and angels bow before Your throne<br/>All the elders cast their crowns before the Lamb of God and sing<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are worthy of it all,<br/>You are worthy of it all<br/>For from You are all things,<br/>And to You are all things,<br/>You deserve the glory<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Day and night, night and day, let incense arise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

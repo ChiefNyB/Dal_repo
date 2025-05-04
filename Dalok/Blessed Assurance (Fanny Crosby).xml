@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:37">
+  <properties>
+    <titles>
+      <title>Blessed Assurance</title>
+    </titles>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed assurance, Jesus is mine:<br/>O what a foretaste of glory divine!<br/>Heir of salvation, purchase of God;<br/>Born of His Spirit, washed in His blood.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my story, this is my song,<br/>Praising my Saviour all the day long.<br/>This is my story, this is my song,<br/>Praising my Saviour all the day long.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Perfect submission, perfect delight,<br/>Visions of rapture burst on my sight;<br/>Angels descending bring from above<br/>Echoes of mercy, whispers of love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Perfect submission, all is at rest,<br/>I in my Saviour am happy and blessed;<br/>Watching and waiting, looking above,<br/>Filled with His goodness, lost in His love.</lines>
+    </verse>
+  </lyrics>
+</song>

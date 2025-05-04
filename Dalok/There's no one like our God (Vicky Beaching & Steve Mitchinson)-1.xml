@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>There's no one like our God</title>
+    </titles>
+    <authors>
+      <author>Vicky Beaching &amp; Steve Mitchinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no one like our God, no one at all<br/>He gave His Son for us, Jesus the Lord<br/>Who can love us like He does, no one at all<br/>Oh how we love You Lord<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are high above all nations<br/>Your glory shines above the heavens<br/>Humbled Yourself to love and save us<br/>Be praised through endless generations<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You lift the needy from the ashes<br/>And sit them high up with the princes<br/>You give the barren woman healing<br/>She'll dance with joy like the mother of children<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh how we love You Lord<br/>Oh how we love You Lord<br/>Oh how we love You Lord<br/>Oh how we love You Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

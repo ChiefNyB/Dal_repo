@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Holy Ghost</title>
+    </titles>
+    <authors>
+      <author>unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Ghost, you wonderful Holy Ghost,<br/>A wind blowing strong,<br/>Blowing from heaven<br/>(repeat)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have decided to go,<br/>All the way with our God.<br/>Revival in the land that's our goal.<br/>As soldiers in His army,<br/>We'll fight with heart and soul.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blood and fire,<br/>We call upon blood and fire,<br/>A stream flowing strong,<br/>Flowing from Heaven.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

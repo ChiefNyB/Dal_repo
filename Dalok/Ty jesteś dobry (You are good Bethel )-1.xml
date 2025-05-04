@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:15">
+  <properties>
+    <titles>
+      <title>Ty jesteś dobry</title>
+    </titles>
+    <authors>
+      <author>You are good Bethel </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Królu mój, królu mój, na Twą górę pragnę wejść<br/>Z Ciebie zawsze czerpać chcę, o Tyś pieśnią mą.<br/>Let the King of my heart be the mountain where I run<br/>The fountain I drink from, oh he is my song.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Królu mój, królu mój, w Twoim cieniu chcę się skryć<br/>W odkupieniu Twoim trwać, o Tyś pieśnią mą. /2x<br/>Let the King of my heart, be the shadow where I hide<br/>The ransom for my life, oh He is my song<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty jesteś dobry dobry oooo /4x<br/>You are good, good, oooo/4x<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Królu mój, królu mój bądz jak wiatr w żaglach mych<br/>Bądz opoką gdy trwa sztorm, o Tyś pieśnią mą.<br/>Let the King of my heart be the wind inside my sails<br/>The anchor in the waves, oh He is my song<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Królu mój, królu mój, bądz jak ogień w żyłach mych<br/>Ty bądz echem moich dni, o Tyś pieśnią mą. /2x<br/>Let the King of my heart, be the fire inside my veins<br/>The echo of my days, oh He is my song.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty nie zawiedziesz mnie, Ty nigdy nie zawiedziesz mnie./x4<br/>You're never gone let, never gonna let me down /x4<br/></lines>
+    </verse>
+  </lyrics>
+</song>

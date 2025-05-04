@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:53">
+  <properties>
+    <titles>
+      <title>I am loved</title>
+    </titles>
+    <authors>
+      <author>Mack brock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just as I am<br/>You welcome me<br/>With open arms<br/>How can this be<br/>My guilt is undone<br/>My past is untethered<br/>I leave it behind<br/>And run to my Father</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no disappointment in your eyes<br/>There is no shame there is only pride<br/>I am loved<br/>Father, I am loved by you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So unreserved<br/>Your heart for me<br/>My fear is gone<br/>I am set free<br/>There is nothing to hide<br/>There is nothing to measure<br/>'Cause I am your child<br/>And thats all that matters</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no disappointment in your eyes<br/>There is no shame there is only pride<br/>I am loved<br/>Father, I am loved by you<br/>There is no distance in your embrace<br/>Over and over again you say<br/>I am loved<br/>Father, I am loved by you<br/>I am loved<br/>Father I am loved by you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are changing everything<br/>You are changing everything<br/>I believe it<br/>I believe it<br/><br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am loved, I am loved, I am loved,<br/>I am loved by you</lines>
+    </verse>
+  </lyrics>
+</song>

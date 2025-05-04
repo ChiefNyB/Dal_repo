@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>O Praise the Name</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I cast my mind to Calvary<br/>Where Jesus bled and died for me.<br/>I see His wounds, His hands, His feet.<br/>My Savior on that cursed tree<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>His body bound and drenched in tears<br/>They laid Him down in Joseph's tomb.<br/>The entrance sealed by heavy stone<br/>Messiah still and all alone<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>O praise the name of the Lord our God<br/>O praise His name forever more<br/>For endless days we will sing Your praise<br/>Oh Lord, oh Lord our God<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Then on the third at break of dawn,<br/>The Son of heaven rose again.<br/>O trampled death where is your sting?<br/>The angels roar for Christ the King<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>O praise the name of the Lord our God<br/>O praise His name forever more<br/>For endless days we will sing Your praise<br/>Oh Lord, oh Lord our God<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>He shall return in robes of white,<br/>The blazing Son shall pierce the night.<br/>And I will rise among the saints<br/>My gaze transfixed on Jesus face<br/></lines>
+    </verse>
+  </lyrics>
+</song>

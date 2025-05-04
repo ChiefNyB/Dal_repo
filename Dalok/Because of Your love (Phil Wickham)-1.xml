@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:36">
+  <properties>
+    <titles>
+      <title>Because of Your love</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus You endured my pain<br/>Savior You bore all my shame<br/>All because of Your love<br/>All because of Your love<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maker of the universe<br/>Broken for the sins of the earth<br/>All because of Your love<br/>All because of your love<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because of Your cross my debt is paid<br/>Because of Your blood my sins are washed away<br/>Now all of my life, I freely give<br/>Because of Your love<br/>Because of Your love I live<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Innocence and holy King<br/>You died to set the captives free<br/>All because of Your love<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord You gave Your life for me<br/>I will live my life to you<br/>All because of Your love<br/>All because of Your love<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Because of Your cross my debt is paid<br/>Because of Your blood my sins are washed away<br/>Now all of my life, I freely give<br/>Because of Your love<br/>Because of Your love I live<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You did it for me, You did it for love<br/>It’s Your victory, Jesus You are enough<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>You did it for me, You did it for love<br/>It’s Your victory, Jesus You are enough<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>You did it for me, You did it for love<br/>It’s Your victory, Jesus You are enough<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>Because of Your cross my debt is paid<br/>Because of Your blood my sins are washed away<br/>Now all of my life, I freely give<br/>Because of Your love<br/>Because of Your love I live<br/></lines>
+    </verse>
+  </lyrics>
+</song>

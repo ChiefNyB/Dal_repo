@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Gdyby wiara twa</title>
+    </titles>
+    <authors>
+      <author>23</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gdyby wiara twa była wielka<br/>jak gorczycy ziarnko<br/>- te słowa mówi ci Pan.     / x2<br/>I z taką wiarą rzekłbyś do góry:<br/>"Przesuń się, przesuń się!" / x2<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>A góra posłusznie przesunie się<br/>(przesunie się, przesunie się)<br/>W Imię Jezusa przesunie się<br/>(przesunie się, przesunie się)<br/>A kto jest smutny ucieszy się<br/>(ucieszy się, ucieszy się)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Imię Jezusa ...<br/>(ucieszy się, ucieszy się)<br/>Chromy stanie na nogi swe<br/>W Imię Jezusa ... (na nogi swe)<br/>A kto łzy leje otrze je (otrze je, otrze je)<br/>W Imię Jezusa ... (otrze je, otrze je)<br/>Chory odzyska zdrowie swe (zdrowie swe, zdrowie swe)<br/>W Imię Jezusa ... (zdrowie swe, zdrowie swe)<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spływa, spływa,<br/>spływa Duch Święty /x4<br/><br/>Duch Święty swą mocą dotyka mnie<br/>(dotyka mnie, dotyka mnie)<br/>Od czubka głowy po stopy me<br/>(po stopy me, po stopy me)<br/>Amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

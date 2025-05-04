@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Light of the world (here I am to worship)</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Light of the world<br/>You stepped down into darkness<br/>Open my eyes, let me see<br/>Beauty that made this heart adore You<br/>Hope of a life spent with You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>So here I am to worship<br/>Here I am to bow down<br/>Here I am to say that You're my God<br/>You're altogether lovely, altogether worthy<br/>Altogether wonderful to me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>King of all days, oh, so highly exalted<br/>Glorious in heaven above<br/>Humbly You came to the earth You created<br/>All for love's sake became poor<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And here I am to worship<br/>Here I am to bow down<br/>Here I am to say that You're my God<br/>You're altogether lovely, altogether worthy<br/>Altogether wonderful to me<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I'll never know how much it cost<br/>To see my sin upon that cross<br/>I'll never know how much it cost<br/>To see my sin upon that cross<br/></lines>
+    </verse>
+  </lyrics>
+</song>

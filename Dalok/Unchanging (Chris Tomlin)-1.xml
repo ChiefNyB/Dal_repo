@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>Unchanging</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Your faithfulness<br/>Great is Your faithfulness<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>True are Your promises<br/>True are Your promises<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>So we raise up holy hands<br/>To praise the Holy One<br/>Who was and is and is to come<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wide is Your love and grace<br/>Wide is Your love and grace<br/>You never change<br/>You never fail, O God<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You were, You are<br/>You will always be<br/></lines>
+    </verse>
+  </lyrics>
+</song>

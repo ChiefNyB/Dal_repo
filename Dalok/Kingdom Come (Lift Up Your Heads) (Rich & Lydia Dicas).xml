@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:58">
+  <properties>
+    <titles>
+      <title>Kingdom Come (Lift Up Your Heads)</title>
+      <title>God let your Kingdom Come</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1 b2</verseOrder>
+    <authors>
+      <author type="words">Rich &amp; Lydia Dicas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Earth is groaning and we are longing<br/>For Your kingdom to come<br/>All creation and all of Heaven<br/>Join their voices as one</lines>
+    </verse>
+    <verse name="c1">
+      <lines>God let Your kingdom come<br/>May Your will be done<br/>God let Your kingdom come</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hope is stirring, joy arising<br/>As we look to the day<br/>When all injustice will bow and every voice will cry out:<br/>'Holy is Your name'</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift up your heads all the weak and the poor<br/>The Lord is at hand and His kingdom is yours<br/>Lift up your hearts all who suffer and mourn<br/>The Lord is at hand and His kingdom is yours</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Lift up your eyes all who hunger for more<br/>The Lord is at hand and His kingdom is yours<br/>Lift up a shout let the Earth hear your voice<br/>The Lord is at hand and His kingdom is yours</lines>
+    </verse>
+  </lyrics>
+</song>

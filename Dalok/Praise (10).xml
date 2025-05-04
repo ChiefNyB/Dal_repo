@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Praise</title>
+    </titles>
+    <authors>
+      <author type="words">10</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Let everything that has breath<br/>Praise the Lord, praise the Lord<br/>Let everything, let everything that has breath<br/>Praise the Lord, praise the Lord</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I'll praise in the valley, praise on the mountain <br/>I'll praise when I'm sure, praise when I'm doubting<br/>I'll praise when outnumbered, praise when surrounded<br/>'Cause praise is the waters my enemies drown in</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>As long as I'm breathing<br/>I've got a reason to<br/>Praise the Lord, oh my soul<br/>Praise the Lord, oh my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll praise when I feel it, and I'll praise when I don't <br/>I'll praise 'cause I know You're still in control<br/>'Cause my praise is a weapon, it's more than a sound<br/>Oh, my praise is the shout that brings Jericho down</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Praise the Lord, oh my soul<br/>Praise the Lord, oh my soul</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I won't be quiet, my God is alive<br/>So how could I keep it inside?<br/>Praise the Lord, oh my soul</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I'll praise 'cause You're sovereign, praise 'cause You reign<br/>Praise 'cause You rose and defeated the grave<br/>I'll praise 'cause You're faithful, praise 'cause You're true<br/>Praise 'cause there's nobody greater than You<br/>I'll praise 'cause You're sovereign, praise 'cause You reign<br/>Praise 'cause You rose and defeated the grave<br/>I'll praise 'cause You're faithful, praise 'cause You're true<br/>Praise 'cause there's nobody greater than You</lines>
+    </verse>
+  </lyrics>
+</song>

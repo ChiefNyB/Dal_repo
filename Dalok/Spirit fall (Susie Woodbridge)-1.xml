@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Spirit fall</title>
+    </titles>
+    <authors>
+      <author>Susie Woodbridge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You breathe life, You restore<br/>Awaken my soul, I know that I've been made for more<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You speak truth, You renew<br/>When I’m in Your presence You show me the glory of You<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit fall, Spirit fall<br/>Fall on us for we are Yours<br/>Fall on us for we are Yours<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You will make, all things new<br/>Until you return all creation cries out for you<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is power in Your presence<br/>Hope and healing in your presence<br/>There is freedom in Your presence<br/>Spirit fall<br/></lines>
+    </verse>
+  </lyrics>
+</song>

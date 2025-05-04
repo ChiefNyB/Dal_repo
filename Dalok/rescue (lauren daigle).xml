@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>rescue</title>
+    </titles>
+    <authors>
+      <author>lauren daigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>you are not hidden <br/>theres never been a moment<br/>you were forgotten<br/>you are not hopeless<br/>though you have been broken<br/>your innocence stolen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>i hear you whisper underneath your breath <br/>i hear your SOS your SOS</lines>
+    </verse>
+    <verse name="v3">
+      <lines>i will send out an army to find you <br/>in the middle of the darkest night<br/>its true, i will rescue you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>i will never stop marching to reach you <br/>in the middle of the hardest fight<br/>its true, i will rescue you</lines>
+    </verse>
+    <verse name="v5">
+      <lines>there is no distance <br/>that cannot be covered<br/>over and over<br/>you're not defenceless<br/>i'll be your shelter<br/>i'll be your armour</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

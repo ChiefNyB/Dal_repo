@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:17">
+  <properties>
+    <titles>
+      <title>Where you are</title>
+    </titles>
+    <authors>
+      <author>Leeland </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can't get enough<br/>No I can't get enough<br/>Of Your amazing love<br/>I can't get enough<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I can't walk away<br/>No I can't walk away<br/>For I have seen Your face<br/>And I can't walk away<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I just wanna be where You are<br/>I just wanna be near Your heart<br/>There is nothing like Your love x2<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Holy<br/>Holy Holy<br/>Holy Holy<br/>Jesus I love You<br/>Jesus I love You<br/></lines>
+    </verse>
+  </lyrics>
+</song>

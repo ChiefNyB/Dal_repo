@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:55">
+  <properties>
+    <titles>
+      <title>Indescribable</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the highest of heights to the depths of the sea<br/>Creation revealing Your majesty<br/>From the colors of fall to the fragrance of spring<br/>Every creature unique in the song that it sings<br/>All exclaiming<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Indescribable, uncontainable,<br/>You placed the stars in the sky and You know them by name.<br/>You are amazing God<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>All powerful, untameable,<br/>Awestruck we fall to our knees as we humbly proclaim<br/>You are amazing God<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who has told every lightning bolt where it should go<br/>Or seen heavenly storehouses laden with snow<br/>Who imagined the sun and gives source to its light<br/>Yet conceals it to bring us the coolness of night<br/>None can fathom<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Indescribable, uncontainable,<br/>You placed the stars in the sky and You know them by name<br/>You are amazing God<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>All powerful, untameable,<br/>Awestruck we fall to our knees as we humbly proclaim<br/>You are amazing God<br/>You are amazing God<br/></lines>
+    </verse>
+  </lyrics>
+</song>

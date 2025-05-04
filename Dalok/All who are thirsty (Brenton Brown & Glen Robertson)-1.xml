@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>All who are thirsty</title>
+    </titles>
+    <authors>
+      <author>Brenton Brown &amp; Glen Robertson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All who are thirsty<br/>All who are weak<br/>Come to the fountain<br/>Dip your heart in the stream of life<br/>Let the pain and the sorrow<br/>Be washed away<br/>In the waves of his mercy<br/>As deep cries out to deep (we sing)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come Lord Jesus come<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit come<br/></lines>
+    </verse>
+  </lyrics>
+</song>

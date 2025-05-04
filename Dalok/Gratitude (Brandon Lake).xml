@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Gratitude</title>
+    </titles>
+    <authors>
+      <author>Brandon Lake</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>So I throw up my hands<br/>And praise You again and again<br/>'Cause all that I have is a hallelujah<br/>Hallelujah<br/>And I know it's not much<br/>But I've nothing else fit for a King<br/>Except for a heart singing hallelujah<br/>Hallelujah</lines>
+    </verse>
+    <verse name="b1a">
+      <lines/>
+    </verse>
+    <verse name="v1a">
+      <lines>All my words fall short<br/>I got nothing new<br/>How could I express<br/>All my gratitude?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I could sing these songs<br/>As I often do<br/>But every song must end<br/>And You never do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got one response<br/>I've got just one move<br/>With my arm stretched wide<br/>I will worship You</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>come on, my soul<br/>Oh, don't you get shy on me<br/>Lift up your song<br/>'Cause you've got a lion inside of those lungs<br/>Get up and praise the Lord</lines>
+    </verse>
+  </lyrics>
+</song>

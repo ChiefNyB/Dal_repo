@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:42">
+  <properties>
+    <titles>
+      <title>Come, now is the time to worship.</title>
+    </titles>
+    <authors>
+      <author>Vineyard songs</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, now is the time to worship.<br/>Come, now is the time to give your heart.<br/>Come, just as you are, to worship.<br/>Come, just as you are, before your God.<br/>Come.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>One day every tongue will confess<br/>You are God.<br/>One day every knee will bow.<br/>Still the greatest treasure remains for those<br/>Who gladly choose you now.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

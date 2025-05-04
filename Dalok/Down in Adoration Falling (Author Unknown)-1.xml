@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:45">
+  <properties>
+    <titles>
+      <title>Down in Adoration Falling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down in adoration falling<br/>This great sacrament we hail<br/>Over ancient forms departing<br/>Newer rites of grace prevail<br/>Faith for all defects supplying<br/>Where the feeble senses fail<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the everlasting Father<br/>And the Son who reigns on high<br/>With the spirit blest proceeding<br/>Forth from each eternally<br/>Be salvation honor blessing<br/>Might and endless majesty<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Lamb of God<br/>Saving love for all<br/>Lord of heaven and earth<br/>Father's love for us<br/>I bow to you<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pour upon us Lord of mercy<br/>Spirit of thy selfless love<br/>Make us of one true heart yearning<br/>For the glory of thy Son<br/>Jesus Fire of justice blazing<br/>Gladn-ing light forever more<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tantum Ergo Sacramentum<br/>Venerémur cérnui<br/>Et antíquum documéntum<br/>Novo cedat rítui<br/>Paestet fides suppleméntum<br/>Sénsuum de féctui<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Genitóri Genitóque<br/>Laus et jubilatio<br/>Salus honor, virtus quoque<br/>Sit et benedictio<br/>Procedénti ab utróque<br/>Compar sit laudátio<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:40">
+  <properties>
+    <titles>
+      <title>Chleb niebiański</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chleb niebiański dał nam Pan na życie wieczne.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wzięliśmy i jedliśmy chleb błogosławiony Ciało Pana i Krew drogocenną.<br/>Chleb przemienił Pan kielich zbawczy, napój orzezwiający.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines/>
+    </verse>
+    <verse name="v2b">
+      <lines>Przyjąwszy Święty Chleb będziemy wysławiali Boga,<br/>Który na całej ziemi uczynił wielkie rzeczy.<br/>Radujcie się sprawiedliwi w Panu,<br/>Przyjmując Ciało i Krew Chrystusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś spożywaliśmy Chleb aniołów<br/>Dziś oglądaliśmy naszego Pana Jezusa Chrystusa,<br/>Dziś wychwalaliśmy węgiel żarzący się na ołtarzu,<br/>W cieniu którego śpiewają Serafiny.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dziś usłyszeliśmy wielki i słodki głos,<br/>To Ciało spali ciernie grzechów,<br/>I oświeci dusze ludzi<br/>Przyjmujących Boski pokarm.</lines>
+    </verse>
+  </lyrics>
+</song>

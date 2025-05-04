@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>God of Revival</title>
+      <title>Brian Johnson</title>
+    </titles>
+    <authors>
+      <author type="words">Brian Johnson</author>
+      <author type="music">Brian Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We see what you can do, oh God of wonders<br/>Your power has no end<br/>The things You've done before in greater measure<br/>You will do again</lines>
+    </verse>
+    <verse name="b1">
+      <lines><br/>Cause there's no prison wall You can't break through<br/>No mountain you can't move, all things are possible<br/>there's no broken body you can't raise<br/>no soul that you can't save all things are possible</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>The darkest night, You can light it up<br/>You can light it up<br/>God of revival<br/>Let hope arise, death is overcome<br/>You've already won, God of revival<br/><br/><br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You rose in victory<br/>and now You're seated<br/>Forever on the throne,<br/>So why should my heart fear what You've defeated<br/>I will trust in you alone<br/><br/><br/><br/></lines>
+    </verse>
+    <verse name="b2">
+      <lines>Come awaken your people, come awaken your city<br/>Oh God of revival<br/>Pour it out, pour it out<br/>Every stronghold will crumble<br/>And I hear the chains hit the ground<br/>Oh God of revival, pour it out, pour it out<br/><br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

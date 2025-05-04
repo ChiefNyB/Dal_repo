@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>Holy, Holy</title>
+    </titles>
+    <authors>
+      <author>N. Fellingham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy is the Lord God almighty x2<br/>Who was, and is, and is to come x2<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up His name with the sound of singing,<br/>Lift up His name in all the earth.<br/>Lift up your voice and give Him glory,<br/>For He is worthy to be praised.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

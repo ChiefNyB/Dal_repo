@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Rescuer</title>
+    </titles>
+    <authors>
+      <author>Chris McClarney</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are mighty and strong to save<br/>You are mighty and strong to save<br/>You are mighty and strong to save<br/>Rescuer<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the heavens You came<br/>To the depths of the grave<br/>To redeem for Your praise<br/>Rescuer<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus You overcame<br/>Death itself for our sake<br/>Let the world now proclaim<br/>Rescuer<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>O what a Saviour<br/>Freedom forever<br/>We lift our hands with chains undone<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hearts that know mercy<br/>Cannot stay silent<br/>We sing the song of saving love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Magnificat</title>
+    </titles>
+    <authors>
+      <author>Joanne Boyce</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul glorifies the Lord, my spirit rejoices<br/>My God forever he will be, bless his holy name.<br/>He looks upon me his servant,<br/>looks on me in my lowliness.<br/>He works marvels for me,<br/>Hence forth all ages call me blessed, Call me blessed.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>He scatters the proud hearted,<br/>casts the mighty from their thrones.<br/>His mighty arm before me,<br/>In strength he raises the lowly, raises the lowly.<br/>He fills the starving with plenty,<br/>but empty sends the rich away.<br/>From age to age his mercy,<br/>The mercy promised us forever, promised forever.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I Love Your Presence</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the glory of your presence<br/>I find rest for my soul<br/>In the depths of your love<br/>I find peace makes me whole<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love I love I love your presence<br/>I love I love I love your presence<br/>I love I love I love you Jesus<br/>I love I love I love your presence<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you want it come and get it for cryin out loud<br/>The love that I have given you was never a doubt<br/>Let go of your heart let go of your head and feel it now<br/></lines>
+    </verse>
+  </lyrics>
+</song>

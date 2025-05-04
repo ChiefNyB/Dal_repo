@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Can't stop your love</title>
+    </titles>
+    <authors>
+      <author>Central Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The struggles that I face<br/>The choices I have made<br/>Can't stop Your love for me<br/>Can't stop Your love<br/>The darkness of the night<br/>The scars I try to hide<br/>Can't stop Your love for me<br/>Can't stop Your love<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where can I go, where can I go<br/>From Your presence?<br/>In Your light I am known<br/>I'm surrounded, I will not walk alone<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whatever lies ahead<br/>You're with me ev'ry step<br/>Can't stop Your love for me<br/>Can't stop Your love<br/>It's true in ev'ry breath<br/>It's true that even death<br/>Can't stop Your love for me<br/>Can't stop Your love<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>No mountain is too high<br/>No ocean is too wide<br/>Can't stop Your love<br/>No power is too great<br/>You overcame the grave<br/>Can't stop Your love<br/>Can't stop Your love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

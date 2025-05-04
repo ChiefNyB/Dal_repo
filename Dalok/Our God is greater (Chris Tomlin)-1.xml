@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Our God is greater</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Water You turned into wine<br/>Opened the eyes of the blind<br/>There's no one like You<br/>None like You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into the darkness You shine<br/>Out of the ashes we rise<br/>There's no one like You<br/>None like You<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our God is greater<br/>Our God is stronger<br/>God You are higher than any other<br/>Our God is healer<br/>Awesome in power<br/>Our God, Our God<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Into the darkness You shine<br/>Out of the ashes we rise<br/>There's no one like You<br/>None like You<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And if our God is for us<br/>Then who could ever stop us<br/>And if our God is with us<br/>Then what could stand against<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The Cross Stands</title>
+    </titles>
+    <authors>
+      <author>Worship Central </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beyond this lifetime<br/>Beyond this darkness there's light<br/>Your cross is shining<br/>So people open your eyes<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cross stands above it all<br/>Burning bright in this life<br/>The cross towers over it all<br/>One hope, One deliverer<br/>Saviour reigning high above it all<br/>Above it all<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>These chains are breaking<br/>Your love is shaking us free<br/>A great awakening<br/>This world will finally see<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="that"/> the cross stands above it all<br/>Burning bright in this life<br/>The cross towers over it all<br/>One hope, One deliverer<br/>Saviour reigning high above it all<br/>Above it all<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Christ has overcome<br/>It is finished, He has won<br/>Christ has overcome<br/>We're standing strong<br/><chord name="repeat"/><br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="and"/> the cross stands above it all<br/><chord name="we believe"/> the cross stands above it all<br/>The cross stands above it all <chord name="every moment in every breath"/><br/>The cross stands above it all<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="and"/> the cross stands above it all<br/>Burning bright in this life<br/>The cross towers over it all<br/>One hope, One deliverer<br/>Saviour reigning high above it all<br/>Above it all<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines><chord name="and"/> the cross stands above it all<br/>Burning bright in this life<br/>The cross towers over it all<br/>One hope, One deliverer<br/>Saviour reigning high above it all<br/>Above it all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

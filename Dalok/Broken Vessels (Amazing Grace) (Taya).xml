@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Broken Vessels (Amazing Grace)</title>
+    </titles>
+    <authors>
+      <author>Taya</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All these pieces broken and scattered<br/>In mercy gathered mended and whole<br/>Empty handed but not forsaken<br/>I've been set free<br/>I've been set free</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Amazing grace how sweet the sound <br/>That saved a wretch like me<br/>I once was lost but now I'm found<br/>Was blind but now I see</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I can see You now<br/>I can see the love in Your eyes<br/>Laying yourself down<br/>Raising up  the broken to life</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You take our failure You take our weakness<br/>You set Your treasure in jars of clay<br/>So take this heart Lord<br/>I'll be your vessel<br/>The world to see Your life in me</lines>
+    </verse>
+  </lyrics>
+</song>

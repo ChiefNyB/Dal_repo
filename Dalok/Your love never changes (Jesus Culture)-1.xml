@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>Your love never changes</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing can separate<br/>Even if I run away<br/>Your love never fails<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know I still make mistakes<br/>You have new mercy for me everyday<br/>Cause your love never fails<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You stay the same through the ages<br/>Your love never changes<br/>There may be pain in the night<br/>But joy comes in the morning<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>The wind is strong and the water's deep<br/>I'm not alone here in these open seas<br/>Cause your love never fails<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>The chasm is far too wide<br/>I never thought I'd reach the other side<br/>But your love never fails<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You stay the same through the ages<br/>Your love never changes<br/>There may be pain in the night<br/>But joy comes in the morning<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>And when the oceans rage<br/>I don't have to be afraid<br/>Because I know that you love me<br/>Your love never fails<br/>You make all things work together for my good<br/>You…<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:36">
+  <properties>
+    <titles>
+      <title>Beauty Beauty</title>
+    </titles>
+    <authors>
+      <author>David Brymer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the beginning was the Word,<br/>the One we have seen, and we have heard<br/>The only Begotten of the Father<br/>'You are my one and only Son' - 'Not my will but Yours be done'<br/>All we can do is stand in wonder, and sing:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Beauty, beauty, beautiful<br/>Glory, glory, glorious<br/>You are, You are</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Take me into your throne room<br/>Let me see Your beauty, let me see Your face</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Who has believed and who has seen?<br/>The suffering Servant is our King<br/>Though we despised You, You have loved us<br/>The Branch of the Lord has been revealed,<br/>and by Your wounds we have been healed<br/>All of the nations stand in wonder, and sing:</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Jesus, You're the most excellent,<br/>You are so beautiful... There is no one like you</lines>
+    </verse>
+  </lyrics>
+</song>

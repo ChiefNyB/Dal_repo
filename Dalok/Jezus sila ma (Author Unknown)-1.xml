@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jezus sila ma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus daje nam zbawienie,<br/>Jezus daje pokój nam.<br/>Jemu składam dziękczynienie,<br/>Chwałę z serca mego dam.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus siłą mą, Jezus pieśnią mego życia,		<br/>Królem wiecznym On, niepojętym w mocy swej,<br/>W Nim znalazłem to, czego szukałem do dzisiaj.<br/>Sam mi podał dłoń, bym zwyciężał w każdy dzień<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Jego ranach uzdrowienie,<br/>W Jego śmierci życia dar,<br/>Jego Krew to oczyszczenie,<br/>Jego życie chwałą nam.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jezus siłą mą, Jezus pieśnią mego życia,		<br/>Królem wiecznym On, niepojętym w mocy swej,<br/>W Nim znalazłem to, czego szukałem do dzisiaj.<br/>Sam mi podał dłoń, bym zwyciężał w każdy dzień<br/></lines>
+    </verse>
+  </lyrics>
+</song>

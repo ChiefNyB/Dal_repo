@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:03">
+  <properties>
+    <titles>
+      <title>O God You are my God (Psalm 63)</title>
+    </titles>
+    <authors>
+      <author>Danny Daniels</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh God, You are my God,<br/>I seek for You in the morning.<br/>My soul, it thirsts for You,<br/>I long for You in the weary land.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I have seen You in the holy place,<br/>Beheld Your power and Your glory.<br/>Because Your love is more than life to me,<br/>My lips will praise Your name forever,<br/>As long as I live.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>My soul, is satisfied,<br/>And in Your name I will lift my hands.<br/>My mouth, will give You praise,<br/>I sing beneath the shadow of Your wings.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

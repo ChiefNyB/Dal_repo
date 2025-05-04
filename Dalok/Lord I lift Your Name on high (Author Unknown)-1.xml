@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Lord I lift Your Name on high</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I lift your name on high<br/>Lord I love to sing your praises;<br/>I'm so glad you're in my life,<br/>I'm so glad you came to save us<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You came from heaven to earth<br/>To show the way;<br/>From the earth to the cross,<br/>My debt to pay<br/>From the cross to the grave,<br/>from the grave to the sky,<br/>Lord I lift your name on high.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

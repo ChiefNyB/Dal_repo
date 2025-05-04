@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:19">
+  <properties>
+    <titles>
+      <title>Wszystko co mam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przed Tobą, Wszechmocny kolana zginamy<br/>Dla Ciebie żyjemy stworzeni by kochać Cię<br/>Przed Tobą, Przedwieczny korony składamy<br/>Ty jesteś spełnieniem tęsknoty naszych serc<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wszystko co mam, to prawda i łaska<br/>Wypisać je chcę, na serca tablicach.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesteś naszą dumą, grą na strunach,<br/>niewinnego serca śpiewem.<br/>Jesteś naszą dumą, grą na strunach,serca niewinnego.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

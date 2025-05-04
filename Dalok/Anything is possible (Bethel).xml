@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>Anything is possible</title>
+      <title>Bethel</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v3 v4</verseOrder>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no shadow<br/>That has ever overcome Your light<br/>And there is no rival<br/>That could ever stand against Your might</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've always been with us<br/>Every battle You've already won<br/>Oh, we've already won</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Show me one thing He can't do<br/>Show me a mountain He can't move<br/>He's the God of the breakthrough<br/>And anything is possible</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a kingdom<br/>That's advancing at the speed of light<br/>And in His kingdom<br/>Every dead thing is bound to rise</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, God our Redeemer<br/>He is faithful to revive<br/>Oh, He will revive</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Show me one thing that's too hard<br/>Show me waters He can't part<br/>He's the God of the breakthrough<br/>And anything is possible<br/>Is possible</lines>
+    </verse>
+  </lyrics>
+</song>

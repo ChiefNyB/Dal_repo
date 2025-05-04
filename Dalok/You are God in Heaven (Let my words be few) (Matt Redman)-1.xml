@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>You are God in Heaven (Let my words be few)</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God in heaven<br/>And here am I on earth,<br/>So I'll let my words be few-<br/>Jesus I am so in love with You.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll stand in awe of You,<br/>Yes I'll stand in awe of You,<br/>And I'll let my words be few-<br/>Jesus I am so in love with You.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>The simplest of all love songs<br/>I want to bring to You,<br/>So I'll let my words be few<br/>Jesus I am so in love with You.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

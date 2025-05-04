@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:58">
+  <properties>
+    <titles>
+      <title>Just one touch from the King</title>
+    </titles>
+    <authors>
+      <author>Godfrey Birtill </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That just one touch from the King<br/>Changes ev'rything<br/>Just one touch from the King<br/>Changes ev'rything (ev'rything)<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a battle raging over this land<br/>A deep damage in the people<br/>But pride stops us<br/>Stretching out our withered hand<br/>But God has stretched out to heal us<br/>This I know this I know<br/>This I know this I know<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a great darkness over this land<br/>A deep darkness on the people<br/>But a light is shining<br/>That the dark can't understand<br/>The Light of the world King Jesus<br/>Do you know do you know<br/>Do you know do you know<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh land oh land oh land<br/>Hear the Word of the Lord<br/>Oh land oh land oh land<br/>Hear the Word of the Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

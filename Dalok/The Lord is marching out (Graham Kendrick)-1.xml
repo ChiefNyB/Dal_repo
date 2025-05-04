@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The Lord is marching out</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is marching out in splendour,<br/>In awesome majesty He rides,<br/>For truth, humility and justice,<br/>His mighty army fills the skies.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>O give thanks to the Lord for His love endures, (x3)<br/>Forever, forever.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>His army marches out with dancing<br/>For He has filled our hearts with joy.<br/>Be glad the kingdom is advancing,<br/>The love of God, our battle cry!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

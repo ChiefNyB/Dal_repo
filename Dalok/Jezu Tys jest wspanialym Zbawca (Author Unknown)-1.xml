@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jezu Tys jest wspanialym Zbawca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu Tyś jest wspaniałym Zbawcą,<br/>Wiem jedno, że: Ty jesteś przy mnie,<br/>Wszystkie me dni wplecione są<br/>w Twój świety plan.<br/>Za głosem Twym chce chodzić Panie.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Przebywać wciaż w Twej obecności.<br/>Twój Świety Duch niech<br/>prowadzi mnie przez drogi Twe.<br/>Wezwałeś mnie do swojej chwały<br/>Przyciagasz mnie, bym bliżej Ciebie był.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>W Twoja twarz zawsze patrzeć chce.<br/>Weź mnie w swe ręcę, poddaje się Tobie,<br/>Jak garncarz formuj mnie jak Ty sam chcesz.<br/>Oczyść, przemieniaj, użyj mnie i napełnij,<br/>Jak garncarz formuj mnie jak Ty sam chcesz.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

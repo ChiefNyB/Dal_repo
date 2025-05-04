@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>Teach Me</title>
+    </titles>
+    <authors>
+      <author>James Parker </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Teach me that my life is not my own<br/>Teach me that my life does not belong to me<br/>Teach me how to yield to You my selfish control<br/>Teach me how to live with those around me<br/>Teach me how to die to<br/>All that I think's best for me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are Lord, You are my saviour<br/>I am Yours, I am Your servant<br/>You are Lord, and I must follow You<br/>Wherever You choose to lead me<br/>My life is not my own, my Lord, it's Yours<br/></lines>
+    </verse>
+  </lyrics>
+</song>

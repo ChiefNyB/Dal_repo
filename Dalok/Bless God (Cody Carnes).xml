@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:37">
+  <properties>
+    <titles>
+      <title>Bless God</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 b1 b2 b3 b4 o1</verseOrder>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed are those who run to him<br/>Who place their hope and confidence<br/>In Jesus<br/>He won't forsake them<br/>Blessed are those who seek his face<br/>Who bend their knee and fix their gaze<br/>On Jesus<br/>They won't be shaken</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come on and praise the Lord with me<br/>Sing if you love his name<br/>Come on and lift your voice with me<br/>He's worthy of all our praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed arе those who walk with Him<br/>Whose hearts are set on pilgrimage with Jesus<br/>They'll see his glory<br/>Blessed are those who die to live<br/>Whose joy it is to give it all for Jesus<br/>And for him only<br/>Oh Jesus  All for your glory</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Come on and bring your offering<br/>Sing if you've known his grace<br/>Come on and lift up your holy hands<br/>He's worthy of all our praise<br/><br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Bless God in the sanctuary<br/>Bless God in the fields of plenty<br/>Bless God in the darkest valley<br/>Every chance I get, I'll bless Your name</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Bless God when my hands are empty<br/>Bless God with a praise that costs me<br/>Bless God when nobody's watching<br/>Every chance I get, I'll bless Your name</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Bless God when the weapon's forming<br/>Bless God when the walls are falling<br/>Bless God 'cause He goes before me<br/>Every chance I get, I'll bless Your name</lines>
+    </verse>
+    <verse name="b4">
+      <lines>Bless God for He holds the victory<br/>Bless God for He's always with me<br/>Bless God for He's always worthy<br/>Every chance I get, I'll bless Your name (repeat)</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Praise God from whom all blessings flow<br/>Praise Him all creatures here below<br/>Praise Him above You heavenly hosts<br/>Praise Father, Son and Holy Ghost</lines>
+    </verse>
+  </lyrics>
+</song>

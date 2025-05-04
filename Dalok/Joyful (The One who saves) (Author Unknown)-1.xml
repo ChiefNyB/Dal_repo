@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Joyful (The One who saves)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joyful joyful we adore You, God of glory, Lord of love<br/>Hearts unfold like flowers before You, opening to the sun above<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Melt the clouds of sin and sadness, drive the dark of doubt away<br/>Giver of Eternal gladness fill us with the light of day<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the One who saves, You are the One who saves<br/>You are the One whose hands lift us from the grave<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the light of life, the everlasting day<br/>You are the One who takes all our sins away<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are giving and forgiving, ever blessing, ever blessed<br/>Fountain of the joy of living, ocean depths of happy rest<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus You are my rescue, Jesus you are my rescue<br/>I give You everything I am<br/></lines>
+    </verse>
+  </lyrics>
+</song>

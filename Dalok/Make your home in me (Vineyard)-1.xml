@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Make your home in me</title>
+    </titles>
+    <authors>
+      <author>Vineyard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have sung my songs of praise, thanksgiving on my lips<br/>Bowed low and worshipped you<br/>But now I'm coming close, closer than before<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the veil is torn in two<br/>Now that I am here with You<br/>There's no place I'd rather be<br/>Now that I have felt Your touch<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make Your home in me<br/>I feel so safe with You, acceptance in Your voice<br/>You whisper tenderly<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>'You are my beloved, chosen one, my friend<br/>You're so precious to me'<br/></lines>
+    </verse>
+  </lyrics>
+</song>

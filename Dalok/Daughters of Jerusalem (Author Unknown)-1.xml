@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:43">
+  <properties>
+    <titles>
+      <title>Daughters of Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes, my Beloved<br/>He's the fairest of ten thousand<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yes, He is holy<br/>And He is humble<br/>Meek and lowly<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daughters of Jerusalem<br/>Tell me if you find Him<br/>I am lovesick<br/>I am lovesick<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>All I want is to be near You with You<br/>Where You are<br/></lines>
+    </verse>
+  </lyrics>
+</song>

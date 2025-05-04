@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Made me glad</title>
+    </titles>
+    <authors>
+      <author>Hillsongs </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will bless the Lord forever<br/>And I will trust Him at all times<br/>He has delivered me from all fear<br/>And He has set my feet upon a rock<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will not be moved, and I'll say of the Lord<br/>You are my shield, my strength, my portion<br/>Deliverer, my shelter, strong tower<br/>My very present help in time of need<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whom have I in heaven but You<br/>There's none I desire beside You<br/>For You have made me glad, and I'll say of the Lord<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are my shield, my strength, my portion<br/>Deliverer, my shelter, strong tower<br/>My very present help<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are my shield, my strength, my portion<br/>Deliverer, my shelter, strong tower<br/>My very present help in time of need<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You have made me glad, and I'll say of the Lord<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are my shield, my strength, my portion<br/>Deliverer, my shelter, strong tower<br/>My very present help<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>You are my shield, my strength, my portion<br/>Deliverer, my shelter, strong tower<br/>My very present help in time of need<br/>My very present help in time of need<br/>My very present help in time of need<br/></lines>
+    </verse>
+  </lyrics>
+</song>

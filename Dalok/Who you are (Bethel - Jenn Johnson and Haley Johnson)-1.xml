@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Who you are</title>
+    </titles>
+    <authors>
+      <author>Bethel - Jenn Johnson and Haley Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God our Father, Lord of all<br/>Great Creator, You hear my call<br/>God our Healer, God our Strength<br/>Loving kindness is Your embrace<br/>It's who You are<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Friend above all friends<br/>Laid down Your life that I might live<br/>Faithful Shepherd of my soul<br/>Savior, You have made me whole<br/>It's who You are, oh<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit, Comforter<br/>Your eyes are filled with laughter<br/>You are wisdom, You are life<br/>My every need You supply<br/>It's who You are, oh<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Whoa, Woah, Woah<br/>H-o-l-y H-o-l-y Lord of all<br/>H-o-l-y H-o-l-y Lord of all<br/>Worthy Worthy Lord of all<br/>Worthy Worthy Lord of all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I Love You Lord</title>
+      <title>gg</title>
+    </titles>
+    <authors>
+      <author>old</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I love you Lord<br/>and I lift my voice<br/>to worship You<br/>O my soul, rejoice<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Take joy my King, <br/>in what You hear<br/>let it be a sweet, sweet sound<br/>in Your ear</lines>
+    </verse>
+  </lyrics>
+</song>

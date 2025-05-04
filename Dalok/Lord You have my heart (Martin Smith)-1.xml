@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Lord You have my heart</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You have my heart,<br/>and I will search for Yours;<br/>Jesus take my life and lead me on<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, You have my heart,<br/>and I will search for Yours;<br/>Let me be to You a sacrifice.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Men) And I will praise You, Lord.<br/>(Ladies) And I will praise You, Lord.<br/>(Men) And I will sing of love come down.<br/>(Ladies) And I will sing of love come down.<br/>(Men) And as You show Your face…<br/>(Ladies) Show Your face…<br/>(together) …we'll see Your glory here.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

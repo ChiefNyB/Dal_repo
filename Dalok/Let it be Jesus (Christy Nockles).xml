@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:58">
+  <properties>
+    <titles>
+      <title>Let it be Jesus</title>
+    </titles>
+    <authors>
+      <author>Christy Nockles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let it be Jesus<br/>The first name that I call<br/>Let it be Jesus<br/>My song inside the storm<br/>I'll never need another...<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For me to live is Christ<br/>For me to live is Christ<br/>God, I breathe Your name<br/>Above everything<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let it be, let it be Jesus<br/>Let it be, let it be Jesus<br/>Let it be Jesus<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the rising sun<br/>An let it be Jesus<br/>When all is said and done<br/>I'll never need another<br/>Jesus, there's no other...<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Should I ever be abandoned<br/>Should I ever be acclaimed<br/>Should I ever be surrounded<br/>By the fire and the flame<br/>There's name I will remember<br/>There's a name I will proclaim<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Let it be Jesus<br/>Let it be, let it be Jesus<br/>Let it be, let it be...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

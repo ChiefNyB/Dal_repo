@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Godzien o godzien</title>
+    </titles>
+    <authors>
+      <author>69</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Godzień, o godzień nasz Bóg<br/>Siedzący na tronie<br/>Baranek wsród chwały<br/>Przyjąć wdzięczność, siłe i moc<br/>Honor i chwałe i cześć.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>On Bogiem jest na wieki wieków      /x3<br/>Amen<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Będziemy niezmiennie wciaż trwać<br/>W jedności i w prawdzie<br/>Oddając Ci hołd<br/>Madrość, wdzięczność, siłe i moc<br/>Honor i chwałę i cześć.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>On Bogiem jest na wieki wiekow /x3<br/>Amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

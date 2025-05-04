@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Chce wywyszac imie twe</title>
+    </titles>
+    <authors>
+      <author>42</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcę wywyższać imię Twe, 			<br/>Chcę zaśpiewać Tobie chwałę,<br/>Lord, I lift Your name on high<br/>Lord, I love to sing Your praises<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Panie dziś raduję się<br/>Bo przyszedłeś by mnie zbawić.<br/>I'm so glad You're in my life<br/>I'm so glad You came to save us<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z nieba zstąpiłeś i chcesz, prowadzić mnie.<br/>Na krzyżu zmarłeś by mój, zapłacić dług.<br/>You came from heaven to earth, To show the way<br/>From the earth to the cross, My debt to pay<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Z grobu wstałeś i dziś, nieba Królem jesteś Ty,<br/>Chce wywyższać imię Twe.<br/>From the cross to the grave, From the grave to the sky<br/>Lord, I lift Your name on high<br/></lines>
+    </verse>
+  </lyrics>
+</song>

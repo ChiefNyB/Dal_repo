@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:58">
+  <properties>
+    <titles>
+      <title>Let everything that has breath</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Everything that<br/>Everything that<br/>Everything that<br/>Has breath praise the Lord<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise You in the morning<br/>Praise You in the evening<br/>Praise You when I'm young<br/>And when I'm old<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise You when I'm laughing<br/>Praise You when I'm grieving<br/>Praise You every<br/>Season of the soul<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>If we could see how much You're worth<br/>Your power, Your might, Your endless love<br/>Then surely we would never cease to praise<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise You in the heavens<br/>Join with the angels<br/>Praising You forever and a day<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise You on the earth now<br/>Joining with creation<br/>Calling all the nations to Your praise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

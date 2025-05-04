@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Revelation.1</title>
+    </titles>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To Him who always loves us<br/>Who once and for all freed us<br/>Whose blood has washed our sins away<br/>And brought us into light of day</lines>
+    </verse>
+    <verse name="c1">
+      <lines>To Him be the glory<br/>To Him be the power<br/>To Him be all majesty<br/>And all dominion forever</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh praise the Ever-living One!<br/>The One who was, and is, and is to come!<br/>The firstborn from among the dead!<br/>Almighty and Omnipotent!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh see Him coming with the clouds!<br/>Every tribe on earth will weep aloud!<br/>Before the One who is the First and Last!<br/>Every knee will bow and tongue confess!</lines>
+    </verse>
+  </lyrics>
+</song>

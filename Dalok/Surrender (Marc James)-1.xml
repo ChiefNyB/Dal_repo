@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Surrender</title>
+    </titles>
+    <authors>
+      <author>Marc James</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm giving you my heart and all that is within<br/>I lay it all down for the sake of you my King<br/>I'm giving you my dreams, I'm laying down my rights<br/>I'm giving up my pride for the promise of new life.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I<br/>surrender all to you, all to you<br/>And I<br/>Surrender all to you, all to you<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm singing you this song, I'm waiting at the cross<br/>And all the world holds dear, I count it all as loss<br/>for the sake of knowing You for the glory of Your name<br/>To know the lasting joy, even sharing in Your pain.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

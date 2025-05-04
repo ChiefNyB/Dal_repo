@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Worth is the Lamb</title>
+    </titles>
+    <authors>
+      <author>One Hope Project. Joe Wells 2012</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb,<br/>The Lamb who was slain<br/>Raised to new life<br/>Now seated in Glory<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Glory and Honour and Praise to the Lamb<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're gathered into one<br/>By the power of His Spirit<br/>We come to His table<br/>It's a heavenly banquet<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>His banner over us<br/>His banner over us<br/>is Love<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Joe Wells 2012<br/></lines>
+    </verse>
+  </lyrics>
+</song>

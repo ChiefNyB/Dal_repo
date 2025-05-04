@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:58">
+  <properties>
+    <titles>
+      <title>King of my heart</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the King of my heart<br/>be the mountain where I run<br/>The fountain I drink from<br/>Oh He is my song<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the King of my heart<br/>be the shadow where I hide<br/>the randsom for my life<br/>Oh He is my Song<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are good<br/>You're good oh<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the King of my heart<br/>be the wind inside my sails<br/>the anchor in the waves, oh He is my song.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the King of my heart<br/>be the fire inside my veins<br/>the echo of my days, oh He is my song.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're never gonna let, never gonna let me down<br/></lines>
+    </verse>
+  </lyrics>
+</song>

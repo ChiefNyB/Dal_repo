@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Great Are You Lord</title>
+    </titles>
+    <verseOrder>v1 c1 b1 b2</verseOrder>
+    <authors>
+      <author>All Sons and Daughters</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You give life, You are love<br/>You bring light to the darkness<br/>You give hope, You restore<br/>Every heart that is broken<br/>Great are You Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>It's Your breath in our lungs<br/>So we pour out our praise<br/>We pour out our praise<br/>It's Your breath in our lungs<br/>So we pour out our praise<br/>To You only</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All the earth will shout<br/>Your praise<br/>Our hearts will cry<br/>These bones will sing<br/>Great are You, Lord</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Worthy You were<br/>Worthy You are<br/>Worthy You will be forever Yaweh</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Everlasting Father,<br/>everlasting Father we are yours<br/>with the saints and all the angels<br/>we cry holy,<br/>we are yours</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Great are You Lord</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Worthy you were<br/>Worthy you are<br/>Worthy you will be forever Yahweh</lines>
+    </verse>
+  </lyrics>
+</song>

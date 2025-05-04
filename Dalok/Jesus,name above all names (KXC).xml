@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jesus,name above all names</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p2 b1</verseOrder>
+    <authors>
+      <author>KXC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the mountains that I face,<br/>there's one name that’s higher<br/>To the empires of our age,<br/>there's one name that's greater<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus,<br/>You're the name above all names<br/>Over my fears, over the storms<br/>I'm gonna sing that Jesus is Lord<br/>And Jesus,<br/>You’re the name above all names<br/>Here in the night, then at the dawn<br/>I’m gonna sing that Jesus is Lord<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the burden of my shame,<br/>there's one name that’s higher<br/>To the battles that still rage,<br/>there's one name that's greater,<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Miracle making, city wall shaking<br/>Prodigal chasing, Lazarus raising<br/>Destiny waking, history changing<br/>Powerful name of God</lines>
+    </verse>
+    <verse name="p1">
+      <lines>To the giants in my way,<br/>there’s one name that's higher<br/>To the evil that prevails<br/>there's one name that's greater<br/>There's one name that's greater</lines>
+    </verse>
+    <verse name="p2">
+      <lines>To the doubts that steal my faith,<br/>there's one name that’s higher<br/>To the idols that enslave,<br/>there's one name that's greater<br/>There's one name that's greater</lines>
+    </verse>
+  </lyrics>
+</song>

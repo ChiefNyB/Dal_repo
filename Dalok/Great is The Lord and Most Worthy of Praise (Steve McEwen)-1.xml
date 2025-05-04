@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Great is The Lord and Most Worthy of Praise</title>
+    </titles>
+    <authors>
+      <author>Steve McEwen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord and most worthy of praise<br/>The city of our God, the holy place<br/>The joy of the whole earth<br/>Great is the Lord in whom we have the victory<br/>He aids us against the enemy<br/>We bow down on our knees<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And Lord, we want to lift Your name on high<br/>And Lord, we want to thank You<br/>For the works You've done in our lives<br/>And Lord, we trust in Your unfailing love<br/>For You alone are God eternal<br/>Throughout earth and heaven above<br/></lines>
+    </verse>
+  </lyrics>
+</song>

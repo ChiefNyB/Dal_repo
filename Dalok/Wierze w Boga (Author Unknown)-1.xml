@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Wierze w Boga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wierzę w jednego Boga,  Ojca wszechmogącego,<br/>Stworzyciela nieba i ziemi,  wszystkich rzeczy widzialnych i niewidzialnych.<br/>I w jednego Pana Jezusa Chrystusa,  Syna Bożego Jednorodzonego,<br/>który z Ojca jest zrodzony przed wszystkimi wiekami.<br/>Bóg z Boga,  światłość ze światłości.<br/>Bóg prawdziwy z Boga prawdziwego.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zrodzony, a nie stworzony,<br/>współistotny Ojcu,  a przez Niego wszystko się stało.<br/>On to dla nas, ludzi,<br/>i dla naszego zbawienia  zstąpił z nieba.<br/>I za sprawą Ducha Świętego przyjął ciało z Maryi Dziewicy,<br/>i stał się człowiekiem.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ukrzyżowany również za nas,<br/>pod Poncjuszem Piłatem został umęczony i pogrzebany.<br/>I zmartwychwstał dnia trzeciego, jak oznajmia Pismo.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I wstąpił do nieba;  siedzi po prawicy Ojca.<br/>I powtórnie przyjdzie w chwale  sądzić żywych i umarłych:<br/>a królestwu Jego nie będzie końca.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wierzę w Ducha Świętego, Pana i Ożywiciela,<br/>który od Ojca i Syna pochodzi.<br/>Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę;<br/>który mówił przez proroków.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Wierzę w jeden, święty, powszechny i apostolski Kościół.<br/>Wyznaję jeden chrzest  na odpuszczenie grzechów.<br/>I oczekuję wskrzeszenia umarłych.<br/>I życia wiecznego w przyszłym świecie. Amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

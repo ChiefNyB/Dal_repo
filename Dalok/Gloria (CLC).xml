@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:48">
+  <properties>
+    <titles>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author>CLC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Gloria in exelcis deo</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli.<br/>Chwalimy Cię, błogosławimy, wielbimy Cię,<br/>Wysławiamy Cię.<br/>Dzięki Ci składamy, bo wielka jest chwała Twoja.<br/>Panie Boże królu nieba, Boże Ojcze wszechmogący.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panie, Synu Jednorodzony, Jezu Chryste.<br/>Panie Boże, Baranku Boży, Synu Ojca.<br/>Który gładzisz grzechy świata, zmiłuj się nad nami.<br/>Który gładzisz grzechy świata, przyjm błaganie nasze.<br/>Który siedzisz po prawicy Ojca, zmiłuj się nad nami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Albowiem tylko Tyś jest Święty, tylko Tyś jest Panem.<br/>Tylko Tyś najwyższy<br/>Jezu Chryste<br/>Z duchem Świętym<br/>W chwale Boga Ojca. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

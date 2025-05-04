@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:38">
+  <properties>
+    <titles>
+      <title>Bread of Live</title>
+    </titles>
+    <authors>
+      <author>Joanne Boyce &amp; Mike Stanley arr. Chris Rolinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bread of Life, Truth Eternal,<br/>Broken now to set us free,<br/>The risen Christ,<br/>his saving power,<br/>is here in bread and wine for me.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I know<br/>I am not worthy to receive you.<br/>You speak the words and I am healed.<br/>Here at your table, loves mystery,<br/>One bread, one cup, one family,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, by your cross<br/>you reconciled us to the Father,<br/>We have only to believe.<br/>Your sacrifice, our victory<br/>Now by your blood we are redeemed,<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord, you gave your people<br/>Manna in the desert<br/>Still you fulfil our every need.<br/>Lord, when we hunger, Lord, when we thirst,<br/>We come to you and we receive, (the)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

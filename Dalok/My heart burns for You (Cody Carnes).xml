@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>My heart burns for You</title>
+    </titles>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>And my heart burns for You<br/>My heart burns for You<br/>And my heart burns it burns for You<br/>My heart burns for You</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Na na na...</lines>
+    </verse>
+  </lyrics>
+</song>

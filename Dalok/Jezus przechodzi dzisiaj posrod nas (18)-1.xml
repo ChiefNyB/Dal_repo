@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jezus przechodzi dzisiaj posrod nas</title>
+    </titles>
+    <authors>
+      <author>18</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus przechodzi<br/>dzisiaj pośród nas. /2x<br/><br/>Gdy On przechodzi,<br/>wszystko się przemienia<br/>i odchodzi smutek,<br/>a przychodzi radość.<br/>Gdy On przechodzi,<br/>wszystko się przemienia<br/>i przychodzi radość byś ją miał i ty i ja.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kimże jest ten człowiek,<br/>który przychodzi z Galilei /4x<br/>I dotyka wszystkich /3x<br/>Błogosławiąc im.              /x2<br/></lines>
+    </verse>
+  </lyrics>
+</song>

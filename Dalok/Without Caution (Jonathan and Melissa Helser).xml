@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Without Caution</title>
+    </titles>
+    <authors>
+      <author>Jonathan and Melissa Helser</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will remember who You are oh God<br/>You hold the stars and You hold my heart<br/>I will remember who You are oh God<br/>The constant light that leads me through the dark</lines>
+    </verse>
+    <verse name="p1">
+      <lines>I won't forget, I won't forget who You are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I give you my heart<br/>I give you my hands<br/>I give you my soul and all that I am<br/>I give you my praise<br/>I sing you my song<br/>Without caution I give you all my love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will remember what You've done, oh God<br/>You hold the stars and You hold my heart<br/>I will remember who You are oh God<br/>the constant light that leads me through the dark</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No more limits on my love<br/>Without caution I will come<br/>And pour my love on You<br/>I break the bottle of my praise<br/>And I give it all without restraint<br/>I waste my life on You</lines>
+    </verse>
+    <verse name="b2">
+      <lines>And I won't forget, I won't forget what You've done</lines>
+    </verse>
+  </lyrics>
+</song>

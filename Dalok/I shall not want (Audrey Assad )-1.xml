@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I shall not want</title>
+    </titles>
+    <authors>
+      <author>Audrey Assad </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the love of my own comfort<br/>From the fear of having nothing<br/>From a life of worldly passions<br/>Deliver me O God<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the need to be understood<br/>And from a need to be accepted<br/>From the fear of being lonely<br/>Deliver me O God<br/>Deliver me O God<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I shall not want, no, I shall not want<br/>When I taste Your goodness, I shall not want<br/>When I taste Your goodness, I shall not want<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>From the fear of serving others<br/>Oh, and from the fear of death or trial<br/>And from the fear of humility<br/>Deliver me O God<br/>Yes, deliver me O God<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And I shall not want, no, I shall not want<br/>When I taste Your goodness I shall not want<br/>No, I shall not want, no, I shall not want<br/>When I taste Your goodness I shall not want<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I taste Your goodness I shall not want<br/>I shall not want<br/>I shall not want<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Forever</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give thanks to the Lord<br/>our God and King his love endures forever<br/>For He is good, He is above all things his love endures forever<br/>Sing praise, sing praise<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a mighty hand and outstretched arm his love endures forever<br/>For the life that's been reborn his love endures forever<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing praise, sing praise<br/>Sing praise, sing praise<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Forever God is faithful forever God is strong<br/>Forever God is with us forever, forever<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>From the rising to the setting sun his love endures forever<br/>By the grace of God we will carry on his love endures forever<br/></lines>
+    </verse>
+  </lyrics>
+</song>

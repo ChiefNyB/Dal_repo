@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>Growth 2018 second reading</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brothers and sisters:<br/>Every priest stands daily at his ministry,<br/>offering frequently those same sacrifices<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>that can never take away sins.<br/>But this one offered one sacrifice for sins,<br/>and took his seat forever at the right hand of God;<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>now he waits until his enemies are made his footstool.<br/>For by one offering<br/>he has made perfect forever those who are being consecrated.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where there is forgiveness of these,<br/>there is no longer offering for sin.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

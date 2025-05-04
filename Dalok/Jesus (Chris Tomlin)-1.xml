@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:56">
+  <properties>
+    <titles>
+      <title>Jesus</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a truth older than the ages<br/>There is a promise of things yet to come<br/>There is one, born for our salvation<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a light that overwhelms the darkness<br/>There is a kingdom that forever reigns<br/>There is freedom from the chains that bind us<br/>Jesus, Jesus<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who walks on the waters<br/>Who speaks to the sea<br/>Who stands in the fire beside me<br/>He roars like a lion<br/>He bled as the lamb<br/>He carries my healing in his hands<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is a name I call in times of trouble<br/>There is a song that comforts in the night<br/>There is a voice that calms the storm that rages<br/>He is Jesus, Jesus<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who walks on the waters<br/>Who speaks to the sea<br/>Who stands in the fire beside me<br/>He roars like a lion<br/>He bled as the lamb<br/>He carries my healing in his hands<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Messiah, my Saviour<br/>There is power in Your name<br/>You're my rock and, my redeemer<br/>There is power in Your name<br/>In Your name<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You walk on the waters<br/>You speak to the sea<br/>You stand in the fire beside me<br/>You roar like a lion<br/>You bled as the lamb<br/>You carry my healing in Your hands<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>God, you walk on the waters<br/>You speak to the sea<br/>You stand in the fire beside me<br/>You roar like a lion<br/>You bled as the lamb<br/>You carry my healing in Your hands<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>There is no one like you<br/>Jesus<br/>There is no one like you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

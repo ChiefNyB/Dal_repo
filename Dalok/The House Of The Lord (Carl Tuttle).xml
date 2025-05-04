@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The House Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Carl Tuttle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have come to celebrate,<br/>we have come to sing of Your great Power<br/>and the glory of Your name.<br/>You have set the captives free,<br/>You have made the blind eyes see,<br/>to the poor You have proclaimed good news.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the house of the Lord,<br/>where Your children come to dance and sing,<br/>In the house of the Lord,<br/>we rejoice in all the things You've done.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have come to worship You,<br/>to give praise and thanks to You,<br/>Knowing that You've only just begun.<br/>You have touched us by Your grace,<br/>Lord, we long to see Your face,<br/>to be with You for all eternity.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

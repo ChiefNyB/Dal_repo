@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:56">
+  <properties>
+    <titles>
+      <title>Jestes godzien wszelkiej czci</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Święci z aniołami<br/>Kłaniają Tobie się<br/>All the saints and angels,<br/>they bow before Your throne<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Starcy swe korony<br/>Rzucają przed Twój tron<br/>Śpiewając pieśń<br/>All the elders cast their crowns<br/>before the Lamb of God and sing<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Jesteś godzien wszelkiej czci<br/>Jesteś godzien wszelkiej czci<br/>You are worthy of it all<br/>You are worthy of it all, Jesus<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Stworzyłeś wszystko sam<br/>Dla Twojej chwały jest<br/>Jesteś godzien chwały<br/>For from You are all things<br/>And to You are all things<br/>You deserve the glory<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Niech dzień i noc, noc i dzień<br/>Dym kadzideł wznosi się /x4<br/>Day and night, night and day, let incense arise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>Agnus Dei</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia<br/>Alleluia<br/>For the Lord God Almighty reigns<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia<br/>Holy, Holy are You Lord God Almighty<br/>Worthy is the Lamb<br/>Worthy is the Lamb<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are holy<br/>Holy are you Lord God Almighty<br/>Worthy is the Lamb<br/>Worthy is the Lamb<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen<br/></lines>
+    </verse>
+  </lyrics>
+</song>

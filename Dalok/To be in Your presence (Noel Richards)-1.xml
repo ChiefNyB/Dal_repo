@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:15">
+  <properties>
+    <titles>
+      <title>To be in Your presence</title>
+    </titles>
+    <authors>
+      <author>Noel Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To be in Your presence<br/>To sit at Your feet,<br/>Where Your love surrounds me,<br/>And makes me complete.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>This is my desire, O Lord,<br/>This is my desire.<br/>This is my desire, O Lord,<br/>This is my desire.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>To rest in Your presence,<br/>Not rushing away;<br/>To treasure each moment,<br/>Here I would stay.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

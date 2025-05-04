@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>You deserve the glory</title>
+    </titles>
+    <authors>
+      <author>Terry MacAlmon </author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You deserve the glory and the honor<br/>Lord we, lift our hands in worship<br/>As we praise your Holy name<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You are great<br/>You do miracles so great<br/>There is no one else like You<br/>There is no one else like You<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Majesty</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am<br/>Humbled by Your majesty<br/>Covered by Your grace so free<br/>Here I am<br/>knowing I am sinful man<br/>Covered by the blood of the Lamb</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Now I've found<br/>the greatest love of all is mine<br/>since You laid down Your live<br/>The greatest sacfifice</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Majesty, majesty<br/>Your grace has found me just as I am<br/>Empty handed but alive in Your hands<br/>Majesty, majesty<br/>Forever I am changed by Your love<br/>In the presence of Your majesty</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am<br/>Humbled by the love that You give<br/>Forgiven so that I can forgive<br/>Here I stand<br/>Knowing that I'm Your desire<br/>Sanctified by glory and fire</lines>
+    </verse>
+  </lyrics>
+</song>

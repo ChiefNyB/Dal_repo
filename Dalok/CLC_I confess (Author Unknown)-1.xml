@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:41">
+  <properties>
+    <titles>
+      <title>CLC_I confess</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I confess to almighty God<br/>and to you, my brothers and sisters,<br/>that I have greatly sinned,<br/>in my thoughts and in my words,<br/>in what I have done and in what I have<br/>failed to do,<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>through my fault, through my fault,<br/>through my most grievous fault;<br/>therefore I ask blessed Mary ever-Virgin,<br/>all the Angels and Saints,<br/>and you, my brothers and sisters,<br/>to pray for me to the Lord our God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>Awake my soul</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a sound I love to hear<br/>It's the sound of the Saviour's robe<br/>As He walks into the room where people pray<br/>Where we hear praises He hears faith</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a sound I love to hear<br/>It's the sound of the Savior's robe<br/>As He walks into the room where people pray<br/>Where we hear worship He hears faith</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Awake my soul and sing<br/>Sing His praise aloud<br/>Sing His praise aloud</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And when He moves<br/>And when we pray<br/>Where stood a wall now stands a way<br/>Where every promise is amen</lines>
+    </verse>
+    <verse name="b2">
+      <lines>And when He moves<br/>Make no mistake<br/>The bowels of hell begin to shake<br/>All hail the Lord all hail the King</lines>
+    </verse>
+  </lyrics>
+</song>

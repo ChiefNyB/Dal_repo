@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:55">
+  <properties>
+    <titles>
+      <title>I've got Joy</title>
+    </titles>
+    <verseOrder>c1 v1 p1 c2 c3 e1</verseOrder>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I’ve got joy in the morning, joy in the evening<br/>You keep me dancing, in every season<br/>Whatever comes tomorrow, I’ve got joy<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Why would I not sing of your praises<br/>Even when troubles come?<br/>Why would I not worship forever<br/>‘Cause I’ve seen the good you’ve done</lines>
+    </verse>
+    <verse name="p1">
+      <lines>And I’m not ashamed, I’m a sinner saved<br/>No I’m not afraid anymore<br/>What the world calls foolish, You call freedom<br/>Now I won’t hold back anymore</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I’ve got joy in the morning, joy in the evening<br/>You keep me dancing, in every season<br/>Whatever comеs tomorrow, I’ve got joy</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Yes, I’ve got joy in thе sunshine, joy in the rain<br/>You keep me dancing, again and again<br/>Whatever comes tomorrow, I’ve got joy</lines>
+    </verse>
+    <verse name="e1">
+      <lines>I’ve got joy, joy, joy, down in my heart<br/>I’ve got joy, joy, joy, down in my heart<br/>I’ve got joy, joy, joy, down in my heart, hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

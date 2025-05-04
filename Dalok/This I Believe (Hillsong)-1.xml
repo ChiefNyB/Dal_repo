@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>This I Believe</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father everlasting<br/>The all creating One<br/>God Almighty<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through Your Holy Spirit<br/>Conceiving Christ the Son<br/>Jesus our Savior<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in one<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I believe in the resurrection<br/>That we will rise again<br/>For I believe in the name of Jesus<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our Judge and our Defender<br/>Suffered and crucified<br/>Forgiveness is in You<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Descended into darkness<br/>You rose in glorious life<br/>Forever seated high<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in one<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>I believe in the resurrection<br/>That we will rise again<br/>For I believe in the name of Jesus<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>I believe in You<br/>I believe You rose again<br/>I believe that Jesus Christ is Lord<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>I believe<br/>And I believe in You<br/>I believe You rose again<br/>I believe that Jesus Christ is Lord<br/></lines>
+    </verse>
+    <verse name="v11">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in one<br/></lines>
+    </verse>
+    <verse name="v12">
+      <lines>I believe in the resurrection<br/>That we will rise again<br/>For I believe in the name of Jesus<br/></lines>
+    </verse>
+  </lyrics>
+</song>

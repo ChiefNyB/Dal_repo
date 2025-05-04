@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:46">
+  <properties>
+    <titles>
+      <title>Everything and nothing less</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Humbly I stand, an offering<br/>With open hands, Lord I bring</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Everything and nothing less<br/>My best, my all<br/>You deserve my every breath<br/>My life, my song</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I surrender, I surrender all</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Lord take control, I trust You<br/>I'm letting go, to give You</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Everything and nothing less, I give You<br/>Everything and nothing less forever<br/>Everything and nothing less<br/>Oh, my life is Yours<br/>Yours, oh</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Burning Ones</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here inside Your presence<br/>Taken by the wonder of You<br/>Here inside Your glory<br/>We give our lives fully to You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We cry Holy, Holy are You<br/>We cry Holy, Holy are You<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love it burns inside<br/>Our hearts are satisfied by You<br/>Your love is our reward<br/>It's why we ask for more of You<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We cry Holy, Holy are You<br/>Our hearts are burning, burning for You<br/>We cry Holy, Holy are You<br/>Our hearts are burning, burning for You<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>We are Your burning ones<br/>We are consumed by You<br/>We set our lives apart<br/>We are consumed by You<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>So let this love be like a fire<br/>Let our life be like a flame<br/>Fill our souls with Your desire<br/>Let our passion bring You fame<br/></lines>
+    </verse>
+  </lyrics>
+</song>

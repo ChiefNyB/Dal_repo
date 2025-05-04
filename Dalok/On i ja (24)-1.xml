@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>On i ja</title>
+    </titles>
+    <authors>
+      <author>24</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On i ja - On jest moim Bogiem,<br/>On i ja - każdy Mu odpowie,<br/>On i ja - On jest taki dobry,<br/>On i ja - świat jest z Nim cudowny.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

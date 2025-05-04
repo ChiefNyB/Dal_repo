@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Tam gdzie Ty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Więcej Ciebie chcę<br/>wciąż więcej Ciebie chcę<br/>i miłości Twej<br/>ciągle więcej chce.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie opuszczę Cię<br/>już nie opuszczę Cię<br/>bo Ciebie znam i wiem<br/>już nie opuszczę Cię<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Panie pragnę być tam gdzie Ty<br/>Ciągle w Twojej miłości być<br/>nie dorówna Tobie nic<br/>nie dorówna Tobie nic<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Święty, święty, święty, święty<br/>święty, święty<br/>Kocham Cię Jezu<br/>kocham Cię Jezu<br/></lines>
+    </verse>
+  </lyrics>
+</song>

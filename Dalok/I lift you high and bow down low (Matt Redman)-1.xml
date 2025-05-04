@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I lift you high and bow down low</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I lift you high and bow down low<br/>How high can You be?<br/>How low can I go?<br/>I lift You high and bow down low<br/>How high can You be?<br/>How low can I go?<br/>You must increase I must decrease, Lord<br/>I'll bow down and You will be adored<br/></lines>
+    </verse>
+  </lyrics>
+</song>

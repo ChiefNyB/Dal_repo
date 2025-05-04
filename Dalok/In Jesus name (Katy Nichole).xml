@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:55">
+  <properties>
+    <titles>
+      <title>In Jesus name</title>
+    </titles>
+    <authors>
+      <author>Katy Nichole</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I speak the name of Jesus over you<br/>In your hurting, in your sorrow<br/>I will ask my God to move<br/>I speak the name 'cause it's all that I can do<br/>In desperation, I'll seek Heaven<br/>And pray this for you<br/></lines>
+    </verse>
+    <verse name="c2a">
+      <lines>I pray for your healing<br/>That circumstances would change<br/>I pray that the fear inside would flee in Jesus name<br/>I pray that a breakthrough would happen today<br/>I pray miracles over your life in Jesus name, in Jesus name<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I speak the name of all authority<br/>Declaring blessings, every promise<br/>He is faithful to keep<br/>I speak the name no grave could ever hold<br/>He is greater, He is stronger<br/>He's the God of possible<br/></lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I pray for your healing<br/>That circumstances would change<br/>I pray that the fear inside would flee in Jesus name<br/>I pray that a breakthrough would happen today<br/>I pray miracles over your life in Jesus name<br/>In Jesus name<br/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Come believe it<br/>Come receive it<br/>Oh, the power of His Spirit is now forever yours<br/>Come believe it<br/>Come receive it<br/>In the mighty name of Jesus, all things are possible<br/></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I pray for your healing<br/>That circumstances will change<br/>I pray that the fear inside will flee in Jesus name<br/>I pray that a breakthrough<br/>Would happen today<br/>I pray miracles over your life in Jesus name<br/></lines>
+    </verse>
+    <verse name="c2b">
+      <lines>I pray for revival<br/>For restoration of faith<br/>I pray that the dead will come alive in Jesus name<br/>In Jesus name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

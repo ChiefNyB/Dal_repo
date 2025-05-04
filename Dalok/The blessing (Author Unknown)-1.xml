@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>The blessing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord bless you and keep you<br/>Make His face shine upon you<br/>and be gracious to you<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord turn His face toward you<br/>and give you peace<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen Amen Amen<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>May His favour be upon you<br/>and a thousand generations<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And your family and your children<br/>and their children and their children<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>May His presence go before you<br/>and behind you and beside you<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>All around you and within you<br/>He is with you He is with you<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>In the morning in the evening<br/>in your coming and your going<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>In your weeping and rejoicing<br/>He is for you He is for you<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>He is for you He is for you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Sunday second reading mass</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With me, bear the hardships for the sake of the Good News,<br/>relying on the power of God<br/>who has saved us and called us to be holy –<br/>not because of anything we ourselves<br/>have done but for his own purpose and by his own grace.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>This grace had already been granted to us,<br/>in Christ Jesus, before the beginning of time,<br/>but it has only been revealed<br/>by the Appearing of our saviour Christ Jesus.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>He abolished death, and he has proclaimed life<br/>and immortality through the Good News.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

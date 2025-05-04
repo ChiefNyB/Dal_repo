@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:10">
+  <properties>
+    <titles>
+      <title>Sing and shout for joy</title>
+    </titles>
+    <authors>
+      <author>Michele Harrison</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing and shout for joy<br/>To the One who reigns on high<br/>And is living here in our hearts<br/>Rules in heaven above<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great and mighty Saviour<br/>Our most awesome Redeemer,<br/>Glorious in splendor are You Lord,<br/>Victorious and awesome are You Lord.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing, dance, clap your hands<br/>And rejoice all over the land<br/>Proclaim that Jesus is King<br/>And to our God let us sing<br/></lines>
+    </verse>
+  </lyrics>
+</song>

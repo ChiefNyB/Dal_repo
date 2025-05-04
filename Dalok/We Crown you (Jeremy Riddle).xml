@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>We Crown you</title>
+    </titles>
+    <authors>
+      <author type="words">Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To the One who wore<br/>A crown of thorns<br/>To the One who took<br/>The lash and scourge<br/>For the hands and feet<br/>That were pierced by nails<br/>For the sacrifice<br/>That has torn the veil<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>We crown You!<br/>We fall face down and we worship!<br/>We all cry out "You are worthy God!"<br/>"You are worthy, God!"<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the One who gave<br/>His very life away<br/>Who took upon Himself<br/>All our guilt and shame<br/>Hanging on a cross<br/>For the world He loved<br/>With His precious blood<br/>Purchased men for God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the One<br/>Who endured<br/>All the shame of the cross<br/>To the Lamb<br/>Who was slain<br/>As atonement for us<br/>To the Son<br/>Who overcame<br/>All the power of death<br/>We praise...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the stripes<br/>For the wounds<br/>For the beating You bore<br/>For the tears<br/>For the blood<br/>That was willingly poured<br/>For the merciful, wonderful, majesty of Your love!</lines>
+    </verse>
+  </lyrics>
+</song>

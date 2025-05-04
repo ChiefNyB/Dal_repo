@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:55">
+  <properties>
+    <titles>
+      <title>In your city</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, the glorious day when we arrive<br/>And Heaven's gates are open wide<br/>All ourw fear and pain will fade away<br/>When we see You face to face<br/>Our great and awesome King<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You, will reign in brilliant light<br/>Forever glorified in Your city<br/>We, Your daughters and Your sons<br/>Will see the Kingdom come in Your city<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love will reign and joy will have no end<br/>When the saints go marching in<br/>Jesus Christ we pray that You come soon<br/>We were made to be with You<br/>Our great and awesome King<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>When we've been there for ten thousand years<br/>Our song will be the same<br/>Praise to the One who has brought us here<br/>Jesus is His Name, Jesus is His Name<br/></lines>
+    </verse>
+  </lyrics>
+</song>

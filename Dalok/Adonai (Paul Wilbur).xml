@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>Adonai</title>
+    </titles>
+    <authors>
+      <author>Paul Wilbur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of eternity,<br/>Mystery behind the veil,<br/>Lord over heaven and earth,<br/>God of Israel.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come with Your wisdom and power,<br/>Clothed in Your honor and strength,<br/>Lord, hear the cry of our hearts,<br/>Come, O conquering King!<br/>And every eye will see<br/>Your glory fill the sky...<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adonai! Adonai!<br/>Every knee will bow to You,<br/>Lord Most High!<br/>Adonai! Adonai!<br/>You alone are God<br/>Every tongue will cry,<br/>Adonai!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Here Jerusalem waits,<br/>Praises lifted on high.<br/>Here the beautiful gates<br/>Long to see you arise!<br/>When all of Zion sings:<br/>"Baruch haba b` sem..."<br/>(Blessed is He who comes in the name of...)<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You are Lord over all the earth;<br/>You are Lord over all the earth.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

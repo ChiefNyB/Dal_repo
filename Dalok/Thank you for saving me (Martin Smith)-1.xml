@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>Thank you for saving me</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you for saving me, what can I say?<br/>You are my everything, I will sing your praise.<br/>You shed your blood for me, what can I say?<br/>You took my sin and shame,<br/>a sinner called by name.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord,<br/>Great is the Lord,<br/>For we know your truth has set us free,<br/>You've set your hope in me.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mercy and grace are mine, forgiven is my sin,<br/>Jesus my only hope, the Saviour of the world.<br/>"Great is the Lord" we cry,<br/>God let your kingdom come,<br/>Your word has let me see,<br/>thank you for saving me!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

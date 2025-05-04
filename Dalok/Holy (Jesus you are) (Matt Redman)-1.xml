@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Holy (Jesus you are)</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What heart could hold the weight of Your love<br/>And know the heights of Your great worth<br/>What eyes could look on Your glorious face<br/>Shining like the sun<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are holy, holy, holy<br/>God most high and God most worthy<br/>You are holy, holy, holy<br/>Jesus, You are<br/>Jesus, You are<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your name alone has power to raise us<br/>Your light will shine when all else fades<br/>Our eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You, God?<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are holy, holy, holy<br/>God most high and God most worthy<br/>You are holy, holy, holy<br/>Jesus, You are<br/>Jesus, You are<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus, You are<br/>Jesus, You are<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who shall we say You are<br/>You're the living God<br/>Who shall we say You are<br/>You're the Great I AM<br/>The highest name of all<br/>You're all You say You are<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are holy, holy, holy<br/>God most high and God most worthy<br/>You are holy, holy, holy<br/>Jesus, You are<br/>Jesus, You are<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jesus, You are<br/>Jesus, You are<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>And You shall come again in glory<br/>To judge the living and the dead<br/>All eyes will look on Your glorious face<br/>Shining like the sun<br/>Who is like You, God?<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>You are holy, holy, holy<br/>God most high and God most worthy<br/>You are holy, holy, holy<br/>Jesus, You are<br/>Jesus, You are<br/></lines>
+    </verse>
+    <verse name="v11">
+      <lines>Jesus, You are<br/>Jesus, You are<br/><chord name="x3"/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:45">
+  <properties>
+    <titles>
+      <title>Draw me to your presence</title>
+    </titles>
+    <authors>
+      <author>M Doyle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw me to your presence, O, Lord.<br/>Bring me into that holy place.<br/>So I may see your glory.<br/>The beauty of Your face.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>One thing I ask of you, O Lord,<br/>the desire of my heart<br/>that I may live in your temple, O Lord,<br/>from this day forth.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

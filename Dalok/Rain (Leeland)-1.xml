@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:08">
+  <properties>
+    <titles>
+      <title>Rain</title>
+    </titles>
+    <authors>
+      <author>Leeland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rain Rain on me<br/>Open the window<br/>of heaven<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open up the heavens<br/>Pouring out a blessing<br/>Lord we need refreshing<br/>Till it overflows<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's raining /2x<br/>It's pouring/2x<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I hear the sound of revival rain<br/>I hear the sound<br/>I hear the sound<br/></lines>
+    </verse>
+  </lyrics>
+</song>

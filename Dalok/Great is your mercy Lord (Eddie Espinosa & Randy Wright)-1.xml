@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Great is your mercy Lord</title>
+    </titles>
+    <authors>
+      <author>Eddie Espinosa &amp; Randy Wright</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is Your mercy Lord, great is Your love.<br/>Great is Your mercy Lord, great is Your love.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unto You I will lift up my voice.<br/>With my mouth make Your faithfulness known.<br/>Oh Lord, Your word stands true forever,<br/>And with a grateful heart I bow before Your throne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Over the mountains</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Over the mountains and the sea<br/>Your river runs with love for me<br/>So I will open up my heart<br/>And let the Healer set me free<br/>I'm happy to be in the truth<br/>So I will daily lift my hands<br/>For I will always sing of<br/>When Your love came down<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever<br/>I could sing of Your love forever<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And O I feel like dancing<br/>It's foolishness I know<br/>But when the world has seen the light<br/>They will dance with joy<br/>Like we are dancing now<br/></lines>
+    </verse>
+  </lyrics>
+</song>

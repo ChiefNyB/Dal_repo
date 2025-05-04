@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:10">
+  <properties>
+    <titles>
+      <title>Shekinah Glory</title>
+    </titles>
+    <authors>
+      <author>Cory Asbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We wait for You, we wait for You<br/>We wait for You; walk in the room<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here we are, standing in Your presence<br/>Here we are, standing in Your presence<br/>Shekinah glory come down, Shekinah glory come down<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Release the fullness of Your Spirit<br/>Shekinah glory come, Shekinah glory come<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You move and we want more, You speak and we want more<br/>You move and we want more; we want the fullness<br/></lines>
+    </verse>
+  </lyrics>
+</song>

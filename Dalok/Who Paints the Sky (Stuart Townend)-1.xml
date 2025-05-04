@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Who Paints the Sky</title>
+    </titles>
+    <authors>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wazani sindumisi (Come on let's praise him)<br/>Wazani sindumisi<br/>YiNkosi ama Nkosi (King of Kings)<br/>Ngum Sindisi wam (He's my saviour)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who paints the skies into glorious day?<br/>Only the splendour of Jesus<br/>Who breathes His life into fists of clay?<br/>Only the splendour of Jesus<br/>Who shapes the valleys and brings the rain?<br/>Only the splendour of Jesus<br/>Who makes the desert to live again?<br/>Only the splendour of Jesus<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach every nation His marvellous ways<br/>Each generation shall sing His praise<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>He is wonderful, He is glorious<br/>Clothed in righteousness, full of tenderness<br/>Come and worship Him, He's the Prince of life<br/>He will cleanse our hearts in His river of fire.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who hears the cry of the barren one?<br/>Only the mercy of Jesus<br/>Who breaks the curse of the heart of stone?<br/>Only the mercy of Jesus<br/>Who storms the prison and sets men free?<br/>Only the mercy of Jesus<br/>Purchasing souls for eternity?<br/>Only the mercy of Jesus<br/></lines>
+    </verse>
+  </lyrics>
+</song>

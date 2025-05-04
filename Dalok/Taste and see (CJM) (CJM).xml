@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Taste and see (CJM)</title>
+      <title>Come to me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>CJM</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Taste and see the goodness of the Lord (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come to him, come to him all who are hungry;<br/>Come to him, come to him all who thirst:<br/>(He says) “I am your God and you are my people”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am the Living Bread, I am the New Wine<br/>Blessed, broken, poured-out, shared for all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed, broken, poured-out, shared. (4)</lines>
+    </verse>
+  </lyrics>
+</song>

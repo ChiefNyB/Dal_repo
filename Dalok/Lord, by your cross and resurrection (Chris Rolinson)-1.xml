@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Lord, by your cross and resurrection</title>
+    </titles>
+    <authors>
+      <author>Chris Rolinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, by your cross and resurrection<br/>You set us free, You set us free<br/>Lord, by your cross and resurrection<br/>You set us free, You set us free.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the Saviour, the Saviour<br/>The Saviour of the World,<br/>You are the Saviour, the Saviour<br/>The Saviour of the World,<br/>Saviour of the world.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

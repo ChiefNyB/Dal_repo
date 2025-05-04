@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:45">
+  <properties>
+    <titles>
+      <title>Eat this bread</title>
+    </titles>
+    <authors>
+      <author>Taize</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eat this Bread, drink this Cup.<br/>Come to Me and never be hungry.<br/>Eat this Bread, drink this Cup.<br/>Trust in Me and you will not thirst.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

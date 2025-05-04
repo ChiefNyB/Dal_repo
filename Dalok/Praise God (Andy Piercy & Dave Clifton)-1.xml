@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Praise God</title>
+    </titles>
+    <authors>
+      <author>Andy Piercy &amp; Dave Clifton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise God from whom all blessings flow<br/>Praise Him all creatures here below<br/>Praise Him above You heav'nly host<br/>Praise Father, Son and Holy Ghost.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give glory to the Father, give glory to the Son,<br/>Give glory to the Spirit, while endless ages run.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>"Worthy the Lamb" all heaven cries<br/>"To be exalted thus"<br/>"Worthy the Lamb" our hearts reply<br/>For He was slain for us.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

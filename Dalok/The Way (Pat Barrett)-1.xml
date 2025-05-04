@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>The Way</title>
+    </titles>
+    <authors>
+      <author>Pat Barrett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe You are the way<br/>the truth and the life<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I believe through every battle<br/>Through every heartbreak<br/>Through every circumstance<br/>I believe You are my fortress<br/>You are my portion<br/>You are my hiding place<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe through every blessing<br/>Through every promise<br/>Through every breath I take<br/>I believe that You are provider<br/>You are protector<br/>You are the one I love<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's a new horizon and I'm set on You<br/>And you meet me here today<br/>With mercies that are new<br/>All my fears and doubts<br/>They can all come too<br/>Because they can't stay long when I'm here with You<br/></lines>
+    </verse>
+  </lyrics>
+</song>

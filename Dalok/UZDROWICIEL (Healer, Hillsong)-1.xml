@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>UZDROWICIEL</title>
+    </titles>
+    <authors>
+      <author>Healer, Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Wypełniasz każdą chwilę<br/>Uciszasz szumy mórz<br/>You hold my every moment<br/>You calm my raging seas<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prowadzisz mnie przez ogień<br/>Choroby leczysz me<br/>You walk with me through fire<br/>and heal all my disease<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tak, ufam Ci,<br/>Tak, ufam Ci,<br/>I trust in You<br/>I trust in You<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wierzę, że Ty uzdrawiasz<br/>Wierzę,że wszystkim jesteś mi<br/>I believe You're my healer<br/>I believe You are all I need<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wierzę,że żyjesz we mnie<br/>Wierzę,że Ty Panie wystarczasz mi<br/>Jezu, Tyś wszystkim jest<br/>I believe You're my portion<br/>I believe You're more than enough for me<br/>Jesus You're all I need<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines/>
+    </verse>
+    <verse name="v7">
+      <lines>Wszystko jest możliwe z Tobą, wiem<br/>Każda rzecz możliwa jest<br/>Nothing is impossible for You<br/>Nothing is impossible<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wszystko jest możliwe z Tobą, wiem<br/>Ty trzymasz świat w rękach Swych<br/>Nothing is impossible for You<br/>You hold my world in Your hands<br/></lines>
+    </verse>
+  </lyrics>
+</song>

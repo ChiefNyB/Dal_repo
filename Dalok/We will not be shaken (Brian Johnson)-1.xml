@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:17">
+  <properties>
+    <titles>
+      <title>We will not be shaken</title>
+    </titles>
+    <authors>
+      <author>Brian Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For we trust in our God<br/>And through His unfailing love<br/>We will not be shaken,<br/>We will not be shaken,<br/>We will not be shaken<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though the battle rages<br/>We will stand in the fight<br/>Though the armies rise up against us on all sides<br/>We will not be shaken<br/>We will not be shaken<br/>We will not be shaken<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>For in the hour of our darkest day<br/>We will not tremble, we won’t be afraid<br/>Hope is rising like the light of dawn<br/>Our God is for us He has overcome<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>All those against Him will fall<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>For our God is stronger<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>He can do all things<br/>No higher name we can call<br/>For Jesus is greater<br/>We can do all things<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:33">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Lord, what love is this,<br/>That paid so dearly,<br/>That I, the guilty one,<br/>May go free!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing love, O what sacrifice,<br/>The Son of God giv'n for me.<br/>My debt He pays, and my death He dies,<br/>that I might live, that I might live.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And so they watched Him die,<br/>Despised, rejected;<br/>But oh, the blood He shed<br/>Flowed for me!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And now this love of Christ<br/>Shall flow like rivers;<br/>Come wash your guilt away.<br/>Live again!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

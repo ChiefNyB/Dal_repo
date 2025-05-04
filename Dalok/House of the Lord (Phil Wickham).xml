@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>House of the Lord</title>
+    </titles>
+    <authors>
+      <author>Phil Wickham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We worship the God who was<br/>We worship the God who is<br/>We worship the God who evermore will be<br/>He opened the prison doors<br/>He parted the raging sea<br/>My God, He holds the victory</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There's joy in the house of the Lord<br/>There's joy in the house of the Lord today<br/>And we won't be quiet<br/>We shout out Your praise<br/></lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There's joy in the house of the Lord<br/>Our God is surely in this place<br/>And we won't be quiet<br/>We shout out Your praise<br/>(Oh-oh, oh) we shout out Your praise<br/>(Oh-oh, oh)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>We sing to the God who heals<br/>We sing to the God who saves<br/>We sing to the God who always makes a way<br/>'Cause He hung up on that cross<br/>Then He rose up from that grave<br/>My God's still rolling stones away</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>There's joy in the house of the Lord<br/>There's joy in the house of the Lord today<br/>And we won't be quiet<br/>We shout out Your praise</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>There's joy in the house of the Lord<br/>Our God is surely in this place<br/>And we won't be quiet<br/>We shout out Your praise</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>We were the beggars<br/>Now we're royalty<br/>We were the prisoners<br/>Now we're running free<br/>We are forgiven, accepted<br/>Redeemed by His grace<br/>Let the house of the Lord sing praise</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>'Cause we were the beggars<br/>Now we're royalty<br/>We were the prisoners<br/>Now we're running free<br/>We are forgiven, accepted<br/>Redeemed by His grace<br/>Let the house of the Lord sing praise</lines>
+    </verse>
+  </lyrics>
+</song>

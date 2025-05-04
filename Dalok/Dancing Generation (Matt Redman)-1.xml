@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:43">
+  <properties>
+    <titles>
+      <title>Dancing Generation</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You mercy taught us how to dance<br/>To celebrate with all we have<br/>And we'll dance to thank You for mercy<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your glory taught us how to shout<br/>To lift Your name in all the earth<br/>And we'll shout to the praise of Your glory<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's the overflow of a forgiven soul<br/>And now we've seen You, God<br/>Our hearts cannot stay silent<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And we'll be a dancing generation<br/>Dancing because of Your great mercy, Lord<br/>Your great mercy, Lord<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we'll be a shouting generation<br/>Shouting because of Your great glory, Lord<br/>Your great glory, Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

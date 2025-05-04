@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Good Good Father</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard a thousand stories of what they think you're like<br/>But I've heard tender whispers of love in the dead of night<br/>And you tell me that you're pleased<br/>And that I'm never alone<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're a Good, Good Father<br/>It's who you are, it's who you are, it's who you are<br/>And I'm loved by you<br/>It's who I am, it's who I am, it's who I am<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've seen many searching for answers far and wide<br/>But I know we're all searching<br/>For answers only you provide<br/>Cause you know just what we need<br/>Before we, we say a word<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're a Good, Good Father<br/>It's who you are, it's who you are, it's who you are<br/>And I'm loved by you<br/>It's who I am, it's who I am, it's who I am<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Love so undeniable I can hardly speak,<br/>Peace so unexplainable I can hardly think,<br/>As you call me deeper still,<br/>As you call me deeper still<br/>Into love, love love.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You're a Good, Good Father<br/>And I'm loved by you<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are perfect in all of your ways<br/>Perfect in all of your ways<br/>You are perfect in all of your ways to us<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>You're a Good, Good Father<br/>It's who you are, it's who you are, it's who you are<br/>And I'm loved by you<br/>It's who I am, it's who I am, It's who I am<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>You are perfect in all of your ways<br/><chord name="x3"/><br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>You're a Good, Good Father<br/>It's who you are, it's who you are, it's who you are<br/></lines>
+    </verse>
+  </lyrics>
+</song>

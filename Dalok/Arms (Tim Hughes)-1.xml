@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:34">
+  <properties>
+    <titles>
+      <title>Arms</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Empty handed here I come<br/>I have nothing left to give You<br/>Take my heart and all I am<br/>Who else Lord can I run to?<br/>Every part of me You see<br/>I'm an open book before You<br/>Jesus take me as I am<br/>I can come no other way<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your arms are big enough for me<br/>Your arms are big enough for me<br/>Your grace is strong enough for me<br/>Your grace is strong enough for me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Years of pain are washed away<br/>In the beauty of Your presence<br/>In this moment, everyday<br/>Perfect love will carry me<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I lay my life down here<br/>I give it all to You<br/>It's all for you.<br/>Nothing can keep me from your love<br/>Oh the love of Jesus.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

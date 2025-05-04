@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:45">
+  <properties>
+    <titles>
+      <title>Draw me closer</title>
+    </titles>
+    <authors>
+      <author>Stuart Devane/Glenn Core</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw me closer, Lord, draw me closer dear Lord,<br/>so that I might touch You, so that I might touch You,<br/>Lord, I want to touch You.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Touch my eyes, Lord, touch my eyes dear Lord,<br/>so that I might see You, so that I might see You,<br/>Lord, I want to see You.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your glory and Your love<br/>Your glory and Your love<br/>Your glory and Your love and Your majesty<br/></lines>
+    </verse>
+  </lyrics>
+</song>

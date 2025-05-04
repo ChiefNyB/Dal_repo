@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Philip Sunday second reading ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beloved:<br/>Where jealousy and selfish ambition exist,<br/>there is disorder and every foul practice.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>But the wisdom from above is first of all pure,<br/>then peaceable, gentle, compliant,<br/>full of mercy and good fruits,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>without inconstancy or insincerity.<br/>And the fruit of righteousness is sown in peace<br/>for those who cultivate peace.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where do the wars<br/>and where do the conflicts among you come from?<br/>Is it not from your passions<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>that make war within your members?<br/>You covet but do not possess.<br/>You kill and envy but you cannot obtain;<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>you fight and wage war.<br/>You do not possess because you do not ask.<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>You ask but do not receive,<br/>because you ask wrongly, to spend it on your passions.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

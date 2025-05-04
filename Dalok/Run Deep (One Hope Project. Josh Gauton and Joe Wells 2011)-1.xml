@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Run Deep</title>
+    </titles>
+    <authors>
+      <author>One Hope Project. Josh Gauton and Joe Wells 2011</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I call, you answer<br/>When I fall, you are by my side<br/>When I'm weak you are stronger<br/>My deliverer<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mighty, God above all<br/>I'm held within your hands<br/>Father, You listen and love<br/>Forever by my side<br/>Let this truth run deep<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you breathe, I'm made whole<br/>When you move, help me follow too<br/>When you speak, I find comfort,<br/>My deliverer<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>When your light shines, it breaks the darkness<br/>Lifts me up and hope prevails<br/>In your presence, there is healing<br/>Life abundant found in you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

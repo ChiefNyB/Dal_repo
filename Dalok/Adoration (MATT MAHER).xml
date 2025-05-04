@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>Adoration</title>
+    </titles>
+    <authors>
+      <author>MATT MAHER</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Down in adoration falling<br/>This great sacrament we hail<br/>Over ancient forms departing<br/>Newer rites of grace prevail<br/>Faith for all defects supplying<br/>Where the feeble senses fail<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>To the everlasting Father<br/>And the Son who reigns on high<br/>With the Spirit blest, proceeding<br/>Forth from each eternally<br/>Be salvation, honor, blessing<br/>Might and endless majesty<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Lamb of God, saving love for all<br/>Lord of heaven and earth, Father's love for all<br/>I bow to You<br/>Jesus, Lamb of God, saving love for all<br/>Lord of heav'n and earth<br/>I bow to You, bow to You, I bow to You<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pour upon us, Lord of mercy<br/>Spirit of Thy selfless love<br/>Make of us one true heart yearning<br/>For the glory of thy Son<br/>Jesus, fire of justice blazing<br/>Gladdening light forevermore<br/></lines>
+    </verse>
+  </lyrics>
+</song>

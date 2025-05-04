@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:02">
+  <properties>
+    <titles>
+      <title>Niechaj zstapi Duch Twoj</title>
+    </titles>
+    <authors>
+      <author>14</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Niechaj zstąpi Duch Twój i odnowi ziemię,<br/>Życiodajny spłynie deszcz na spragnione serce.<br/>Obmyj mnie i uświęć mnie,<br/>Uwielbienia niech popłynie pieśń.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chwała Jezusowi, który za mnie życie dał,<br/>Chwała Temu, który pierwszy umiłował mnie.<br/>Jezus, tylko Jezus Panem jest.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

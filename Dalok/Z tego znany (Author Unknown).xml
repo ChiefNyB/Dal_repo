@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:21">
+  <properties>
+    <titles>
+      <title>Z tego znany</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nie boję się, bo wierzę Ci<br/>nie wątpię już, bo pewność mam<br/>że wierność Twa ochrania mnie<br/>wciąż na nowo<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nadzieję mam w imieniu Twym<br/>i siłę swą mam w łasce Twej<br/>i wierność Twa ochrania mnie<br/>wciąż na nowo<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Przeprowadz przez wody<br/>przeprowadz przez ogień<br/>zrób to z czego znają<br/>to z czego znają cię<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zamknij głos niewiary<br/>ożyw suche kości<br/>zrób to z czego znają cię<br/>to z czego znają cię<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wierzę ci, o tak<br/>ja wierzę ci, o tak<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Uwolnij miłość dziś w sercu mym<br/>uwolnij moc by świat widział że<br/>Duchu przyjdz i namaść nas<br/>wciąż na nowo<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mój nadzwyczajny Bóg<br/>obfity w łasce swej<br/>Ty nie zawiedziesz mnie<br/>Twe imię mocą jest<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nikt nie zatrzyma Cię<br/>Ty działasz tak jak chcesz<br/>Wszystko możliwe z Tobą jest<br/></lines>
+    </verse>
+  </lyrics>
+</song>

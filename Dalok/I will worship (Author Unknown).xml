@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I will worship</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will worship (I will worship)<br/>With all of my heart (with all of my heart)<br/>I will praise You (I will praise You)<br/>With all of my strength (all my strength)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will seek You (I will seek You)<br/>All of my days (all of my days)<br/>And I will follow (I will follow)<br/>All of Your ways (all Your ways)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will give You all my worship<br/>I will give You all my praise<br/>You alone I long to worship<br/>You alone are worthy of my praise<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will bow down (I will bow down)<br/>Hail You as King (hail You as King)<br/>And I will serve You (I will serve You)<br/>Give You everything (give You everything)<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will lift up (I will lift up)<br/>My eyes to Your throne (my eyes to Your throne)<br/>And I will trust You (I will trust You)<br/>I will trust You alone (trust You alone)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

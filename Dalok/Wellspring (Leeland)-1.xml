@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:17">
+  <properties>
+    <titles>
+      <title>Wellspring</title>
+    </titles>
+    <authors>
+      <author>Leeland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All sufficient, never lacking<br/>Ev'rything we need<br/>We come boldly, we come thirsty<br/>You are all we seek<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, Your love is a wellspring<br/>You fill us up with water<br/>That never runs dry<br/>There is healing and breakthrough<br/>When we behold You<br/>Jesus, our endless supply<br/>Ooh, You're all we're after<br/>Ooh, You're all that matters now<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>All consuming, overflowing<br/>Come wash over us<br/>You take weakness and redeem it<br/>Father, You're enough<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is our wellspring<br/>You never will run dry<br/>And right here and right now<br/>There's resurrecting life<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>You never let go</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Even though I walk through the valley<br/>of the shadow of death,<br/>Your perfect love is casting out fear<br/>And even when I'm caught in the middle<br/>of the storms of this life<br/>I won't turn back I know You are near<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will fear no evil<br/>For my God is with me<br/>And if my God is with me<br/>Whom then shall I fear<br/>Whom then shall I fear<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh no, You never let go<br/>Through the calm and through the storm<br/>Oh no, You never let go<br/>In ev'ry high and ev'ry low<br/>Oh no, You never let go<br/>Lord, You never let go of me<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I can see a light that is coming<br/>for the heart that holds on<br/>A glorious light beyond all compare<br/>And there will be an end to these troubles<br/>But until that day comes<br/>We'll live to know You here on the earth<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes, I can see a light that is coming<br/>for the heart that holds on<br/>And there will be an end to these troubles<br/>But until that day comes<br/>Still I will praise You<br/>Still I will praise You<br/></lines>
+    </verse>
+  </lyrics>
+</song>

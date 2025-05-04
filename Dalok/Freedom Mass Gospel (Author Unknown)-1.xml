@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Freedom Mass Gospel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When Judas had gone Jesus said: ‘Now has the Son of Man been glorified,<br/>and in him God has been glorified. If God has been glorified in him,<br/>God will in turn glorify him in himself, and will glorify him very soon.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>‘My little children, I shall not be with you much longer.<br/>I give you a new commandment:love one another;<br/>just as I have loved you,you also must love one another.<br/>By this love you have for one another,<br/>everyone will know that you are my disciples.’<br/></lines>
+    </verse>
+  </lyrics>
+</song>

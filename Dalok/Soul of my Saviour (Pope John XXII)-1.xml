@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Soul of my Saviour</title>
+    </titles>
+    <authors>
+      <author>Pope John XXII</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soul of my Saviour, sanctify my breast;<br/>Body of Christ, be thou my saving guest;<br/>Blood of my Saviour, bathe me in thy tide,<br/>Wash me with water flowing from thy side.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strength and protection may thy Passion be;<br/>O Blessed Jesus hear and answer me;<br/>Deep in thy wounds, Lord, hide and shelter me;<br/>So shall I never, never part from thee.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guard and defend me from the foe malign;<br/>In death's dread moments make me only thine;<br/>Call me, and bid me come to thee on high,<br/>When I may praise thee with thy saints aye.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

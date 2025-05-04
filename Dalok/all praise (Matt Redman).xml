@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>all praise</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace, Amazing grace<br/>That far outweighs my past mistakes<br/>Your death became the death of shame<br/>I praise You for amazing grace<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Up from the grave, up from the grave<br/>into the drak, You called my name<br/>and brought me back to life again<br/>I rose with you up from the grave<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>All Praise, All Praise<br/>see the old life has gone, and the new has begun<br/>Your name, Your name always<br/>Jesus You alone deserve all praise<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your coming soon, Your coming soon<br/>Your promises they all come true<br/>God we will fix our eyes on You<br/>And we believe your coming soon<br/>Yes we will fix our eyes on You<br/>Your promises they all come true<br/></lines>
+    </verse>
+  </lyrics>
+</song>

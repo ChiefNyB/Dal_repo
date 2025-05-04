@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I need you now</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On this thirsty desert ground,<br/>in a dry and barren land,<br/>I bow down<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You will call and I will come<br/>To Your river I will run<br/>I bow down<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, living water. Oh, God, my Savior,<br/>If I ever needed You, I need You now<br/>Oh, living water, Oh, God, my Healer,<br/>If I ever needed You, I need You now<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You're the start and You're the end<br/>You complete what You begin<br/>I bow down<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You will call and I will come<br/>To Your river I will run<br/>I bow down<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh, living water. Oh, God, my Savior,<br/>If I ever needed You, I need You now<br/>Oh, living water, Oh, God, my Healer,<br/>If I ever needed You, I need You now<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>Just like the desert needs the blessing of the rain<br/>Just like the winter, waiting for the sun again<br/>I need you now<br/>Just like a river as it reaches for the sea<br/>Just like a song, it needs the sound of melody<br/>I need you now<br/><chord name="repeat"/><br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>I need You now<br/>If I ever needed You<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>Just like the desert needs the blessing of the rain<br/>Just like the winter, waiting for the sun again<br/>I need You now<br/></lines>
+    </verse>
+    <verse name="v10">
+      <lines>Oh, living water. Oh, God, my Savior,<br/>If I ever needed You, I need You now<br/>Oh, living water, Oh, God, my Healer,<br/>If I ever needed You, I need You now<br/></lines>
+    </verse>
+  </lyrics>
+</song>

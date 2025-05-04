@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>Have it all</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You can have it all, Lord<br/>Every part of my world<br/>Take this life and breathe on<br/>This heart that is now Yours</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oh, the joy I've found<br/>Surrendering my crowns<br/>At the feet of the King<br/>Who surrendered everything</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And oh, the peace that comes<br/>When I'm broken and undone<br/>By Your unfailing grace<br/>I can lift my voice and say</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>There is no greater call<br/>Than giving You my all<br/>I lay it all down<br/>I lay it all down</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>There is no greater love<br/>No higher name above<br/>I lay it all down<br/>I lay it all down</lines>
+    </verse>
+  </lyrics>
+</song>

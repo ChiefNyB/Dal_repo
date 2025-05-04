@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:39">
+  <properties>
+    <titles>
+      <title>Burning in my soul</title>
+    </titles>
+    <authors>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is power, power<br/>Here in this hour, this hour<br/>We're all together, together<br/>Waiting here as one<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whoa, hear the sound from Heaven<br/>Whoa, a mighty rushing wind<br/>Whoa, we're calling for revival<br/>God let Your fire fall again<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's burning in my soul...<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>All Your sons and Your daughters<br/>Dreaming the dreams of the Father<br/>Seeing the signs and the wonders<br/>The Kingdom of God<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I cannot contain it<br/>This fire inside<br/>I cannot contain it<br/>So let it shine<br/>I cannot contain it<br/>This light of mine<br/></lines>
+    </verse>
+  </lyrics>
+</song>

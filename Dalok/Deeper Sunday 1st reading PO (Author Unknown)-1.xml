@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:44">
+  <properties>
+    <titles>
+      <title>Deeper Sunday 1st reading PO</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mojżesz tak powiedział do ludu:<br/>«Zapytaj dawnych czasów, które były przed tobą, zaczynając<br/>od dnia, w którym Bóg stworzył człowieka na ziemi,<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>zapytaj od jednego krańca niebios do drugiego, czy nastąpiło tak wielkie<br/>wydarzenie jak to lub czy słyszano o czymś podobnym?<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Czy słyszał jakiś naród głos Boży z ognia, jak ty słyszałeś, i pozostał<br/>żywy? Czy usiłował Bóg przyjść i wybrać sobie jeden naród<br/>spośród innych narodów przez doświadczenia,<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>znaki, cuda i wojny, ręką mocną i wyciągniętym ramieniem, dziełami<br/>przerażającymi, jak to wszystko, co tobie uczynił Pan, Bóg twój,<br/>w Egipcie na twoich oczach?<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Poznaj dzisiaj i rozważ w swym sercu, że Pan jest Bogiem, a na<br/>niebie wysoko i na ziemi nisko nie ma innego. Strzeż Jego praw<br/>i nakazów,<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>które ja dziś polecam tobie wypełniać; by dobrze ci<br/>się wiodło i twym synom po tobie; byś przedłużył swe dni na<br/>ziemi, którą na zawsze daje ci Pan, Bóg twój».<br/></lines>
+    </verse>
+  </lyrics>
+</song>

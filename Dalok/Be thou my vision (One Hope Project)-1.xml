@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:36">
+  <properties>
+    <titles>
+      <title>Be thou my vision</title>
+    </titles>
+    <authors>
+      <author>One Hope Project</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be thou my vision, oh Lord of my heart<br/>Naught be all else to me, save that thou art<br/>Thou my best thought, by day or by night<br/>Waking or sleeping, thy presence my light<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be thou my wisdom and thou my true word<br/>I ever with thee and thou with me, Lord<br/>Thou my great Father, and I thy true son<br/>Thou in my dwelling, and I with thee one<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Riches I need not, nor man's empty praise<br/>Thou mine inheritance, now and always<br/>Thou and thou only, first in my heart<br/>High King of heaven, my treasure thou art<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be Thou my battle Shield, Sword for the fight;<br/>Be Thou my Dignity, Thou my Delight;<br/>Thou my soul's Shelter, Thou my high Tower:<br/>Raise Thou me heavenward, O Power of my power.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>High King of heaven, my victory won<br/>May I reach heaven's joys, O bright heaven's sun<br/>Heart of my own heart, whatever befall<br/>Still be my vision, O ruler of all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

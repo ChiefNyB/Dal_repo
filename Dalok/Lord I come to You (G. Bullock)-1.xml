@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Lord I come to You</title>
+    </titles>
+    <authors>
+      <author>G. Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I come to You<br/>Let my heart be changed, renewed<br/>Flowing from the grace<br/>That I've found in You.<br/>And Lord, I've come to know<br/>The weaknesses I see in me<br/>Will be stripped away<br/>By the power of Your love<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hold me close<br/>Let Your love surround me<br/>Bring me near, draw me to Your side<br/>And as I wait<br/>I'll rise up like the eagle,<br/>And I will soar with You<br/>Your Spirit leads me on<br/>In the power of Your love<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord unveil my eyes<br/>Let me see You face to face<br/>The knowledge of Your love<br/>As You live in me.<br/>Lord renew my mind<br/>As Your will unfolds in my life<br/>In living every day<br/>By the power of Your love.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

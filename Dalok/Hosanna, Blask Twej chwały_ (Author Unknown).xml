@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>Hosanna, Blask Twej chwały+</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blask Twej chwały niech wypełnia nas dziś, wielbimy Cię.<br/>Tyś nadzieją, której pragniemy tak, pragniemy  tak.<br/></lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Bo Gdy tu jesteś znów jest siła, by przeżyć dzień.<br/>W obecności Twojej strach odchodzi w dal, odchodzi w dal.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna, hosanna, Ty jesteś Bogiem, Zbawcą,<br/>Ty jesteś godzien chwały<br/>Hosanna, hosanna. Bądź pośród nas, w Twej chwale<br/>Pragniemy być bliżej Ciebie.<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>W sercach naszych chwały pieśń wznosi się, śpiewamy Ci.<br/>W domu Twoim słaby silnym znów jest, odnawiasz nas.<br/></lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Bo Gdy tu jesteś znów jest siła, by przeżyć dzień.<br/>W obecności Twojej strach odchodzi w dal, odchodzi w dal<br/></lines>
+    </verse>
+  </lyrics>
+</song>

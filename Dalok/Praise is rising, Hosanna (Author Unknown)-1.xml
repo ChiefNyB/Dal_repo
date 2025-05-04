@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Praise is rising, Hosanna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise is rising, eyes are turning to You<br/>We turn to You<br/>Hope is stirring, hearts are yearning for You<br/>We long for You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>When we see You<br/>We find strength to face the day<br/>In Your presence all our fears<br/>Are washed away, washed away<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosanna, Hosanna<br/>You are the God who saves us<br/>Worthy of all our praises<br/>Hosanna, Hosanna<br/>Come have Your way among us<br/>We welcome You here, Lord Jesus<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hear the sound of hearts returning to You<br/>We turn to You<br/>In Your kingdom broken lives are made new<br/>You make all things new<br/></lines>
+    </verse>
+  </lyrics>
+</song>

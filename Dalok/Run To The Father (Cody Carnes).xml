@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Run To The Father</title>
+    </titles>
+    <authors>
+      <author>Cody Carnes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've carried a burden <br/>For too long on my own<br/>I wasn't created<br/>To bear it alone<br/>I hear your invitation<br/>To let it all go<br/>I see it now<br/>I'm laying it down<br/>And I know that I need you</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I run to the Father<br/>I fall into grace<br/>I'm done with the hiding<br/>No reason to wait<br/>My heart needs a surgeon<br/>My soul needs a friend<br/>So I'll run to the Father<br/>Again and again</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You saw my condition<br/>Had a plan from the start<br/>Your Son for the redemption<br/>The price for my heart<br/>And I don't have a context<br/>For that kind of love<br/>I don't understand<br/>I can't comprehend<br/>All I know if I need you</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Again and again <br/>And again and again</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart has been in your sights<br/>Long before my first breath<br/>Running into your arms<br/>Is running to life from death<br/>And I feel this rush deep in my chest<br/>Your mercy is calling out<br/>Just as I am You pull me in<br/>And I know I need You now</lines>
+    </verse>
+  </lyrics>
+</song>

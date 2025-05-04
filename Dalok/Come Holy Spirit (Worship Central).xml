@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:42">
+  <properties>
+    <titles>
+      <title>Come Holy Spirit</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Worship Central</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come Holy Spirit, move among us<br/>Come Holy Spirit<br/>Flow Living Water, flow within us<br/>Flow Living Water</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Your Love is alive, <br/>it's breaking the darkness<br/>It's bringing the Light<br/>to soften the heart of stone<br/><br/>Your Love is alive<br/>and breaking the darkness<br/>It's winning the fight<br/>and bringing the orphan home</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your love,<br/>it's bringing the light.<br/>Your love,<br/>It's winning the fight</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come Holy Spirit, move among us<br/>Come Holy Spirit<br/>O grace divine,  burn within us<br/>Come  Holy Fire</lines>
+    </verse>
+  </lyrics>
+</song>

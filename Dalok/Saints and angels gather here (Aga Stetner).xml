@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Saints and angels gather here</title>
+    </titles>
+    <authors>
+      <author>Aga Stetner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Saints and angels gather here<br/>They are coming to this place<br/>Heaven opens as we sing<br/>and the glory's coming down</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Holy is the Lamb, Holy is the Lamb<br/>The angels sing<br/><br/>Blessing and honour and glory to You oh God<br/>to You oh God</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy Holy<br/>Angels sing to the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

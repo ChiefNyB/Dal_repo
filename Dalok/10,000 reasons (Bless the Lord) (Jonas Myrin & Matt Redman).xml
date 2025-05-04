@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:31">
+  <properties>
+    <titles>
+      <title>10,000 reasons (Bless the Lord)</title>
+    </titles>
+    <authors>
+      <author>Jonas Myrin &amp; Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless the Lord, Oh my soul,<br/>Oh my soul,<br/>Worship His holy name.<br/>Sing like never before,<br/>Oh my soul<br/>I'll worship Your holy name.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sun comes up, it's a new day dawning;<br/>It's time to sing Your song again.<br/>Whatever may pass, and whatever lies before me,<br/>Let me be singing when the evening comes.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're rich in love, and You're slow to anger.<br/>Your name is great, and Your heart is kind.<br/>For all Your goodness, I will keep on singing;<br/>Ten thousand reasons for my heart to find.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>And on that day when my strength is failing,<br/>The end draws near, and my time has come;<br/>Still my soul will sing Your praise unending:<br/>Ten thousand years and then forevermore!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

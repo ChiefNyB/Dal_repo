@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:17">
+  <properties>
+    <titles>
+      <title>What a friend I've found</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a friend I've found<br/>Closer than a brother<br/>I have felt your touch<br/>More intimate than lovers<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus<br/>Jesus, friend forever<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>What a hope I've found<br/>More faithful than a mother<br/>It would break my heart<br/>To ever lose each other<br/></lines>
+    </verse>
+  </lyrics>
+</song>

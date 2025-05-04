@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Still Believe</title>
+      <title>Jesus Culture</title>
+    </titles>
+    <authors>
+      <author type="music">Kim Walker Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Your blood makes the deaf to hear right now<br/>Your blood takes away the course right now<br/>Your blood heals every disease right now<br/>Your blood sets the addict free right now</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Your blood mends the broken hearts right now<br/>Your blood compels me to forgive right now<br/>Your blood transforms my mind right now<br/>Your blood brings the dead to life right now</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I still believe<br/>You re the same yesterday, today and forever<br/>And I still believe<br/>Your blood is sufficient for me</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are the higher power<br/>Darkness can not stand<br/>No longer bound to sin<br/>I am free</lines>
+    </verse>
+  </lyrics>
+</song>

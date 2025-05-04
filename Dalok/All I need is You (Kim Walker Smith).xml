@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>All I need is You</title>
+    </titles>
+    <authors>
+      <author>Kim Walker Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I left my fear by the side of the road<br/>Hear you speak you won't let go<br/>Fall to my knees as I lift my hands to pray<br/>Got every reason to be here again<br/>Father's heart that draws me in<br/>And my eyes want to see is a glimpse of you</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>All I need is You<br/>All I need is You lord, is you Lord<br/><br/>All I need is You<br/>All I need is You lord, is you Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>One more day and it's not the same<br/>The spirit that make my heart to sing<br/>Drawn to the voice of my Saviour once again<br/>Would my soul be without your Son<br/>Gave his life to save the earth<br/>Rest in the thought that You're watching over me</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>All I need is You<br/>All I need is You lord, is you Lord<br/><br/>All I need is You<br/>All I need is You lord, is you Lord</lines>
+    </verse>
+    <verse name="c1">
+      <lines>All I need is You<br/>All I need is You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You hold the universe<br/>You hold everyone on earth</lines>
+    </verse>
+  </lyrics>
+</song>

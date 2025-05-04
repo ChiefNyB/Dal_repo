@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Wide as the sky</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hands up hearts open wide as the sky<br/>We lift You high we lift You high<br/>Hands up hearts open wide as we cry<br/>God we lift Your name high<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let all the other names fade away<br/>Let all the other names fade away<br/>Until there's only You<br/>Let all the other names fade away<br/>Jesus take Your place<br/>Jesus take Your place<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our God<br/>We lift You high we lift You high<br/>Hands up God we lift Your name high<br/><chord name="x4"/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

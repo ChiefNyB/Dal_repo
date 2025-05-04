@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Living for your Glory</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What good is it to gain the whole world, but lose your soul?<br/>What good is it to make a sweet sound, but remain proud?<br/>In view of God's mercy, I offer my all<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And take my life, let it be everything, all of me<br/>Here I am, use me for Your glory<br/>In everything I say and do, let my life honor You<br/>Here I am living for Your glory<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>The road I'm on that leads nowhere without You<br/>And the life I live that finds meaning and surrender<br/>In view of God's mercy, I offer my all<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seeking first the Kingdom<br/>Seeking first the Kingdom of my Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

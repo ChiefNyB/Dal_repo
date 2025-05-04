@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>Then sings my soul, how great thou art</title>
+    </titles>
+    <authors>
+      <author>Cece Winnans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, my God, when I in awesome wonder<br/>Consider all the worlds Thy Hands have made;<br/>I see the stars, I hear the rolling thunder,<br/>Thy power throughout the universe displayed<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art.<br/>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I think of God, His Son not sparing;<br/>Sent Him to die, I scarce can take it in;<br/>That on the Cross, my burden gladly bearing,<br/>He bled and died to take away my sin.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art.<br/>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art!<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>When Christ shall come with shout of acclamation<br/>And lead me home, what joy shall fill my heart!<br/>Then I shall bow with humble adoration,<br/>And then proclaim, "My God, how great Thou art!"<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art.<br/>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, how great Thou art!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

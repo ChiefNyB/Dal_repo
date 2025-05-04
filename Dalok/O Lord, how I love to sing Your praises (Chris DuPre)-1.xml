@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:03">
+  <properties>
+    <titles>
+      <title>O Lord, how I love to sing Your praises</title>
+    </titles>
+    <authors>
+      <author>Chris DuPre</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, how I love to sing Your praises.<br/>O Lord, how I love to dance for You.<br/>O Lord, You have captured my affection,<br/>Forever I will sing of Your love,<br/>Forever I will bring to You my life,<br/>Forever I will worship You.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when I think of what You've done<br/>it makes me shout for joy.<br/>And when I think of what's to come,<br/>Living forever in Your presence,<br/>Face to face with my magnificent obsession,<br/>Forever, forever I will be with You.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, la, la, la ...<br/>Oh, la, la, la ...<br/>Oh, la, la, la ...<br/>Forever, forever I will be with You.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

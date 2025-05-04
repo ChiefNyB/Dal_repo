@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Far above all other loves</title>
+    </titles>
+    <authors>
+      <author>David Fellingham</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Far above all other loves,<br/>Far beyond all other joys,<br/>Heavens blessings poured on me,<br/>By the Holy Spirit' power.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love's compelling power<br/>Draws my heart into Yours;<br/>Jesus, how I love You,<br/>You're my friend and my Lord.<br/>You have died and risen<br/>So what else can I say?<br/>How I love You Lord,<br/>Love You, Lord.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. All ambition now has gone,<br/>Pleasing You my only goal;<br/>Motivated by Your grace,<br/>Living for eternity.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Looking with the eye of faith<br/>For the day of Your return;<br/>In that day I want to stand<br/>Unashamed before Your throne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

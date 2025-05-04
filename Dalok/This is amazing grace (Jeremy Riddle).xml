@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>This is amazing grace</title>
+    </titles>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who breaks the power of sin and darkness<br/>Whose love is mighty and so much stronger<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who shakes the whole earth with holy thunder<br/>And leaves us breathless in awe and wonder<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is amazing grace<br/>This is unfailing love<br/>That You would take my place<br/>That You would bear my cross</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You would  lay down Your life<br/>That I would be set free<br/>Oh, Jesus, I sing for<br/>All that You've done for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who brings our chaos back into order<br/>Who makes the orphan a son and daughter<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who rules the nations with truth and justice<br/>Shines like the sun in all of its brilliance<br/>The King of Glory, the King above all kings</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Worthy is the Lamb who was slain<br/>Worthy is the King who conquered the grave</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Worthy is the Lamb who was slain<br/>Worthy, worthy, worthy</lines>
+    </verse>
+  </lyrics>
+</song>

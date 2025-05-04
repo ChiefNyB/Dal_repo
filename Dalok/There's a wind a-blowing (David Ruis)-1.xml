@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>There's a wind a-blowing</title>
+    </titles>
+    <authors>
+      <author>David Ruis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a wind a-blowing, all across the land<br/>A fragrant breeze from Heaven<br/>Blowing once again.<br/>Don't know where it comes from,<br/>Don't know where it goes,<br/>But let it blow over me<br/>Oh, sweet wind, come and blow over me.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a rain a-pouring, showers from above<br/>Mercy drops are coming<br/>Mercy drops of love.<br/>Turn your face to heaven,<br/>Let the water pou,r<br/>Well, let it pour over me<br/>Oh, sweet rain, come and pour over me.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a fire a-burning, falling from the sky;<br/>Awesome tongues of fire,<br/>Consuming you and I.<br/>Can you feel it burning<br/>Burn the sacrifice?<br/>Well, let it burn over me<br/>Oh, sweet fire, come and burn over me.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh lift your voice<br/>Call for the wind, call for the rain, call for the fire<br/>We say we're keen Lord...<br/>Come and pour, oh Lord.<br/>Do it again and again and again and again and again, oh Lord<br/>Oh, sweet fire, come and burn over me<br/>Oh, sweet rain, come and pour over me<br/>Oh, sweet wind, come and blow over me<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let it blow over, let it blow over, let it blow over...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

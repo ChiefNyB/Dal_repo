@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Lord of creation</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of creation, to you be all praise!<br/>Most mighty your working, most wondrous your ways!<br/>Your glory and power are beyond us to tell<br/>and yet in the heart of the humble you dwell.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of all power, I give you my will,<br/>in joyful obedience your tasks to fulfil.<br/>Your bondage is freedom; your service is song;<br/>and, held in your keeping, my weakness is strong.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord of all wisdom, I give you my mind`<br/>Truth that surpasses our knowledge to find.<br/>What eye has not seen and what ear never heard<br/>Is taught by your Spirit and shines from your Word.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord of all bounty, I give you my heart<br/>I praise and adore you for all you impart<br/>Your love to inflame me, your council to guide<br/>Your presence to shield me, whatever betide<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord of all being I give you my all<br/>If I should disown you, I'd stumble and fall<br/>But sworn in your service your word I'll obey<br/>And walk in your freedom to the end of the way<br/></lines>
+    </verse>
+  </lyrics>
+</song>

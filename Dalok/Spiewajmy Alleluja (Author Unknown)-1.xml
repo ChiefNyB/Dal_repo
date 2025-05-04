@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:11">
+  <properties>
+    <titles>
+      <title>Spiewajmy Alleluja</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bo godzien jest nasz Bóg,<br/>Który wszystko stworzył,<br/>By oddać Jemu cześć,<br/>Wywyższać Go!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śpiewajmy, Alleluja Barankowi!<br/>Alleluja, Królowi królow!<br/>Alleluja naszemu Bogu,<br/>Alleluja, O-o-o-o-o-o!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wspaniałe I wielkie są<br/>Dzieła Twoje Panie!<br/>Chce wszystkim glosić dziś, że to mój Bog!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bo któż jest jak nasz Bóg,<br/>Wielki i Wspaniały!<br/>Więc powstań, by wielbić Go<br/>I wznieś swój głos!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

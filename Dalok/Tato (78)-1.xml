@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>Tato</title>
+    </titles>
+    <authors>
+      <author>78</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tato, wołam Ciebie   <br/>Tato, bo jestem dzieckiem Twym,<br/>Chcę wciąż przy boku Twoim być.<br/>Tyś moim Tatą.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ref.: Tato, Tato,<br/>jestem<br/>dzieckiem Twym,<br/>Tato, święty Tato,<br/>Tyś tatą mym.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tato, kocham Ciebie, Tato,<br/>Śpiewam Tobie pieśń,<br/>Bo Ty tak bardzo kochasz mnie.<br/>Tyś moim Tatą.<br/>Tato, Tato...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

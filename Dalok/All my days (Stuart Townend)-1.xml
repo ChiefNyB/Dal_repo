@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>All my days</title>
+    </titles>
+    <authors>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Al my days I wil sing this song of gladnes,<br/>Give my praise to the Fountain of delights;<br/>For in my helplessness You heard my cry,<br/>And waves of mercy poured down on my life.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. I will trust in the cross of my Redeemer,<br/>I will sing of the blood that never fails;<br/>Of sins forgiven, of conscience cleansed,<br/>Of death defeated and life without end.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Beautiful Saviour, Wonderful Counsellor,<br/>Clothed in majesty, Lord of history,<br/>You're the Way, the Truth, the Life.<br/>Star of the Morning, glorious in holiness,<br/>You're the Risen One, heaven's Champion,<br/>And You reign, You reign over all!<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. I long to be where the praise is never-ending,<br/>Yearn to dwell where the glory never fades;<br/>Where countless worshippers will share one song,<br/>And cries of 'worthy' will honour the Lamb!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

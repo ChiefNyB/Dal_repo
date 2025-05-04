@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:18">
+  <properties>
+    <titles>
+      <title>Worthy is Your name</title>
+    </titles>
+    <authors>
+      <author>Elevation Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Worthy is Your name, Jesus<br/>You deserve the praise<br/>Worthy is Your name<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>It was my cross You bore<br/>So I could live in the freedom You died for<br/>And now my life is Yours<br/>And I will sing of Your goodness forevermore</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Be exalted now in the heavens<br/>As Your glory fills this place<br/>You alone deserve our praise<br/>You're the name above all names</lines>
+    </verse>
+  </lyrics>
+</song>

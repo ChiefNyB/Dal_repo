@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Seas of Crimson</title>
+    </titles>
+    <authors>
+      <author>Bethel Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For every curse, you're the cure<br/>For every sickness, you're the healer<br/>For every storm, you're the calm<br/>For all that's lost, oh, what a savior<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>On that cross of calvary<br/>Every burden has been defeated<br/>Every wretched heart redeemed<br/>You drown our sins in seas of crimson<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah death is beaten<br/>Christ has risen from the grave<br/>Hallelujah it is finished<br/>All to you the highest praise<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>On that day of utmost glory<br/>All of darkness cannot tarry<br/>Every shackle will come undone<br/>My solid rock thine is the kingdom<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Where there was sin your love rushed in<br/>Where sin runs deep your grace runs deeper<br/>For all enslaved the ransom paid<br/>Light of the world, yours is the power<br/></lines>
+    </verse>
+  </lyrics>
+</song>

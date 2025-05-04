@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:07">
+  <properties>
+    <titles>
+      <title>Psalm 17 response</title>
+    </titles>
+    <authors>
+      <author>David</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my anguish I called to the Lord, and he heard my voice</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:38">
+  <properties>
+    <titles>
+      <title>Boze twa laska</title>
+    </titles>
+    <authors>
+      <author>67</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boże Twa łaska  nad nami jest,<br/>Twoja miłość przychodzi wciąż,<br/>Działasz w mocy pośród nas,<br/>Przenikasz serca, gładzisz grzech.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>My chcemy więcej Ciebie,<br/>więcej łaski Twej,<br/>Pragniemy, więcej mocy,<br/>więcej miłości Twojej.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

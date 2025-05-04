@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:56">
+  <properties>
+    <titles>
+      <title>Jesus Messiah</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He became sin, who knew no sin<br/>That we might become His righteousness<br/>He humbled himself and carried the cross<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love so amazing, love so amazing<br/>Jesus Messiah, name above all names<br/>Blessed redeemer, Emmanuel<br/>The rescue for sinners, the ransom from Heaven<br/>Jesus Messiah, Lord of all<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>His body the bread, his blood the wine<br/>Broken and poured out all for love<br/>The whole earth trembled, and the veil was torn<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Love so amazing, love so amazing, yeah<br/>Jesus Messiah, name above all names<br/>Blessed redeemer, Emmanuel<br/>The rescue for sinners, the ransom from Heaven<br/>Jesus Messiah, Lord of all<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>All I hope is in You, all I hope is in You<br/>All the glory to You, God, the light of the world<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus Messiah, name above all names<br/>Blessed redeemer, Emmanuel<br/>The rescue for sinners, the ransom from Heaven<br/>Jesus Messiah, Lord of all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

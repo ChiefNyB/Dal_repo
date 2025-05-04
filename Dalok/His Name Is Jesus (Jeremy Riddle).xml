@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>His Name Is Jesus</title>
+    </titles>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's only One strong enough to save<br/>There's only One who overcame the grave<br/>There's only One who's worthy of all praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And in His hands, the keys of death and hell<br/>And in his name, a power that can heal<br/>And by His blood, our sins are washed away</lines>
+    </verse>
+    <verse name="c1">
+      <lines>His name is Jesus<br/>His name is Jesus<br/>His name is Wonderful, Counselor, Almighty God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All nations kneel <br/>And glorify the Lord<br/>Let all the earth tremble for He comes<br/>And He will judge the living and the dead</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Son of Man coming on the clouds<br/>With trumpet sound and every knee will bow<br/>And tongue confess the Name above all names</lines>
+    </verse>
+    <verse name="b1">
+      <lines>He is Counselor <br/>He is Mighty God<br/>He's the Prince of Peace<br/>The Omnipotent<br/>He is Wonderful<br/>He is Radiant<br/>The Almighty God<br/></lines>
+    </verse>
+    <verse name="b2">
+      <lines>We worship You<br/>We gives our lives to You<br/>Lord, we sing out<br/>Yes, we cry out</lines>
+    </verse>
+  </lyrics>
+</song>

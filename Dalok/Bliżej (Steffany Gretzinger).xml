@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:38">
+  <properties>
+    <titles>
+      <title>Bliżej</title>
+    </titles>
+    <authors>
+      <author>Steffany Gretzinger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Twa miłość znalazła mnie i skradła me serce, skradła me serce<br/>Teraz pragnę już być z Tobą na zawsze, z Tobą na zawsze.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Więc wez mnie trochę bliżej zabierz jeszcze głębiej<br/>Pragnę poznać cię poznać serce Twe.<br/>Bo Twa miłość jest najsłodsza nic jej nie przewyższy<br/>pragnę poznać Cię, poznać serce Twe.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>OOO OOO wielka jest Twa miłość do mnie<br/>ooo ooo wielka jest Twa miłość.</lines>
+    </verse>
+  </lyrics>
+</song>

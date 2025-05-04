@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:41">
+  <properties>
+    <titles>
+      <title>Come and fill this temple</title>
+    </titles>
+    <authors>
+      <author>Andrew Thiesin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come O come, and fill this temple,<br/>Fill this temple, with the Glory of the Lord! (x2)<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a place for unity,<br/>There's a place for fellowship,<br/>There's a place where God's people come together,<br/>Where the Spirit of the Lord descends,<br/>And binds our hearts as one,<br/>And we're filled afresh with Holy power.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>So we wait with open hearts,<br/>We're hungry for Your touch,<br/>And we worship now the Name of Jesus,<br/>Forgive us Lord for grieving You,<br/>And warm our hearts anew,<br/>With the fire and zeal of pentecost.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

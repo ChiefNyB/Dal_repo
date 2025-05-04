@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Joy To the World</title>
+    </titles>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Joy to the world! the Lord has come;<br/>Let earth receive her King.<br/>Let every heart prepare Him room,<br/>And heaven and nature sing,<br/>And heaven and nature sing,<br/>And heaven, and heaven and nature sing!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy to the earth! the Saviour reigns;<br/>Your sweetest songs employ.<br/>While fields and streams and hills and plains<br/>Repeat the sounding joy,<br/>Repeat the sounding joy,<br/>Repeat, repeat the sounding joy!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He rules the world with truth and grace,<br/>And makes the nations prove<br/>The glories of His righteousness,<br/>The wonders of His love,<br/>The wonders of His love,<br/>The wonders, the wonders of His love.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Joy to the world! the Lord has come;<br/>Let earth receive her King.<br/>Let every heart prepare Him room,<br/>And heaven and nature sing,<br/>And heaven and nature sing,<br/>And heaven, and heaven and nature sing!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:44">
+  <properties>
+    <titles>
+      <title>Deeper Saturday Gospel ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>People were bringing children to Jesus that he might touch them,<br/>but the disciples rebuked them.<br/>When Jesus saw this he became indignant and said to them,<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the children come to me; do not prevent them,<br/>for the Kingdom of God belongs to such as these.<br/>Amen, I say to you,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>whoever does not accept the Kingdom of God like a child<br/>will not enter it.<br/>Then he embraced the children and blessed them,<br/>placing his hands on them.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

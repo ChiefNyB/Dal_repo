@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:55">
+  <properties>
+    <titles>
+      <title>I’m trading my sorrows</title>
+    </titles>
+    <authors>
+      <author>Darrell Evans</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm trading my sorrow<br/>I'm trading my shame<br/>I'm laying them down<br/>For the joy of the Lord.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm trading my sickness<br/>I'm trading my pain<br/>I'm laying them down<br/>For the joy of the Lord<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I say<br/>“Yes Lord, yes Lord,<br/>Yes, Yes Lord x3<br/>Amen<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm pressed but not crushed,<br/>Persecuted not abandoned.<br/>Struck down but not destroyed.<br/>I'm blessed beyond the curse<br/>For his promise will endure<br/>And His joy's gonna be my strength<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Though the sorrow may last for the night<br/>His joy comes with the morning<br/></lines>
+    </verse>
+  </lyrics>
+</song>

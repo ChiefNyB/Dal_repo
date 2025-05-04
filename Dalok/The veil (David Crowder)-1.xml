@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:14">
+  <properties>
+    <titles>
+      <title>The veil</title>
+    </titles>
+    <authors>
+      <author>David Crowder</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is a love<br/>Deep in the soul<br/>O when you love<br/>O when you love<br/>The veil is torn<br/>Mystery pours<br/>Down from above<br/>Down from above<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And yet we are under benediction<br/>So there is grace<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, we rejoice<br/>What a Savior<br/>What a King<br/>Hallelujah, lift your voice<br/>To our Savior<br/>To our King<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>O please do stay<br/>Where you remain<br/>Do not fall<br/>Do not fall<br/>Something greater<br/>Is on the way<br/>Just hang on<br/>Try to hang on<br/>Try to hang on<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>The love of angels<br/>Becomes a love anew<br/>O heavenly light<br/>Takes on a fair skin<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>What a Savior<br/>What a King<br/></lines>
+    </verse>
+  </lyrics>
+</song>

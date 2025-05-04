@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:57">
+  <properties>
+    <titles>
+      <title>Jesus we celebrate Your victory</title>
+    </titles>
+    <authors>
+      <author>John Gibson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus we celebrate Your victory<br/>Jesus we revel in Your love<br/>Jesus we rejoice You've set us free<br/>Jesus Your death has brought us life<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>It was for freedom that Christ has set us free<br/>No longer to be subject to a yoke of slavery<br/>So we're rejoicing in God's victory<br/>Our hearts responding to His love<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>His Spirit in us releases us from fear<br/>The way to Him is open<br/>With boldness we draw near<br/>And in His presence our problems disappear<br/>Our hearts responding to His love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

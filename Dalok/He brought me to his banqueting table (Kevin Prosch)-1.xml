@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>He brought me to his banqueting table</title>
+    </titles>
+    <authors>
+      <author>Kevin Prosch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. (Men) He brought me to his banqueting table<br/>(Ladies) He brought me to his banqueting table<br/>(repeat)<br/>(all) And His banner, over me, is love<br/>2. (Men) I am my beloved's and he is mine<br/>(Ladies) I am my beloved's and he is mine<br/>(repeat)<br/>(all) And His banner, over me, is love<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can feel the love of God in this place<br/>We believe your goodness<br/>We receive your grace<br/>We delight ourselves at your table oh God<br/>You do all things well, just look at our lives<br/>His banner over me is love<br/>Yes his banner over me is love<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>His banner over me<br/>His banner over you<br/>His banner over us, it is love, love, love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

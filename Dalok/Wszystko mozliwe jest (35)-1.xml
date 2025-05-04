@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:19">
+  <properties>
+    <titles>
+      <title>Wszystko mozliwe jest</title>
+    </titles>
+    <authors>
+      <author>35</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystko możliwe jest /x3<br/>z Bogiem wszystko możliwe jest.<br/><br/>To żaden sekret że Bóg dobry jest,<br/>Co zrobił dla mnie dla ciebie zrobi też.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nie wahaj się, nie lękaj się,<br/>Zaufaj Bogu nie zawiedzie cię.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wszystko możliwe jest<br/>z Bogiem wszystko możliwe jest.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bo gdy On mówi staje się to,<br/>Przez Jezusa moc.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Wszystko możliwe jest<br/>z Bogiem wszystko możliwe jest.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

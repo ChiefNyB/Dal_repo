@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>Great is the Lord</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord and greatly to be praised,<br/>In the city of our God,<br/>In the mountain of His holiness.<br/>Beautiful for situation, the joy of the whole earth</lines>
+    </verse>
+    <verse name="c1">
+      <lines>One body, one Spirit, one faith, one Lord,<br/>One people, one nation, praise ye the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Is Mount Zion on the sides of the north,<br/>The city of the great King,<br/>Is Mount Zion on the sides of the north,<br/>The city of the great King.</lines>
+    </verse>
+  </lyrics>
+</song>

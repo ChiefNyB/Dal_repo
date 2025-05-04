@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Holy and Anointed One</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Jesus<br/>Holy and anointed One<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Jesus<br/>Risen and exalted One<br/>Jesus<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your name is like honey on my lips<br/>Your spirit like water to my soul<br/>Your word is a lamp unto my feet<br/>Jesus I love you, I love you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

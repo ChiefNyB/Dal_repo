@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Let it rain</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let it rain, let it rain.<br/>Open the flood gates of Heaven.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I feel The rain of your Love,<br/>I feel The wind of your Spirit .<br/>And now the heartbeat of heaven,<br/>Let us hear (x2)<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let it rain,<br/>Let it rain.<br/>Open the flood gates of heaven,<br/>(repeat)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

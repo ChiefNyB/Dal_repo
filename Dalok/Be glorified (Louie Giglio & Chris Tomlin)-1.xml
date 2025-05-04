@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:35">
+  <properties>
+    <titles>
+      <title>Be glorified</title>
+    </titles>
+    <authors>
+      <author>Louie Giglio &amp; Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love has captured me<br/>Your grace has set me free<br/>Your life the air I breathe<br/>Be glorified in me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You set my feet to dancing<br/>You set my heart on fire<br/>In the presence of a thousand kings<br/>you are my one desire<br/>I stand before you now<br/>With trembling hands lifted high<br/>Be glorified<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be glorified in me<br/>Be glorified in me<br/>Be glorified in me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

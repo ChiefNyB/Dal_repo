@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>Met By Love - United Pursuit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is none<br/>None like you<br/>Who can know my heart like you do<br/>For all creation sings your song<br/>I will join with them declaring your glory<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can run straight into your arms unafraid<br/>'Cause every time we need you we’re met by love<br/>And we can lift our hands to heaven full of faith<br/>'Cause every time we worship we see your face<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is no one like you Lord, you Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

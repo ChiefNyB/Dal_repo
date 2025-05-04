@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:59">
+  <properties>
+    <titles>
+      <title>Let's play for Adonai</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let's play for Adonai, for Adonai<br/>Let's play for Adonai, for Adonai<br/>Let's play for Adonai, for Adonai<br/>On the lyre and on the harp, the tambourine<br/>Let's play for Adonai.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let's sing ....<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let's dance ....<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lai, Lai, ....<br/></lines>
+    </verse>
+  </lyrics>
+</song>

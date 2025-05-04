@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Strings</title>
+    </titles>
+    <authors>
+      <author>Misty Edwards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to play the strings of Your heart God<br/>Come play the strings of mine<br/>I want to sing straight to Your heart God<br/>Come sing straight to mine<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord You have my heart(3x)<br/>And I am searching for yours<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord You have my thoughts(3x)<br/>And I am searching for Yours<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord You have my song(3x)<br/>And I am searching for Yours<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm so in love with You<br/>I'm so in love with You<br/>I'm so in love with You Jesus<br/></lines>
+    </verse>
+  </lyrics>
+</song>

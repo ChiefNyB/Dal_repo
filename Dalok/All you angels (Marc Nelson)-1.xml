@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:33">
+  <properties>
+    <titles>
+      <title>All you angels</title>
+    </titles>
+    <authors>
+      <author>Marc Nelson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All the angels round His throne praise Him!<br/>All you people on earth below praise Him!<br/>Mountains high and oceans wide praise Him!<br/>Give Him praise, give Him praise<br/>Give Him praise from your hearts<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>All the angels round Your throne praise Him!<br/>.................................<br/>We give You praise, we give You praise<br/>Give You praise from our hearts<br/>- for He is God<br/></lines>
+    </verse>
+  </lyrics>
+</song>

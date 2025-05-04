@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Father Let Your Kingdom Come</title>
+      <title>The Lords Orayer</title>
+    </titles>
+    <authors>
+      <author>MATT MAHER</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>Father, let your kingdom come <br/>Father, let your will be done<br/>On Earth as in Heaven<br/>Right here in my heart<br/><br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Give us this day our daily bread<br/>Forgive us, forgive us<br/>As we forgive the ones that sin against us, forgive them<br/>And lead us naught into temptation<br/>But deliver us from the evil one<br/>Let your Kingdom come</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Its Yours, its Yours <br/>all Yours, all Yours<br/>The Kingdom, the power, the glory are Yours<br/>Its  Yours, its Yours<br/>All Yours, all Yours<br/>Forever and ever the Kingdom is Yours<br/></lines>
+    </verse>
+    <verse name="v1e">
+      <lines>On Earth as in heaven <br/>Right here in my heart</lines>
+    </verse>
+  </lyrics>
+</song>

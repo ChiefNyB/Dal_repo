@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:13">
+  <properties>
+    <titles>
+      <title>tear Down the walls</title>
+    </titles>
+    <authors>
+      <author>David and Nicolr Binion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and tear down the walls I've built up<br/>Every wall I've built up<br/>Every wall I've built up<br/>'Cause You deserve every piece of my heart.<br/>Every piece of my heart<br/>Every piece of my heart<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Over and over and over again<br/>I am bringing my heart to You with open hands<br/>Closer and closer You're drawing me in<br/>As the depths of my heart lay before You again<br/></lines>
+    </verse>
+  </lyrics>
+</song>

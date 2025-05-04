@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:44">
+  <properties>
+    <titles>
+      <title>Deeper Sunday Gospel ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The eleven disciples went to Galilee,<br/>to the mountain to which Jesus had ordered them.<br/>When they all saw him, they worshiped, but they doubted.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then Jesus approached and said to them,<br/>All power in heaven and on earth has been given to me.<br/>Go, therefore, and make disciples of all nations,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>baptizing them in the name of the Father,<br/>and of the Son, and of the Holy Spirit,<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>teaching them to observe all that I have commanded you.<br/>And behold, I am with you always, until the end of the age.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

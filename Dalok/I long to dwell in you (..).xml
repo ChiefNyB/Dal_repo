@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I long to dwell in you</title>
+    </titles>
+    <authors>
+      <author>..</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I long to dwell in You God<br/>And never leave Your presence<br/>Always fix my eyes in your face</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I long to feel Your closeness<br/>Oh Lord, You know my heart so well<br/>I need nothing more when You are here.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I worship you<br/>I exoult you<br/>Jesus enfold me in your glory</lines>
+    </verse>
+  </lyrics>
+</song>

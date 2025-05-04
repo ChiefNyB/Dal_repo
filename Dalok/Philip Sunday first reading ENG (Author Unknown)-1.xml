@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:06">
+  <properties>
+    <titles>
+      <title>Philip Sunday first reading ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The wicked say:<br/>Let us beset the just one, because he is obnoxious to us;<br/>he sets himself against our doings,<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>reproaches us for transgressions of the law<br/>and charges us with violations of our training.<br/>Let us see whether his words be true;<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>let us find out what will happen to him.<br/>For if the just one be the son of God, God will defend him<br/>and deliver him from the hand of his foes.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>With revilement and torture let us put the just one to the test<br/>that we may have proof of his gentleness<br/>and try his patience.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let us condemn him to a shameful death;<br/>for according to his own words, God will take care of him.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:02">
+  <properties>
+    <titles>
+      <title>None but Jesus</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the quiet, in the stillness<br/>I know that you are God<br/>In the secret of your presence<br/>I know there I am restored<br/>When you call I won't refuse<br/>Each new day, again I'll choose<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no one else for me<br/>None but Jesus<br/>Crucified to set me free<br/>Now I live to bring Him praise<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the chaos, in confusion<br/>I know you're sovereign still<br/>In the moment of my weakness<br/>You give me grace to do your will<br/>When you call I won't delay<br/>This my song through all my days<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is no one else for me<br/>None but Jesus<br/>Crucified to set me free<br/>Now I live to bring Him praise<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I am yours and you are mine...<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>All my delight is in you Lord<br/>All of my hope<br/>All of my strength<br/>All my delight is in you Lord<br/>Forevermore<br/></lines>
+    </verse>
+  </lyrics>
+</song>

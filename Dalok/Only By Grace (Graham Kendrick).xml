@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:04">
+  <properties>
+    <titles>
+      <title>Only By Grace</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only by grace can we enter<br/>Only by grace can we stand<br/>Not by our human endeavour<br/>But by the blood of the Lamb<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into Your presence You call us<br/>You call us to come<br/>Into Your presence You draw us<br/>And now by Your grace we come<br/>Now by Your grace we come<br/></lines>
+    </verse>
+  </lyrics>
+</song>

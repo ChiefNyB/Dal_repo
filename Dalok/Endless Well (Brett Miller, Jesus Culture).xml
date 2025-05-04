@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:46">
+  <properties>
+    <titles>
+      <title>Endless Well</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+      <author>Brett Miller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I won't leave thirsty<br/>This land I'm living in belongs to You<br/>I won't leave empty<br/>My weakness makes a place for You to move</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I drink from an endless well<br/>I drink from an endless well<br/>I drink from an endless well<br/>You never run dry<br/>So, neither will I</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You never left me<br/>Your faithfulness has stood the test of time<br/>You're always healing<br/>You meet every need. So, let my faith arise</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Come refill, we are Yours<br/>Every lack, You restore<br/>Heaven is an open door</lines>
+    </verse>
+  </lyrics>
+</song>

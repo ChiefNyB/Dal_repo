@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:43">
+  <properties>
+    <titles>
+      <title>counting every blessing</title>
+    </titles>
+    <authors>
+      <author>rend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was blind, now I'm seeing in color<br/>I was dead, now I'm living forever<br/>I had failed, but you were my redeemer<br/>I've been blessed beyond all measure<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was lost, now I'm found by the father<br/>I've been changed from a ruin to treasure<br/>I've been given a hope and a future<br/>I've been blessed beyond all measure<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am counting every blessing, counting every blessing<br/>Letting go and trusting when I cannot see<br/>I am counting every blessing, counting every blessing<br/>Surely every season you are good to me<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, you are good to me<br/>Oh, you are good to me<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You were there in the valley of shadows<br/>You were there in the depth of my sorrows<br/>You're my strength, my hope for tomorrow<br/>I've been blessed beyond all measure<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>I am counting every blessing, counting every blessing<br/>Letting…<br/></lines>
+    </verse>
+  </lyrics>
+</song>

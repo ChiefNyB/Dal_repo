@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:46">
+  <properties>
+    <titles>
+      <title>Ev’ry Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ev’ry Day<br/>I see more of Your beauty<br/>Ev’ry day,<br/>I know more of my frailty, Lord<br/>And I can only hope<br/>That I’ll be changed<br/>Even as I look upon your face.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the eyes of my heart,<br/>They are on You forever<br/>They are on You forever<br/>Yes the eyes of my heart,<br/>They are on You forever<br/>They are on You forever<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ev’ry Day<br/>I see more of Your greatness<br/>Ev’ry day<br/>I know more of my weakness Lord<br/>And I can only hope<br/>That I’ll be changed<br/>Even as I look upon Your face<br/></lines>
+    </verse>
+  </lyrics>
+</song>

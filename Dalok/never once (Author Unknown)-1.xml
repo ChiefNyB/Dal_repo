@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:02">
+  <properties>
+    <titles>
+      <title>never once</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Standing on this mountaintop<br/>Looking just how far we've come<br/>Knowing that for every step<br/>You were with us<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kneeling on this battle ground<br/>Seeing just how much You've done<br/>Knowing every victory<br/>Was Your power in us<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Scars and struggles on the way<br/>But with joy our hearts can say<br/>Yes, our hearts can say<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Never once did we ever walk alone<br/>Never once did You leave us on our own<br/>You are faithful, God, You are faithful<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Scars and struggles on the way<br/>But with joy our hearts can say<br/>Never once did we ever walk alone<br/>Carried by Your constant grace<br/>Held within Your perfect peace<br/>Never once, no, we never walk alone<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Every step we are breathing in Your grace<br/>Evermore we'll be breathing out Your praise<br/>You are faithful, God, You are faithful<br/>You are faithful, God, You are faithful<br/></lines>
+    </verse>
+  </lyrics>
+</song>

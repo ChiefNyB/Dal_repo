@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:44">
+  <properties>
+    <titles>
+      <title>Deeper Sunday 2nd reading ENG</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brothers and sisters:<br/>For those who are led by the Spirit of God are sons of God.<br/>For you did not receive a spirit of slavery to fall back into fear,<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>but you received a Spirit of adoption,<br/>through whom we cry, Abba, Father!<br/>The Spirit himself bears witness with our spirit<br/>that we are children of God,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>and if children, then heirs,<br/>heirs of God and joint heirs with Christ,<br/>if only we suffer with him<br/>so that we may also be glorified with him.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

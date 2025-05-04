@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>Mother of mine</title>
+    </titles>
+    <authors>
+      <author>Javier Elderfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mother of mine, sweet virgin pure<br/>Lead me to the cross of Jesus<br/>Show now to me how He loves me<br/>To have paid my debts, oh so freely<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me to love Him with all my heart<br/>To serve and obey Him all the days of my life<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mother of mine, please pray for me<br/>So that I may be the light of Jesus<br/>I place in your care all my despair<br/>And my fears that keep me from knowing Him<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mother of mine, Holy Queen<br/>Your beauty shows me your purity<br/>I want to be as pure as thee<br/>So that I may see the face of Jesus<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>Healer</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You hold my every moment<br/>You calm my raging seas<br/>You walk with my through fire<br/>And heal all my disease<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>I trust in You 2x<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe You're my Healer<br/>I believe You are all I need<br/>I believe You're my Portion<br/>I believe You're more than enough for me<br/>Jesus You're all I need<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing is impossible for You 3x<br/>You hold my world in Your hands.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

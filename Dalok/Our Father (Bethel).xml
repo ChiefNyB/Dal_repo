@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Our Father</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father in Heaven<br/>Hallowed be Your name<br/>Your Kingdom come quickly<br/>Your will be done the same<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>On Earth as it is in Heaven<br/>Let Heaven come to<br/>Earth as it is in Heaven<br/>Let Heaven come<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let Heaven come, let Heaven come<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yours is the Kingdom, Yours is the power<br/>Yours is the glory forever, amen<br/>Yours is the Kingdom, Yours is the power<br/>Yours is the glory forever amen<br/></lines>
+    </verse>
+  </lyrics>
+</song>

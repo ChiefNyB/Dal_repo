@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:09">
+  <properties>
+    <titles>
+      <title>Sails</title>
+    </titles>
+    <authors>
+      <author>Pat Barret</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Falling is easy, but staying in love is hard<br/>Hard to be honest and keep our heart open<br/>To be who we truly are<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Without the excuses, without the façade<br/>There's no pretending Here in Your love Oh, Lord<br/>set me free<br/>Oh, Lord set me free<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm finally seeing You were here all along<br/>Your love wasn't absent, no<br/>It doesn't come or go<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>The image I've had is starting to fail<br/>You're patient with me<br/>You're lifting the veil<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, Lord set me free<br/>Oh, Lord set me free<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>I let out the sails of my heart<br/>Here I am, here You are<br/>I let out the sails of my heart<br/>Here I am, here You are<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:21">
+  <properties>
+    <titles>
+      <title>Zawolajmy na czesc Pana</title>
+    </titles>
+    <authors>
+      <author>66</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zawołajmy na cześć Pana – Alleluja<br/>Pełnym głosem wyśpiewajmy chwały czas.<br/>W dłonie klaszczmy, wychwalajmy jego cuda<br/>Wielki Król i godzień chwały wybrał nas.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>On jest Bogiem, Jego miłość się nie zmienia<br/>On jest wierny dzisiaj Jego chwałę głoś<br/>Wykrzykujmy, niech usłyszy cała Ziemia<br/>Pieśń radości w swoim sercu ciągle noś.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dziś Jezusa chwalmy – umarł zamiast Ciebie<br/>On zmartwychwstał i pokonał wszelkie zło<br/>Już Cię zbawił,<br/>On z miłości oddał siebie<br/>Jesteś wolny dzisiaj razem chwalmy Go.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wybieramy nowe życie<br/>– Jemu chwała<br/>Ogłaszamy – Jezus naszym Panem jest<br/>Wyśpiewajmy niech usłyszy Ziemia cała<br/>Bóg zamienił kamień w sercu – w nową pieśń.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

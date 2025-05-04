@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:36">
+  <properties>
+    <titles>
+      <title>Because he lives</title>
+    </titles>
+    <authors>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in the son, I believe in the risen one<br/>I believe I overcome, by the power of his blood<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amen, Amen<br/>I'm alive, I'm alive because he lives<br/>Amen, Amen<br/>let my song join the one that never ends<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was dead in the grave,<br/>I was covered in sin and shame<br/>I heard mercy call my name,<br/>He rolled the stone away<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Because He lives I can face tomorrow<br/>Because He lives every fear is gone<br/>I know he holds my life my future in His hands<br/></lines>
+    </verse>
+  </lyrics>
+</song>

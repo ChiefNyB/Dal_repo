@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I need you more</title>
+    </titles>
+    <authors>
+      <author>Kim Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need you more, more than yesterday<br/>I need you more, more than words can say.<br/>I need you more, than ever before<br/>I need you, Lord, I need you, Lord.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than the air I breathe, more than the song I sing<br/>More than the next heartbeat, more than anything.<br/>And Lord, as this time goes by, I'll be by your side<br/>Cause I never want to go back to my old life.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need you more, more than yesterday<br/>I need you more, more than words can say.<br/>I need you more, than ever before<br/>I need you, Lord, I need you, Lord.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>We give you the highest praise,<br/>We give you the highest praise,<br/>We give you the highest praise<br/>We give you the highest praise,<br/>We give you the highest praise,<br/>We give you the highest praise<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need you more, more than yesterday<br/>I need you more, more than words can say.<br/>I need you more, than ever before<br/>I need you, Lord, I need you, Lord.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>More than the air I breathe, more than the song I sing<br/>More than the next heartbeat, more than anything.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

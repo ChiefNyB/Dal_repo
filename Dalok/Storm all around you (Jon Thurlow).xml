@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Storm all around you</title>
+    </titles>
+    <authors>
+      <author>Jon Thurlow</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know there are creatures all around You<br/>I know there are lightnings and thunderings<br/>I know there's a storm all around You<br/>Holy, Holy, Holy</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see seven lamps of fire burning and<br/>I see a sea of glass mingled with fire burning<br/>I see the Son of Man with eyes of fire burning<br/>Burning, burning, burning</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Oh-ooh-oooh-ooh, oh-ooh-oooh-ooh</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Halle', Halle-Hallelujah<br/>For the Lord God omnipotent reigns!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Everyone in the temple cries glory</lines>
+    </verse>
+  </lyrics>
+</song>

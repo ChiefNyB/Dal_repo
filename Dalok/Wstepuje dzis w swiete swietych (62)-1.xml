@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:19">
+  <properties>
+    <titles>
+      <title>Wstepuje dzis w swiete swietych</title>
+    </titles>
+    <authors>
+      <author>62</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wstępuję dziś w Święte Świętych<br/>Przez Krew Twoją Panie mój<br/>Przychodzę śpiewając pieśń chwały<br/>By szukać o Panie Cię.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dziś uwielbiam Cię! Uwielbiam Cię!<br/>Dziś Uwielbiam Cię! Uwielbiam Cię!<br/>Imię Twoje Święte! Święte! Panie mój!<br/>Imię Twoje Święte! Święte! Panie mój!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

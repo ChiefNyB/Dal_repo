@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>You give me Joy</title>
+    </titles>
+    <authors>
+      <author>VaShawn Mitchell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's beauty in my brokenness,<br/>I've got true love instead of pain<br/>There's freedom though you've captured me,<br/>I've got joy instead of mourning<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You give me joy<br/>Down deep in my soul <chord name="x3"/><br/>You give me joy<br/>Down deep in my soul <chord name="x3"/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I never been so free<br/>Caught in your love for me<br/>I never been more secure<br/>Knowing your heart, Lord<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You've never known me<br/>til you've known me filled with joy [ x2]<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>You give me joy<br/>Down deep in my soul <chord name="x3"/><br/>You give me joy<br/>Down deep in my soul <chord name="x3"/><br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>You've never seen me<br/>til you've seen me filled with joy [ x2]<br/></lines>
+    </verse>
+  </lyrics>
+</song>

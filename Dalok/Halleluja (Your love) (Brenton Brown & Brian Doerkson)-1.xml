@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>Halleluja (Your love)</title>
+    </titles>
+    <authors>
+      <author>Brenton Brown &amp; Brian Doerkson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is amazing<br/>Steady and unchanging<br/>Your love is a mountain<br/>Firm beneath my feet<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is a mystery<br/>How you gently lift me<br/>When I am surrounded<br/>Your love carries me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, hallelujah,<br/>hallelujah<br/>Your love makes me sing<br/>Hallelujah, hallelujah<br/>hallelujah<br/>Your love makes me sing<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is surprising<br/>I can feel it rising<br/>Oh the joy that's growing<br/>Deep inside of me<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Everytime I see you<br/>All your goodness shines through<br/>I can feel this God song<br/>Rising up in me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

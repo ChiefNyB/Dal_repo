@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>How great is our God</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The splendor of the King, clothed in majesty,<br/>Let all the earth rejoice, all the earth rejoice.<br/>He wraps Himself in light, and darkness tries to hide,<br/>And trembles at his voice, trembles at his voice.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>How great is our God, sing with me,<br/>How great is our God, all will see,<br/>How great, how great is our God.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Age to age He stands, and time is in His hands,<br/>Beginning and the end, beginning and the end.<br/>The Godhead, three in one: Father, Spirit, Son,<br/>The Lion and the Lamb, the Lion and the Lamb.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Name above all names,<br/>Worthy of all praise,<br/>My heart will sing<br/>How great is our God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

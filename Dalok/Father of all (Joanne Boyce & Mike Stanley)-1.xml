@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:47">
+  <properties>
+    <titles>
+      <title>Father of all</title>
+    </titles>
+    <authors>
+      <author>Joanne Boyce &amp; Mike Stanley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father of all,<br/>Lead us and guide us<br/>The light of your Word<br/>Shining within us<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Father, Father, Father hear our prayer<br/>Father, Father, Father hear our prayer<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father of Truth<br/>Heal and renew us<br/>Send angels of love<br/>To hold and protect us<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father of mine<br/>Knowing completely<br/>Each thought and dream<br/>Dwelling within me<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Father, Father, Father father me<br/>Father, Father, Father father me<br/>Father, Father, Father father our<br/>Prayer…<br/></lines>
+    </verse>
+  </lyrics>
+</song>

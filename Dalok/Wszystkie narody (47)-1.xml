@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:19">
+  <properties>
+    <titles>
+      <title>Wszystkie narody</title>
+    </titles>
+    <authors>
+      <author>47</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wszystkie narody klaskajcie w dłonie!<br/>Wykrzykujcie Bogu radosnym głosem,<br/>Bo Pan najwyższy jest Królem nad całą ziemią!<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Śpiewajcie - wszystkie narody!<br/>Śpiewajcie - radosnym głosem!  /2x<br/>Śpiewajcie  - Królowi!<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo Bóg króluje nad narodami,<br/>Bóg zasiada na Swym świętym tronie,<br/>Gdyż Bóg jest Królem całej ziemi,<br/>Więc hymn śpiewajcie, Śpiewajcie...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

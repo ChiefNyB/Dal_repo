@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:50">
+  <properties>
+    <titles>
+      <title>Hail Jesus You're My King</title>
+    </titles>
+    <authors>
+      <author>Joseph Vogels</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail Jesus You're my King (ladies repeat)<br/>Your life frees me to sing, (etc.)<br/>I will praise You all my days<br/>You're perfect in all Your ways<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hail Jesus You're my Lord<br/>I will obey Your Word<br/>I want to see Your kingdom come<br/>Not my will but Yours be done<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory, glory to the Lamb<br/>You take me into the land<br/>We will conquer in Your name<br/>And proclaim that Jesus reigns<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hail, hail, Lion of Judah<br/>How powerful You are<br/>Hail, hail, Lion of Judah<br/>How wonderful You are<br/>How wonderful You are<br/></lines>
+    </verse>
+  </lyrics>
+</song>

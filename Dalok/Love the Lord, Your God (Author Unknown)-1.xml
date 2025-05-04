@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:00">
+  <properties>
+    <titles>
+      <title>Love the Lord, Your God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love the Lord your God<br/>Love the Lord, Your God<br/>With all your heart, your soul and strength<br/>With all your heart, your soul and strength.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Receive the Holy Spirit<br/>Receive the Holy Spirit<br/>Of God<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love my Lord my God<br/>I love my Lord my God<br/>With all your heart, your soul and strength<br/>With all your heart, your soul and strength.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come Holy Spirit<br/>Come Holy Spirit<br/>Burn in me.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>I love you Lord my God<br/>I love you Lord my God<br/>Only because you loved me first<br/>Only because you loved me first.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come fire of love<br/>Come fire of love<br/>Burn in me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

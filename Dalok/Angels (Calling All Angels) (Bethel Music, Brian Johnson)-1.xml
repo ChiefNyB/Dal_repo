@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:33">
+  <properties>
+    <titles>
+      <title>Angels (Calling All Angels)</title>
+    </titles>
+    <authors>
+      <author>Bethel Music, Brian Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Calling all angels<br/>Calling the watchmen angels on the walls<br/>To come and sing with us</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hallelujah<br/>Hallelujah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Come sing that the Lord is good<br/>Come sing that His love endures<br/>Come sing that the Lord is good<br/>Hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

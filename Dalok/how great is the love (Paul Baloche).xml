@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:52">
+  <properties>
+    <titles>
+      <title>how great is the love</title>
+    </titles>
+    <authors>
+      <author>Paul Baloche</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That You love us<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, faithful King<br/>Lord with grateful hearts we sing<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>How great is the love<br/>How great is the love<br/>Of our Savior<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>The weight of the cross<br/>The curse of our shame<br/>You carried it all<br/>And rose from the grave<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thank You for the grace<br/>That has saved us<br/>You forgave us<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thank You for the way<br/>You have freed us<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>We have been ransomed<br/>We've been rescued<br/>We've been purchased<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>With the price of Your own life<br/>Thank You for the way<br/>That You love us<br/></lines>
+    </verse>
+  </lyrics>
+</song>

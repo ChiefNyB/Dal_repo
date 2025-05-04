@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Highest Price</title>
+    </titles>
+    <authors>
+      <author>Leeland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prince of Heaven, King of all<br/>He descended from His throne<br/>Into the world, The Son of God<br/>Was born in my frame<br/>He bore the cross,<br/>Despised the shame<br/>Clothed in sin,<br/>His robe was stained<br/>And by His blood,<br/>Now I am free, now I am saved<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For my Jesus paid the highest price<br/>The Lamb of God was crucified<br/>And He deserves my love,<br/>He deserves my life<br/>For Jesus paid the highest price<br/>Amen<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>{Oh, and there’s no greater sacrifice<br/>Lord, I’m laying down my life<br/>I surrender all,<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>All of Heaven held its breath<br/>And creation mourned His death<br/>But then Jesus rose<br/>And now that He lives,<br/>I am alive,<br/></lines>
+    </verse>
+  </lyrics>
+</song>

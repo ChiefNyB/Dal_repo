@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:43">
+  <properties>
+    <titles>
+      <title>Dance with me</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold You have come over the hills, upon the mountain<br/>To me, You will run<br/>My Beloved, You've captured my heart<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Won't You dance with me<br/>Oh, Lover of my soul<br/>To the song of all songs?<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>With You I will go<br/>You are my Love, You are my Fair One<br/>The winter has passed and the springtime has come<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Won't You dance with me<br/>Oh, Lover of my soul,<br/>To the song of all songs?<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Romance me<br/>Oh, Lover of my soul<br/>To the song of all songs<br/></lines>
+    </verse>
+  </lyrics>
+</song>

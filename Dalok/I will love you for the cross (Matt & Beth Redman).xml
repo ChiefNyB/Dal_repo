@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:54">
+  <properties>
+    <titles>
+      <title>I will love you for the cross</title>
+    </titles>
+    <authors>
+      <author>Matt &amp; Beth Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will love you for the cross<br/>And I will love you for the cost<br/>Man of sufferings<br/>Bringer of my peace<br/>You came into a world of shame<br/>And paid the price we could not pay<br/>Death that brought me life<br/>Blood that brought me home<br/>Death that brought me life<br/>Blood that brought me home<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I love you for the cross<br/>I'm overwhelmed by the mystery<br/>I love you for the cost<br/>That Jesus you would do this for me<br/>When you were broken, you were beaten,<br/>You were punished, I go free<br/>You were wounded and rejected<br/>In your mercy - I am healed<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus Christ the sinner's friend<br/>Does this kindness know no bounds<br/>With your precious blood you have purchased me<br/>Oh the mystery of the cross<br/>You were punished you were crushed<br/>But that punishment has become my peace<br/>Yes that punishment has become my peace<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>(By your wounds I am healed<br/>For the cross, for the cross, for the cross I thank you<br/>Oh Lord, for the cross, for the cross)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

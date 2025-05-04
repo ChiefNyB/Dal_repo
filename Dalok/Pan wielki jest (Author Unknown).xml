@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:05">
+  <properties>
+    <titles>
+      <title>Pan wielki jest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Miłość Swą dałeś nam,<br/>jesteś światłem w ciemności<br/>Serca w nas żyją znów<br/>w Tobie mamy nadzieję<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan wielki jest<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tchnąłeś w nas życia dar<br/>a więc wielbimy Cię<br/>wielbimy Cię<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tchnąłeś w nas życia dar<br/>a więc wielbimy Cię<br/>o Panie nasz<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pan wielki jest<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cała ziemia odda cześć<br/>zabrzmi pieśń skruszonych serc<br/>Pan wielki jest<br/></lines>
+    </verse>
+  </lyrics>
+</song>

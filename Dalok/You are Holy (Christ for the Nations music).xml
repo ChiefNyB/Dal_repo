@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>You are Holy</title>
+    </titles>
+    <authors>
+      <author>Christ for the Nations music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I saw the Lord<br/>seated on His throne<br/>He was clothed in glory,<br/>exalted high<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the train of His robe,<br/>filled the temple<br/>The angels circled round Him<br/>and they cried<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>You are holy, oh so holy,<br/>You are holy Lord of all<br/></lines>
+    </verse>
+  </lyrics>
+</song>

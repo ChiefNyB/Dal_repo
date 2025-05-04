@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:49">
+  <properties>
+    <titles>
+      <title>God with us</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are matchless in grace and mercy<br/>There is nowhere we can hide from Your love<br/>You are steadfast, never failing, You are faithful<br/>All creation is in awe of who You are<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the healer of the sick and the broken<br/>You are comfort for every heart in loss<br/>Our King and our Savior forever<br/>For eternity we will sing of all You've done<br/>For eternity we will sing of all You've done<br/>We sing<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>God with us, God for us<br/>Nothing can come against<br/>No one can stand between us<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your heart, it moves with compassion<br/>There is life, there is healing in Your love<br/>You're the Father, the Son, the Holy Spirit<br/>For eternity we will sing of all You've done<br/>We sing<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>God with us, God for us<br/>Nothing can come against<br/>No one can stand between us (x2)<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Where there was death, You brought life, Lord<br/>Where there was fear, You brought courage<br/>When I was afraid, You were with me<br/>And You lifted me up, and You lifted me up<br/></lines>
+    </verse>
+  </lyrics>
+</song>

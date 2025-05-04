@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:20">
+  <properties>
+    <titles>
+      <title>Your Love Changes Everything</title>
+    </titles>
+    <authors>
+      <author>United Pursuit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You spoke those words<br/>You spoke so tenderly<br/>Now I choose to believe<br/>You love me, You love me, You love me<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're taking me by the hand again<br/>Giving me strength to dance again<br/>'Cause Your love changes everything<br/>Your love changes everything<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my heart is frail<br/>And when I'm incomplete<br/>I will choose to receive<br/>You love me, You love me, You love me<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You never fail<br/>When I look at You<br/>You never fail<br/>And I trust in You<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>And You never let go<br/>You never let go of me<br/>You never let go<br/></lines>
+    </verse>
+  </lyrics>
+</song>

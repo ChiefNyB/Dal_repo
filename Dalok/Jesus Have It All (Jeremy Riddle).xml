@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:56">
+  <properties>
+    <titles>
+      <title>Jesus Have It All</title>
+    </titles>
+    <authors>
+      <author>Jeremy Riddle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus have my heart, my will, my soul<br/>Jesus have my hopes, my dreams, my world<br/>With I lay it down<br/>With joy I cast my crowns<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To you bring my praise, my lips, my song<br/>A living sacrifice as one reborn<br/>Your life is now my own<br/>Your will is what I want<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Jesus have it all <br/>Jesus have it all<br/>To you belongs the glory<br/>The praise of all the world</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Jesus have it all<br/>Jesus have it all<br/>All blessing and all honour<br/>All majesty and awe<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus have Your church, Your love, Your bride<br/>The joy for which you freely gave your life<br/>Radiant in white<br/>Washed and purified<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus have your worth, Your due, Your sum<br/>The praise of every nation, tribe and tongue<br/>Let all that has been made<br/>Glorify Your name<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus have it all <br/>Jesus have it all<br/>To you belongs the glory<br/>The praise of all the world</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Jesus have it all<br/>Jesus have it all<br/>All blessing and all honour<br/>All majesty and awe<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jesus have it all<br/>Jesus have it all</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All my days <br/>All my life<br/>Have it all</lines>
+    </verse>
+  </lyrics>
+</song>

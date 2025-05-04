@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:12">
+  <properties>
+    <titles>
+      <title>Stronger</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a Love that came for us<br/>Humbled to a sinner's cross<br/>You broke my shame and sinfulness<br/>You rose again victorious<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Faithfulness none can deny<br/>Through the storm and through the fire<br/>There is truth that sets me free<br/>Jesus Christ who lives in me<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are stronger, You are stronger<br/>Sin is broken, You have saved me<br/>It is written, Christ is risen<br/>Jesus You are Lord of all<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>No beginning and no end<br/>You're my hope and my defence<br/>You came to seek and save the lost<br/>You paid it all upon the cross<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let Your Name be lifted higher<br/>Be lifted higher<br/>Be lifted higher<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:51">
+  <properties>
+    <titles>
+      <title>Heart and Flesh</title>
+    </titles>
+    <authors>
+      <author>Leeland</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humbly I come to you now<br/>Thirsty for the living water<br/>My heart and my flesh cry out<br/>More of You</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Jesus You are all I want<br/>Jesus You are all my soul desires<br/>Jesus You are all I need</lines>
+    </verse>
+    <verse name="c1">
+      <lines>My heart and my flesh<br/>cry out for You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>My heart and my flesh cry out</lines>
+    </verse>
+    <verse name="o1">
+      <lines>My heart cries out for You, for You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:16">
+  <properties>
+    <titles>
+      <title>Waiting here for you</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If faith can move the mountains<br/>Let the mountains move<br/>We come with expectation<br/>We're waiting here for You<br/>Waiting here for You<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're the Lord of all creation<br/>And still You know my heart<br/>The author of salvation<br/>You've loved me from the start<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Waiting here for You<br/>With our hands lifted high in praise<br/>And it's You we adore<br/>Singing alleluia<br/>Alleluia<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are everything  You promised<br/>Your faithfulness is true<br/>And we're desperate for Your presence<br/>All we need is you<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Waiting here for You<br/>With our hands lifted high in praise<br/>And it's You we adore<br/>Singing alleluia<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluia, alleluia...<br/></lines>
+    </verse>
+    <verse name="v7">
+      <lines>Waiting here for You<br/>With our hands lifted high in praise<br/>And it's You we adore<br/>Singing alleluia<br/><chord name="x2"/><br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Waiting here for You<br/></lines>
+    </verse>
+    <verse name="v9">
+      <lines>And it's You we adore<br/>Singing alleluia<br/></lines>
+    </verse>
+  </lyrics>
+</song>

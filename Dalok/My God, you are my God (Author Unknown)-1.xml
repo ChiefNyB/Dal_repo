@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:11:01">
+  <properties>
+    <titles>
+      <title>My God, you are my God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God, you are my God<br/>I seek for you in the morning<br/>My soul, it thirsts for you<br/>I long for you in the weary land<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I have seen you in the holy place<br/>Beheld your power and your glory<br/>Because your love is more than life to me<br/>My lips will praise your name forever<br/>As long as I live<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>My soul is satisfied<br/>And in your name I will lift my hand<br/>My mouth will give you praise<br/>I sleep beneath the shadow of your wings<br/></lines>
+    </verse>
+  </lyrics>
+</song>

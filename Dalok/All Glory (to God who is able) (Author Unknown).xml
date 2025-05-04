@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:32">
+  <properties>
+    <titles>
+      <title>All Glory (to God who is able)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How great is Your love<br/>That never gives up on me<br/>Stronger than shame<br/>Carries me back to You<br/>Jesus, my Redeemer<br/>You have made a way<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>All glory to God who is able<br/>All power and praise<br/>Forever the earth will proclaim<br/>You are mighty, You are mighty<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>So great is Your love<br/>It keeps all its promises<br/>Unshakeable<br/>Eternity rests in Your hands<br/>Jesus, I surrender<br/>Lead me in Your ways<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lift Him higher, He is mighty<br/>Lift Him higher, He is God<br/></lines>
+    </verse>
+  </lyrics>
+</song>

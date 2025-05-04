@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.2" modifiedIn="OpenLP 3.1.2" modifiedDate="2025-04-17T16:10:42">
+  <properties>
+    <titles>
+      <title>Come, see this glorious light</title>
+    </titles>
+    <authors>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, see this glorious light<br/>As it shines on you,<br/>Bringing grace and peace<br/>To the depths of your soul.<br/>Come, see the wounds of love,<br/>Scars that make you whole,<br/>Blood that paid the price<br/>For the sins of the world.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the Light everlasting,<br/>He is the First and the Last.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessing and honour<br/>and glory and power,<br/>Blessing and honour<br/>and glory and power,<br/>Blessing and honour<br/>and glory and power<br/>To You, Lord,<br/>You're the King of the Ages.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Justice and truth<br/>are the marks of Your reign,<br/>Angels adore You,<br/>the Lamb who was slain,<br/>They're crying 'holy'<br/>again and again,<br/>Lord Jesus,<br/>You're the King of the Ages.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come, all you thirsty and poor,<br/>Come and feast on Him,<br/>That your souls may live<br/>And be satisfied.<br/>Come from the ends of the earth,<br/>Every tribe and tongue,<br/>Lift your voice and praise<br/>Your eternal Reward.<br/>He's the Desire of the nations,<br/>He is the Faithful and True.<br/></lines>
+    </verse>
+  </lyrics>
+</song>
