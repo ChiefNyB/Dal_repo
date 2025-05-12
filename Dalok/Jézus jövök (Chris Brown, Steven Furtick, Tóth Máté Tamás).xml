@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-05-12T09:18:58">
+  <properties>
+    <titles>
+      <title>Jézus jövök</title>
+      <title>Jesus I come</title>
+    </titles>
+    <authors>
+      <author>Steven Furtick</author>
+      <author>Chris Brown</author>
+      <author type="translation">Tóth Máté Tamás</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Szükségem van most Rád<br/>Kegyelmed rám talált<br/>Jézus jövök, Hozzád jövök<br/>Gyengén és sérülten<br/>A Te erőd állít fel<br/>Jézus jövök, Hozzád jövök</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Megváltva felkelek<br/>Nyitott Menny van felettem<br/>Nevednek örökké<br/>Dicsőséget zengek én</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Milyen nagy szeretet tisztítja népedet<br/>Jézus, jövök, Hozzád jövök<br/>Minden megtört helyen igazságod vezet<br/>Jézus, jövök, Hozzád jövök</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Drága Jézus<br/>Ahogy vagyok, jövök<br/>Halleluja<br/>Szereteted betölt</lines>
+    </verse>
+  </lyrics>
+</song>

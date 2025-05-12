@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-03-10T16:41:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2025-05-04T19:31:47">
   <properties>
     <titles>
       <title>Cor et Lumen mise</title>
     </titles>
-    <verseOrder>i1 v1 v2 v3 v2 v4 v2 v5 v2 b6 v7 b8 v9 v10 v11 v10 v12 v13 i14 b15 i16 b15</verseOrder>
+    <verseOrder>i1 v1 v2 v3 v2 v4 v2 v5 v2 b6 v7 v8 b8 v9 v10 v11 v10 v12 v13 i14 b15 i16 b15</verseOrder>
     <authors>
-      <author>unknown</author>
+      <author>Cor et Lumen Christi</author>
     </authors>
   </properties>
   <lyrics>
@@ -60,6 +60,9 @@
     </verse>
     <verse name="i16">
       <lines>P: Kelj fel, tündökölj, mert eljött világosságod, és az Úr dicsősége felragyogott fölötted! Nemzetek jönnek majd világosságodhoz, és királyok felragyogó fényedhez.<br/><br/>Most tehát, Urunk, tekints fenyegetéseikre, s add meg szolgáidnak, hogy teljes bizodalommal hirdessék igédet. Te pedig nyújtsd ki kezedet gyógyításokra, hogy jelek és csodák történjenek szent Fiadnak, Jézusnak neve által.<br/></lines>
+    </verse>
+    <verse name="v8">
+      <lines>Igéd Uram, fény a lelkemnek, fény a lelkemnek</lines>
     </verse>
   </lyrics>
 </song>
